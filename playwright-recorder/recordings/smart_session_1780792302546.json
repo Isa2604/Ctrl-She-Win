@@ -1,0 +1,14 @@
+{
+  "app": "MapOnce AI Smart Recorder",
+  "version": "0.2.0",
+  "createdAt": "2026-06-07T00:32:28.150Z",
+  "totalEvents": 1,
+  "events": [
+    {
+      "type": "goto",
+      "intent": "open_url",
+      "url": "https://www.walmart.com.mx/",
+      "timestamp": "2026-06-07T00:31:47.839Z"
+    }
+  ]
+}

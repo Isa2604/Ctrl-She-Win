@@ -1,0 +1,626 @@
+{
+  "app": "MapOnce AI Smart Recorder",
+  "version": "0.3.0",
+  "createdAt": "2026-06-07T03:53:11.286Z",
+  "totalEvents": 3,
+  "totalSnapshots": 3,
+  "siteMap": [
+    {
+      "url": "file:///C:/Users/isabe/Downloads/index.html",
+      "title": "Portal Empresarial",
+      "timestamp": "2026-06-07T03:50:14.074Z",
+      "counts": {
+        "buttons": 4,
+        "links": 0,
+        "fields": 0,
+        "tables": 0,
+        "headings": 0
+      },
+      "mainHeadings": []
+    },
+    {
+      "url": "file:///C:/Users/isabe/Downloads/index.html",
+      "title": "Portal Empresarial",
+      "timestamp": "2026-06-07T03:50:22.497Z",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 0,
+        "tables": 1,
+        "headings": 0
+      },
+      "mainHeadings": []
+    },
+    {
+      "url": "file:///C:/Users/isabe/Downloads/index.html",
+      "title": "Portal Empresarial",
+      "timestamp": "2026-06-07T03:50:28.227Z",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 0,
+        "tables": 1,
+        "headings": 0
+      },
+      "mainHeadings": []
+    }
+  ],
+  "pageSnapshots": [
+    {
+      "reason": "initial_load",
+      "url": "file:///C:/Users/isabe/Downloads/index.html",
+      "title": "Portal Empresarial",
+      "timestamp": "2026-06-07T03:50:14.074Z",
+      "language": "es",
+      "visibleTextPreview": "PE INGRESAR QUIÉNES SOMOS CONTACTO PORTAL EMPRESARIAL BIENVENIDOS Gestión integral de tu negocio INGRESAR AL SISTEMA →",
+      "counts": {
+        "buttons": 4,
+        "links": 0,
+        "fields": 0,
+        "tables": 0,
+        "headings": 0
+      },
+      "headings": [],
+      "buttons": [
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "INGRESAR",
+          "accessibleName": "INGRESAR",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "nav-tab active",
+          "css": "div#page-bienvenida > nav.nav-bienvenida > div.nav-tabs:nth-of-type(2) > button.nav-tab.active:nth-of-type(1)",
+          "intent": "enter_system"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "QUIÉNES SOMOS",
+          "accessibleName": "QUIÉNES SOMOS",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "nav-tab",
+          "css": "div#page-bienvenida > nav.nav-bienvenida > div.nav-tabs:nth-of-type(2) > button.nav-tab:nth-of-type(2)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "CONTACTO",
+          "accessibleName": "CONTACTO",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "nav-tab",
+          "css": "div#page-bienvenida > nav.nav-bienvenida > div.nav-tabs:nth-of-type(2) > button.nav-tab:nth-of-type(3)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "INGRESAR AL SISTEMA →",
+          "accessibleName": "INGRESAR AL SISTEMA →",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "hero-btn",
+          "css": "div#inicio-bienvenida > button.hero-btn",
+          "intent": "enter_system"
+        }
+      ],
+      "links": [],
+      "fields": [],
+      "tables": [],
+      "cards": [],
+      "sections": [
+        {
+          "tag": "div",
+          "id": "page-bienvenida",
+          "className": "page active",
+          "css": "div#page-bienvenida",
+          "textPreview": "PE INGRESAR QUIÉNES SOMOS CONTACTO PORTAL EMPRESARIAL BIENVENIDOS Gestión integral de tu negocio INGRESAR AL SISTEMA →"
+        },
+        {
+          "tag": "nav",
+          "id": "",
+          "className": "nav-bienvenida",
+          "css": "div#page-bienvenida > nav.nav-bienvenida",
+          "textPreview": "PE INGRESAR QUIÉNES SOMOS CONTACTO"
+        }
+      ]
+    },
+    {
+      "reason": "after_click_button",
+      "url": "file:///C:/Users/isabe/Downloads/index.html",
+      "title": "Portal Empresarial",
+      "timestamp": "2026-06-07T03:50:22.497Z",
+      "language": "es",
+      "visibleTextPreview": "PE Portal PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos Dashboard Admin Usuario SALIR PEDIDOS DEL MES 1,284 ↑ 12% vs mes anterior CLIENTES ACTIVOS 347 ↑ 5 nuevos esta semana PRODUCTOS EN CATÁLOGO 892 18 proveedores VENTAS TOTALES $4.2M ↑ 8.3% este trimestre Actividad Reciente ID CLIENTE PROVEEDOR MONTO FECHA ESTATUS #00412 Tienda El Sol Arca Continental $12,480.00 04/Jun/2026 ENTREGADO #00411 Super Norteño Barcel $7,350.00 04/Jun/2026 EN TRÁNSITO #00410 Abarrotes Mtz Sabritas $3,200.00 03/Jun/2026 ENTREGADO #00409 Distribuidora NL Grupo Peñafiel $9,800.00 03/Jun/2026 CANCELADO #00408 Mini Super Lomas Arca Continental $5,640.00 02/Jun/2026 ENTREGADO #00407 Tienda La Paz Barcel $2,900.00 02/Jun/2026 EN TRÁNSITO",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 0,
+        "tables": 1,
+        "headings": 0
+      },
+      "headings": [],
+      "buttons": [
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "SALIR",
+          "accessibleName": "SALIR",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "btn-salir",
+          "css": "div#page-inicio > div.main-content > div.topbar:nth-of-type(1) > div.topbar-right > button.btn-salir",
+          "intent": "logout_or_exit"
+        }
+      ],
+      "links": [],
+      "fields": [],
+      "tables": [
+        {
+          "index": 0,
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.table-wrap:nth-of-type(3) > table",
+          "headers": [
+            "ID",
+            "CLIENTE",
+            "PROVEEDOR",
+            "MONTO",
+            "FECHA",
+            "ESTATUS"
+          ],
+          "rowCount": 6,
+          "sampleRows": [
+            [
+              "#00412",
+              "Tienda El Sol",
+              "Arca Continental",
+              "$12,480.00",
+              "04/Jun/2026",
+              "ENTREGADO"
+            ],
+            [
+              "#00411",
+              "Super Norteño",
+              "Barcel",
+              "$7,350.00",
+              "04/Jun/2026",
+              "EN TRÁNSITO"
+            ],
+            [
+              "#00410",
+              "Abarrotes Mtz",
+              "Sabritas",
+              "$3,200.00",
+              "03/Jun/2026",
+              "ENTREGADO"
+            ],
+            [
+              "#00409",
+              "Distribuidora NL",
+              "Grupo Peñafiel",
+              "$9,800.00",
+              "03/Jun/2026",
+              "CANCELADO"
+            ],
+            [
+              "#00408",
+              "Mini Super Lomas",
+              "Arca Continental",
+              "$5,640.00",
+              "02/Jun/2026",
+              "ENTREGADO"
+            ],
+            [
+              "#00407",
+              "Tienda La Paz",
+              "Barcel",
+              "$2,900.00",
+              "02/Jun/2026",
+              "EN TRÁNSITO"
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "selector": ".kpi-card",
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.kpi-grid:nth-of-type(1) > div.kpi-card:nth-of-type(1)",
+          "text": "PEDIDOS DEL MES 1,284 ↑ 12% vs mes anterior"
+        },
+        {
+          "selector": ".kpi-card",
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.kpi-grid:nth-of-type(1) > div.kpi-card:nth-of-type(2)",
+          "text": "CLIENTES ACTIVOS 347 ↑ 5 nuevos esta semana"
+        },
+        {
+          "selector": ".kpi-card",
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.kpi-grid:nth-of-type(1) > div.kpi-card:nth-of-type(3)",
+          "text": "PRODUCTOS EN CATÁLOGO 892 18 proveedores"
+        },
+        {
+          "selector": ".kpi-card",
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.kpi-grid:nth-of-type(1) > div.kpi-card:nth-of-type(4)",
+          "text": "VENTAS TOTALES $4.2M ↑ 8.3% este trimestre"
+        },
+        {
+          "selector": "[class*=\"card\"]",
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.kpi-grid:nth-of-type(1) > div.kpi-card:nth-of-type(1)",
+          "text": "PEDIDOS DEL MES 1,284 ↑ 12% vs mes anterior"
+        },
+        {
+          "selector": "[class*=\"card\"]",
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.kpi-grid:nth-of-type(1) > div.kpi-card:nth-of-type(2)",
+          "text": "CLIENTES ACTIVOS 347 ↑ 5 nuevos esta semana"
+        },
+        {
+          "selector": "[class*=\"card\"]",
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.kpi-grid:nth-of-type(1) > div.kpi-card:nth-of-type(3)",
+          "text": "PRODUCTOS EN CATÁLOGO 892 18 proveedores"
+        },
+        {
+          "selector": "[class*=\"card\"]",
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.kpi-grid:nth-of-type(1) > div.kpi-card:nth-of-type(4)",
+          "text": "VENTAS TOTALES $4.2M ↑ 8.3% este trimestre"
+        }
+      ],
+      "sections": [
+        {
+          "tag": "div",
+          "id": "page-inicio",
+          "className": "page active",
+          "css": "div#page-inicio",
+          "textPreview": "PE Portal PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos Dashboard Admin Usuario SALIR PEDIDOS DEL MES 1,284 ↑ 12% vs mes anterior CLIENTES ACTIVOS 347 ↑ 5 nuev"
+        },
+        {
+          "tag": "aside",
+          "id": "",
+          "className": "sidebar",
+          "css": "div#page-inicio > aside.sidebar",
+          "textPreview": "PE Portal PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos"
+        },
+        {
+          "tag": "nav",
+          "id": "",
+          "className": "sidebar-nav",
+          "css": "div#page-inicio > aside.sidebar > nav.sidebar-nav",
+          "textPreview": "PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos"
+        },
+        {
+          "tag": "div",
+          "id": "",
+          "className": "topbar",
+          "css": "div#page-inicio > div.main-content > div.topbar:nth-of-type(1)",
+          "textPreview": "Dashboard Admin Usuario SALIR"
+        },
+        {
+          "tag": "div",
+          "id": "",
+          "className": "content-area",
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2)",
+          "textPreview": "PEDIDOS DEL MES 1,284 ↑ 12% vs mes anterior CLIENTES ACTIVOS 347 ↑ 5 nuevos esta semana PRODUCTOS EN CATÁLOGO 892 18 proveedores VENTAS TOTALES $4.2M ↑ 8.3% este trimestre Actividad Reciente ID CLIENTE PROVEEDOR MONTO FECHA ESTATUS #00412 Tienda El S"
+        }
+      ]
+    },
+    {
+      "reason": "after_click_element",
+      "url": "file:///C:/Users/isabe/Downloads/index.html",
+      "title": "Portal Empresarial",
+      "timestamp": "2026-06-07T03:50:28.227Z",
+      "language": "es",
+      "visibleTextPreview": "PE Portal PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos Pedidos Admin Usuario SALIR Listado de Pedidos PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Arca Continental Coca Cola 2L ARCA-CC2L-001 01/Jun/2026 240 $22.50 $5,400.00 Barcel Papas Habanero 45g BARC-PH45-002 01/Jun/2026 600 $12.00 $7,200.00 Sabritas Sabritas Original 60g SABR-SO60-003 02/Jun/2026 480 $13.50 $6,480.00 Grupo Peñafiel Agua Peñafiel 1.5L GPEF-AP15-004 02/Jun/2026 360 $14.00 $5,040.00 Arca Continental Sprite 2L ARCA-SP2L-005 02/Jun/2026 180 $20.00 $3,600.00 Barcel Takis Fuego 100g BARC-TF10-006 03/Jun/2026 300 $18.00 $5,400.00 Sabritas Cheetos Flamin' Hot 50g SABR-CF50-007 03/Jun/2026 420 $11.00 $4,620.00 Grupo Peñafiel Sidral Mundet 355ml GPEF-SM35-008 03/Jun/2026 720 $9.50 $6,840.00 Arca Continental Fanta Naranja 600ml ARCA-FN60-009 04/Jun/2026 540 $16.00 $8,640.00 Barcel Chips Chile Limón 45g BARC-CCL45-010 04/Jun/2026 360 $11.50 $4,140.00 Sabritas Rancheritos 40g SABR-RA40-011 04/Jun/2026 500 $10.00 $5,000.00 Grupo Peñafiel Garci Crespo Mineral 500ml GPEF-GC50-012 05/Jun/2026 800 $8.00 $6",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 0,
+        "tables": 1,
+        "headings": 0
+      },
+      "headings": [],
+      "buttons": [
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "SALIR",
+          "accessibleName": "SALIR",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "btn-salir",
+          "css": "div#page-pedidos > div.main-content > div.topbar:nth-of-type(1) > div.topbar-right > button.btn-salir",
+          "intent": "logout_or_exit"
+        }
+      ],
+      "links": [],
+      "fields": [],
+      "tables": [
+        {
+          "index": 0,
+          "css": "div#page-pedidos > div.main-content > div.content-area:nth-of-type(2) > div.table-wrap:nth-of-type(2) > table",
+          "headers": [
+            "PROVEEDOR",
+            "PRODUCTO",
+            "SKU",
+            "FECHA DEL PEDIDO",
+            "UNIDADES",
+            "PRECIO UNITARIO",
+            "PRECIO FINAL"
+          ],
+          "rowCount": 12,
+          "sampleRows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ]
+        }
+      ],
+      "cards": [],
+      "sections": [
+        {
+          "tag": "div",
+          "id": "page-pedidos",
+          "className": "page active",
+          "css": "div#page-pedidos",
+          "textPreview": "PE Portal PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos Pedidos Admin Usuario SALIR Listado de Pedidos PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO "
+        },
+        {
+          "tag": "aside",
+          "id": "",
+          "className": "sidebar",
+          "css": "div#page-pedidos > aside.sidebar",
+          "textPreview": "PE Portal PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos"
+        },
+        {
+          "tag": "nav",
+          "id": "",
+          "className": "sidebar-nav",
+          "css": "div#page-pedidos > aside.sidebar > nav.sidebar-nav",
+          "textPreview": "PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos"
+        },
+        {
+          "tag": "div",
+          "id": "",
+          "className": "topbar",
+          "css": "div#page-pedidos > div.main-content > div.topbar:nth-of-type(1)",
+          "textPreview": "Pedidos Admin Usuario SALIR"
+        },
+        {
+          "tag": "div",
+          "id": "",
+          "className": "content-area",
+          "css": "div#page-pedidos > div.main-content > div.content-area:nth-of-type(2)",
+          "textPreview": "Listado de Pedidos PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Arca Continental Coca Cola 2L ARCA-CC2L-001 01/Jun/2026 240 $22.50 $5,400.00 Barcel Papas Habanero 45g BARC-PH45-002 01/Jun/2026 600 $12.00 $7,200.00 Sab"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "type": "goto",
+      "intent": "open_url",
+      "url": "file:///C:/Users/isabe/Downloads/index.html",
+      "timestamp": "2026-06-07T03:50:14.083Z"
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/index.html",
+      "timestamp": "2026-06-07T03:50:21.423Z",
+      "value": "",
+      "tag": "button",
+      "text": "INGRESAR AL SISTEMA →",
+      "accessibleName": "INGRESAR AL SISTEMA →",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "hero-btn",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#inicio-bienvenida > button.hero-btn",
+      "intent": "click_button",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "INGRESAR AL SISTEMA →",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "INGRESAR AL SISTEMA →",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "INGRESAR AL SISTEMA →",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#inicio-bienvenida > button.hero-btn",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/index.html",
+      "timestamp": "2026-06-07T03:50:27.317Z",
+      "value": "",
+      "tag": "div",
+      "text": "◉ Pedidos",
+      "accessibleName": "◉ Pedidos",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "sidebar-item",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-inicio > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(8)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "◉ Pedidos",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-inicio > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(8)",
+          "score": 40
+        }
+      ]
+    }
+  ]
+}

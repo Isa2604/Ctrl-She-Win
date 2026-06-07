@@ -1,0 +1,1492 @@
+{
+  "app": "MapOnce AI Smart Recorder",
+  "version": "0.3.0",
+  "createdAt": "2026-06-07T04:23:04.565Z",
+  "totalEvents": 26,
+  "totalSnapshots": 3,
+  "siteMap": [
+    {
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "title": "Portal de Proveedores",
+      "timestamp": "2026-06-07T04:20:24.736Z",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 0,
+        "tables": 0,
+        "headings": 0
+      },
+      "mainHeadings": []
+    },
+    {
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "title": "Portal de Proveedores",
+      "timestamp": "2026-06-07T04:20:30.583Z",
+      "counts": {
+        "buttons": 6,
+        "links": 1,
+        "fields": 0,
+        "tables": 0,
+        "headings": 0
+      },
+      "mainHeadings": []
+    },
+    {
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "title": "Portal de Proveedores",
+      "timestamp": "2026-06-07T04:20:42.386Z",
+      "counts": {
+        "buttons": 6,
+        "links": 1,
+        "fields": 0,
+        "tables": 0,
+        "headings": 0
+      },
+      "mainHeadings": []
+    }
+  ],
+  "pageSnapshots": [
+    {
+      "reason": "initial_load",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "title": "Portal de Proveedores",
+      "timestamp": "2026-06-07T04:20:24.736Z",
+      "language": "es",
+      "visibleTextPreview": "Portal BIENVENIDO DE VUELTA ¡Qué gusto tenerte de vuelta! Accede a tu información de proveedor Ingresar →",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 0,
+        "tables": 0,
+        "headings": 0
+      },
+      "headings": [],
+      "buttons": [
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Ingresar →",
+          "accessibleName": "Ingresar →",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "btn-primary",
+          "css": "div#page-bienvenida > div.bienvenida-card > button.btn-primary",
+          "intent": "enter_system"
+        }
+      ],
+      "links": [],
+      "fields": [],
+      "tables": [],
+      "cards": [
+        {
+          "selector": "[class*=\"card\"]",
+          "css": "div#page-bienvenida > div.bienvenida-card",
+          "text": "Portal BIENVENIDO DE VUELTA ¡Qué gusto tenerte de vuelta! Accede a tu información de proveedor Ingresar →"
+        }
+      ],
+      "sections": [
+        {
+          "tag": "div",
+          "id": "page-bienvenida",
+          "className": "page active",
+          "css": "div#page-bienvenida",
+          "textPreview": "Portal BIENVENIDO DE VUELTA ¡Qué gusto tenerte de vuelta! Accede a tu información de proveedor Ingresar →"
+        }
+      ]
+    },
+    {
+      "reason": "after_click_button",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "title": "Portal de Proveedores",
+      "timestamp": "2026-06-07T04:20:30.583Z",
+      "language": "es",
+      "visibleTextPreview": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión Sesión activa: Arca Continental — Proveedor verificado AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO +52 81 8151 1400 UBICACIÓN Monterrey, Nuevo León, México RFC ACO-831116-GX3 SEGMENTO Bebidas carbonatadas y agua ESTATUS ● Activo",
+      "counts": {
+        "buttons": 6,
+        "links": 1,
+        "fields": 0,
+        "tables": 0,
+        "headings": 0
+      },
+      "headings": [],
+      "buttons": [
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Inicio",
+          "accessibleName": "Inicio",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab active",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab.active:nth-of-type(1)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Consultar datos",
+          "accessibleName": "Consultar datos",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(2)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Estadísticas",
+          "accessibleName": "Estadísticas",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(3)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Información adicional",
+          "accessibleName": "Información adicional",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(4)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Soporte",
+          "accessibleName": "Soporte",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(5)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Cerrar sesión",
+          "accessibleName": "Cerrar sesión",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "btn-salir",
+          "css": "div#page-inicio > nav.topnav > div.topnav-right:nth-of-type(3) > button.btn-salir",
+          "intent": "logout_or_exit"
+        }
+      ],
+      "links": [
+        {
+          "tag": "a",
+          "role": "link",
+          "text": "clientes@arcacontinental.com",
+          "accessibleName": "clientes@arcacontinental.com",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "#",
+          "value": "",
+          "className": "",
+          "css": "div#tab-inicio > div.user-card > div.user-fields:nth-of-type(2) > div.user-field:nth-of-type(1) > div.val > a",
+          "intent": "click_link"
+        }
+      ],
+      "fields": [],
+      "tables": [],
+      "cards": [
+        {
+          "selector": "[class*=\"card\"]",
+          "css": "div#tab-inicio > div.user-card",
+          "text": "AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO +52 81 8151 1400 UBICACIÓN Monterrey, Nuevo León, México RFC ACO-831116-GX3 SEGMENTO Bebidas carbonatadas y agua ESTATUS ● Activo"
+        },
+        {
+          "selector": "[class*=\"card\"]",
+          "css": "div#tab-inicio > div.user-card > div.user-card-header:nth-of-type(1)",
+          "text": "AC Arca Continental Proveedor · Cuenta Corporativa"
+        }
+      ],
+      "sections": [
+        {
+          "tag": "div",
+          "id": "page-inicio",
+          "className": "page active",
+          "css": "div#page-inicio",
+          "textPreview": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión Sesión activa: Arca Continental — Proveedor verificado AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO "
+        },
+        {
+          "tag": "nav",
+          "id": "",
+          "className": "topnav",
+          "css": "div#page-inicio > nav.topnav",
+          "textPreview": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión"
+        }
+      ]
+    },
+    {
+      "reason": "after_click_element",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "title": "Portal de Proveedores",
+      "timestamp": "2026-06-07T04:20:42.386Z",
+      "language": "es",
+      "visibleTextPreview": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión Sesión activa: Arca Continental — Proveedor verificado AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO +52 81 8151 1400 UBICACIÓN Monterrey, Nuevo León, México RFC ACO-831116-GX3 SEGMENTO Bebidas carbonatadas y agua ESTATUS ● Activo",
+      "counts": {
+        "buttons": 6,
+        "links": 1,
+        "fields": 0,
+        "tables": 0,
+        "headings": 0
+      },
+      "headings": [],
+      "buttons": [
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Inicio",
+          "accessibleName": "Inicio",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab active",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab.active:nth-of-type(1)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Consultar datos",
+          "accessibleName": "Consultar datos",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(2)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Estadísticas",
+          "accessibleName": "Estadísticas",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(3)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Información adicional",
+          "accessibleName": "Información adicional",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(4)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Soporte",
+          "accessibleName": "Soporte",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(5)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Cerrar sesión",
+          "accessibleName": "Cerrar sesión",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "btn-salir",
+          "css": "div#page-inicio > nav.topnav > div.topnav-right:nth-of-type(3) > button.btn-salir",
+          "intent": "logout_or_exit"
+        }
+      ],
+      "links": [
+        {
+          "tag": "a",
+          "role": "link",
+          "text": "clientes@arcacontinental.com",
+          "accessibleName": "clientes@arcacontinental.com",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "#",
+          "value": "",
+          "className": "",
+          "css": "div#tab-inicio > div.user-card > div.user-fields:nth-of-type(2) > div.user-field:nth-of-type(1) > div.val > a",
+          "intent": "click_link"
+        }
+      ],
+      "fields": [],
+      "tables": [],
+      "cards": [
+        {
+          "selector": "[class*=\"card\"]",
+          "css": "div#tab-inicio > div.user-card",
+          "text": "AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO +52 81 8151 1400 UBICACIÓN Monterrey, Nuevo León, México RFC ACO-831116-GX3 SEGMENTO Bebidas carbonatadas y agua ESTATUS ● Activo"
+        },
+        {
+          "selector": "[class*=\"card\"]",
+          "css": "div#tab-inicio > div.user-card > div.user-card-header:nth-of-type(1)",
+          "text": "AC Arca Continental Proveedor · Cuenta Corporativa"
+        }
+      ],
+      "sections": [
+        {
+          "tag": "div",
+          "id": "page-inicio",
+          "className": "page active",
+          "css": "div#page-inicio",
+          "textPreview": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión Sesión activa: Arca Continental — Proveedor verificado AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO "
+        },
+        {
+          "tag": "nav",
+          "id": "",
+          "className": "topnav",
+          "css": "div#page-inicio > nav.topnav",
+          "textPreview": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "type": "goto",
+      "intent": "open_url",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:20:24.741Z"
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:20:29.681Z",
+      "value": "",
+      "tag": "button",
+      "text": "Ingresar →",
+      "accessibleName": "Ingresar →",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "btn-primary",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-bienvenida > div.bienvenida-card > button.btn-primary",
+      "intent": "click_button",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Ingresar →",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Ingresar →",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Ingresar →",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-bienvenida > div.bienvenida-card > button.btn-primary",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:20:41.313Z",
+      "value": "",
+      "tag": "div",
+      "text": "AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO +52 81 8151 1400 UBICACIÓN Monterrey, Nuevo León, México RFC ACO-831116-",
+      "accessibleName": "AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO +52 81 8151 1400 UBICACIÓN Monterrey, Nuevo León, México RFC ACO-831116-",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "user-card",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#tab-inicio > div.user-card",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO +52 81 8151 1400 UBICACIÓN Monterrey, Nuevo León, México RFC ACO-831116-",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#tab-inicio > div.user-card",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:20:56.344Z",
+      "value": "",
+      "tag": "button",
+      "text": "Consultar datos",
+      "accessibleName": "Consultar datos",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "topnav-tab",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(2)",
+      "intent": "click_button",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Consultar datos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Consultar datos",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Consultar datos",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(2)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:21:03.559Z",
+      "value": "",
+      "tag": "button",
+      "text": "Estadísticas",
+      "accessibleName": "Estadísticas",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "topnav-tab",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-consultar > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(3)",
+      "intent": "click_button",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Estadísticas",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Estadísticas",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Estadísticas",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-consultar > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(3)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:21:09.409Z",
+      "value": "",
+      "tag": "button",
+      "text": "Consultar datos",
+      "accessibleName": "Consultar datos",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "topnav-tab active",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab.active:nth-of-type(2)",
+      "intent": "click_button",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Consultar datos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Consultar datos",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Consultar datos",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab.active:nth-of-type(2)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:21:12.191Z",
+      "value": "",
+      "tag": "div",
+      "text": "Pedidos registrados 12 registros · Actualizado 06/Jun/2026",
+      "accessibleName": "Pedidos registrados 12 registros · Actualizado 06/Jun/2026",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "table-toolbar",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > div.table-toolbar",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Pedidos registrados 12 registros · Actualizado 06/Jun/2026",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > div.table-toolbar",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:21:21.004Z",
+      "value": "",
+      "tag": "th",
+      "text": "PROVEEDOR",
+      "accessibleName": "PROVEEDOR",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table > thead > tr > th:nth-of-type(1)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "PROVEEDOR",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table > thead > tr > th:nth-of-type(1)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:21:25.429Z",
+      "value": "",
+      "tag": "td",
+      "text": "Arca Continental",
+      "accessibleName": "Arca Continental",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Arca Continental",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:21:27.941Z",
+      "value": "",
+      "tag": "div",
+      "text": "Pedidos registrados 12 registros · Actualizado 06/Jun/2026",
+      "accessibleName": "Pedidos registrados 12 registros · Actualizado 06/Jun/2026",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "table-toolbar",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > div.table-toolbar",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Pedidos registrados 12 registros · Actualizado 06/Jun/2026",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > div.table-toolbar",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:21:32.181Z",
+      "value": "",
+      "tag": "td",
+      "text": "Takis Fuego 100g",
+      "accessibleName": "Takis Fuego 100g",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table > tbody > tr:nth-of-type(6) > td:nth-of-type(2)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Takis Fuego 100g",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table > tbody > tr:nth-of-type(6) > td:nth-of-type(2)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:22:17.390Z",
+      "value": "",
+      "tag": "td",
+      "text": "Arca Continental",
+      "accessibleName": "Arca Continental",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Arca Continental",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:22:18.830Z",
+      "value": "",
+      "tag": "th",
+      "text": "PROVEEDOR",
+      "accessibleName": "PROVEEDOR",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table > thead > tr > th:nth-of-type(1)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "PROVEEDOR",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table > thead > tr > th:nth-of-type(1)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:22:20.112Z",
+      "value": "",
+      "tag": "span",
+      "text": "Sabritas",
+      "accessibleName": "Sabritas",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "proveedor-tag",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table > tbody > tr:nth-of-type(7) > td:nth-of-type(1) > span.proveedor-tag",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Sabritas",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table > tbody > tr:nth-of-type(7) > td:nth-of-type(1) > span.proveedor-tag",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:22:20.960Z",
+      "value": "",
+      "tag": "td",
+      "text": "Takis Fuego 100g",
+      "accessibleName": "Takis Fuego 100g",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table > tbody > tr:nth-of-type(6) > td:nth-of-type(2)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Takis Fuego 100g",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table > tbody > tr:nth-of-type(6) > td:nth-of-type(2)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:22:28.587Z",
+      "value": "",
+      "tag": "button",
+      "text": "Información adicional",
+      "accessibleName": "Información adicional",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "topnav-tab",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-consultar > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(4)",
+      "intent": "click_button",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Información adicional",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Información adicional",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Información adicional",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-consultar > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(4)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:22:30.717Z",
+      "value": "",
+      "tag": "button",
+      "text": "Soporte",
+      "accessibleName": "Soporte",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "topnav-tab",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(5)",
+      "intent": "click_button",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Soporte",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Soporte",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Soporte",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(5)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:22:33.950Z",
+      "value": "",
+      "tag": "button",
+      "text": "Información adicional",
+      "accessibleName": "Información adicional",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "topnav-tab",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(4)",
+      "intent": "click_button",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Información adicional",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Información adicional",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Información adicional",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(4)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:22:35.083Z",
+      "value": "",
+      "tag": "button",
+      "text": "Soporte",
+      "accessibleName": "Soporte",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "topnav-tab",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(5)",
+      "intent": "click_button",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Soporte",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Soporte",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Soporte",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(5)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:22:35.742Z",
+      "value": "",
+      "tag": "div",
+      "text": "Mesa de ayuda soporte.proveedores@portal.mx · Lunes a viernes 8:00–18:00 hrs. Documentación del portal Consulta el manual de usuario y las preguntas frecuentes en el centro de ayud",
+      "accessibleName": "Mesa de ayuda soporte.proveedores@portal.mx · Lunes a viernes 8:00–18:00 hrs. Documentación del portal Consulta el manual de usuario y las preguntas frecuentes en el centro de ayud",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "page-content",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-inicio > div.page-content:nth-of-type(2)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Mesa de ayuda soporte.proveedores@portal.mx · Lunes a viernes 8:00–18:00 hrs. Documentación del portal Consulta el manual de usuario y las preguntas frecuentes en el centro de ayud",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-inicio > div.page-content:nth-of-type(2)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:22:39.282Z",
+      "value": "",
+      "tag": "button",
+      "text": "Información adicional",
+      "accessibleName": "Información adicional",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "topnav-tab",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(4)",
+      "intent": "click_button",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Información adicional",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Información adicional",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Información adicional",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(4)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:22:40.445Z",
+      "value": "",
+      "tag": "div",
+      "text": "Condiciones comerciales Crédito a 30 días. Descuento por volumen aplicable a partir de 500 unidades por SKU. Precio acordado en contrato vigente hasta diciembre 2026. Horarios de e",
+      "accessibleName": "Condiciones comerciales Crédito a 30 días. Descuento por volumen aplicable a partir de 500 unidades por SKU. Precio acordado en contrato vigente hasta diciembre 2026. Horarios de e",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "page-content",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-inicio > div.page-content:nth-of-type(2)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Condiciones comerciales Crédito a 30 días. Descuento por volumen aplicable a partir de 500 unidades por SKU. Precio acordado en contrato vigente hasta diciembre 2026. Horarios de e",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-inicio > div.page-content:nth-of-type(2)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:22:42.111Z",
+      "value": "",
+      "tag": "button",
+      "text": "Estadísticas",
+      "accessibleName": "Estadísticas",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "topnav-tab",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(3)",
+      "intent": "click_button",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Estadísticas",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Estadísticas",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Estadísticas",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(3)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:22:43.678Z",
+      "value": "",
+      "tag": "div",
+      "text": "PEDIDOS ESTE MES 284 ↑ 9% vs mes anterior UNIDADES DESPACHADAS 18,420 ↑ 4.2% este trimestre VENTAS TOTALES $2.1M ↓ 1.1% vs año anterior SKUS ACTIVOS 47 3 nuevos este período TASA D",
+      "accessibleName": "PEDIDOS ESTE MES 284 ↑ 9% vs mes anterior UNIDADES DESPACHADAS 18,420 ↑ 4.2% este trimestre VENTAS TOTALES $2.1M ↓ 1.1% vs año anterior SKUS ACTIVOS 47 3 nuevos este período TASA D",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "page-content",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-inicio > div.page-content:nth-of-type(2)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "PEDIDOS ESTE MES 284 ↑ 9% vs mes anterior UNIDADES DESPACHADAS 18,420 ↑ 4.2% este trimestre VENTAS TOTALES $2.1M ↓ 1.1% vs año anterior SKUS ACTIVOS 47 3 nuevos este período TASA D",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-inicio > div.page-content:nth-of-type(2)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:22:45.920Z",
+      "value": "",
+      "tag": "button",
+      "text": "Consultar datos",
+      "accessibleName": "Consultar datos",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "topnav-tab",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(2)",
+      "intent": "click_button",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Consultar datos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Consultar datos",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Consultar datos",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(2)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:22:47.548Z",
+      "value": "",
+      "tag": "div",
+      "text": "Consultar datos Inicio / Consultar datos Pedidos registrados 12 registros · Actualizado 06/Jun/2026 PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Ar",
+      "accessibleName": "Consultar datos Inicio / Consultar datos Pedidos registrados 12 registros · Actualizado 06/Jun/2026 PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Ar",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "page-content",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-consultar > div.page-content:nth-of-type(2)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Consultar datos Inicio / Consultar datos Pedidos registrados 12 registros · Actualizado 06/Jun/2026 PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Ar",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-consultar > div.page-content:nth-of-type(2)",
+          "score": 40
+        }
+      ]
+    }
+  ]
+}

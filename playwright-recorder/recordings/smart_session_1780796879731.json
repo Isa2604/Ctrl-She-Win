@@ -1,0 +1,297 @@
+{
+  "app": "MapOnce AI Smart Recorder",
+  "version": "0.2.0",
+  "createdAt": "2026-06-07T01:48:46.733Z",
+  "totalEvents": 8,
+  "events": [
+    {
+      "type": "goto",
+      "intent": "open_url",
+      "url": "file:///C:/Users/isabe/Downloads/index.html",
+      "timestamp": "2026-06-07T01:48:05.493Z"
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/index.html",
+      "timestamp": "2026-06-07T01:48:08.207Z",
+      "value": "",
+      "tag": "button",
+      "text": "INGRESAR AL SISTEMA →",
+      "accessibleName": "INGRESAR AL SISTEMA →",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "hero-btn",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#inicio-bienvenida > button.hero-btn",
+      "intent": "click_button",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "INGRESAR AL SISTEMA →",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "INGRESAR AL SISTEMA →",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "INGRESAR AL SISTEMA →",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#inicio-bienvenida > button.hero-btn",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/index.html",
+      "timestamp": "2026-06-07T01:48:12.916Z",
+      "value": "",
+      "tag": "div",
+      "text": "◉ Datos de Contacto",
+      "accessibleName": "◉ Datos de Contacto",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "sidebar-item",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-inicio > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(3)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "◉ Datos de Contacto",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-inicio > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(3)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/index.html",
+      "timestamp": "2026-06-07T01:48:19.269Z",
+      "value": "",
+      "tag": "div",
+      "text": "◉ Pedidos",
+      "accessibleName": "◉ Pedidos",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "sidebar-item",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-inicio > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(8)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "◉ Pedidos",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-inicio > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(8)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/index.html",
+      "timestamp": "2026-06-07T01:48:27.429Z",
+      "value": "",
+      "tag": "div",
+      "text": "◈ Productos",
+      "accessibleName": "◈ Productos",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "sidebar-item",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-pedidos > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(7)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "◈ Productos",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-pedidos > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(7)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/index.html",
+      "timestamp": "2026-06-07T01:48:31.704Z",
+      "value": "",
+      "tag": "div",
+      "text": "◉ Clientes",
+      "accessibleName": "◉ Clientes",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "sidebar-item",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-pedidos > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(6)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "◉ Clientes",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-pedidos > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(6)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/index.html",
+      "timestamp": "2026-06-07T01:48:36.542Z",
+      "value": "",
+      "tag": "div",
+      "text": "◈ Usuarios",
+      "accessibleName": "◈ Usuarios",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "sidebar-item",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-pedidos > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(5)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "◈ Usuarios",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-pedidos > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(5)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/index.html",
+      "timestamp": "2026-06-07T01:48:40.261Z",
+      "value": "",
+      "tag": "button",
+      "text": "SALIR",
+      "accessibleName": "SALIR",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "btn-salir",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-pedidos > div.main-content > div.topbar:nth-of-type(1) > div.topbar-right > button.btn-salir",
+      "intent": "click_button",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "SALIR",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "SALIR",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "SALIR",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-pedidos > div.main-content > div.topbar:nth-of-type(1) > div.topbar-right > button.btn-salir",
+          "score": 40
+        }
+      ]
+    }
+  ]
+}

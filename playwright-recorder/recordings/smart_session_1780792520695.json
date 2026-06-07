@@ -1,0 +1,4112 @@
+{
+  "app": "MapOnce AI Smart Recorder",
+  "version": "0.2.0",
+  "createdAt": "2026-06-07T00:36:59.478Z",
+  "totalEvents": 70,
+  "events": [
+    {
+      "type": "goto",
+      "intent": "open_url",
+      "url": "https://fasthouse.site/",
+      "timestamp": "2026-06-07T00:35:37.090Z"
+    },
+    {
+      "type": "navigation",
+      "intent": "navigate",
+      "url": "https://fasthouse.site/productos/",
+      "timestamp": "2026-06-07T00:35:38.271Z"
+    },
+    {
+      "type": "navigation",
+      "intent": "navigate",
+      "url": "https://fasthouse.site/product-category/hamburguesas/",
+      "timestamp": "2026-06-07T00:35:40.881Z"
+    },
+    {
+      "type": "click",
+      "url": "https://fasthouse.site/product-category/hamburguesas/",
+      "timestamp": "2026-06-07T00:35:43.160Z",
+      "value": "",
+      "tag": "span",
+      "text": "Añadir al carrito",
+      "accessibleName": "Añadir al carrito",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "dataProductId": "",
+      "nearbyText": "Añadir al carrito",
+      "css": "main#wp--skip-link--target > div.wp-block-query.is-layout-flow:nth-of-type(4) > ul.columns-4.products-block-post-template > li.wp-block-post.post-434:nth-of-type(1) > div.wp-block-button.wc-block-components-product-button:nth-of-type(3) > button.wp-block-button__link.wp-element-button > span",
+      "intent": "ecommerce_add_to_cart",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Añadir al carrito",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "main#wp--skip-link--target > div.wp-block-query.is-layout-flow:nth-of-type(4) > ul.columns-4.products-block-post-template > li.wp-block-post.post-434:nth-of-type(1) > div.wp-block-button.wc-block-components-product-button:nth-of-type(3) > button.wp-block-button__link.wp-element-button > span",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "navigation",
+      "intent": "navigate",
+      "url": "https://fasthouse.site/product/chicken-bacon/",
+      "timestamp": "2026-06-07T00:35:51.174Z"
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/product/chicken-bacon/",
+      "timestamp": "2026-06-07T00:35:56.550Z",
+      "value": "2",
+      "tag": "input",
+      "text": "2",
+      "accessibleName": "Cantidad de productos",
+      "labelText": "Chicken Bacon cantidad",
+      "id": "quantity_6a24bce643568",
+      "name": "quantity",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Cantidad de productos",
+      "href": "",
+      "typeAttr": "number",
+      "dataProductId": "",
+      "nearbyText": "Chicken Bacon cantidad",
+      "css": "input#quantity_6a24bce643568",
+      "intent": "fill_number",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#quantity_6a24bce643568",
+          "raw": "quantity_6a24bce643568",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"quantity\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Cantidad de productos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "2",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Cantidad de productos\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"number\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "2",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#quantity_6a24bce643568",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "click",
+      "url": "https://fasthouse.site/product/chicken-bacon/",
+      "timestamp": "2026-06-07T00:35:56.684Z",
+      "value": "",
+      "tag": "input",
+      "text": "2",
+      "accessibleName": "Cantidad de productos",
+      "labelText": "Chicken Bacon cantidad",
+      "id": "quantity_6a24bce643568",
+      "name": "quantity",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Cantidad de productos",
+      "href": "",
+      "typeAttr": "number",
+      "dataProductId": "",
+      "nearbyText": "Chicken Bacon cantidad",
+      "css": "input#quantity_6a24bce643568",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#quantity_6a24bce643568",
+          "raw": "quantity_6a24bce643568",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"quantity\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Cantidad de productos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "2",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Cantidad de productos\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"number\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "2",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#quantity_6a24bce643568",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/product/chicken-bacon/",
+      "timestamp": "2026-06-07T00:35:56.909Z",
+      "value": "3",
+      "tag": "input",
+      "text": "3",
+      "accessibleName": "Cantidad de productos",
+      "labelText": "Chicken Bacon cantidad",
+      "id": "quantity_6a24bce643568",
+      "name": "quantity",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Cantidad de productos",
+      "href": "",
+      "typeAttr": "number",
+      "dataProductId": "",
+      "nearbyText": "Chicken Bacon cantidad",
+      "css": "input#quantity_6a24bce643568",
+      "intent": "fill_number",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#quantity_6a24bce643568",
+          "raw": "quantity_6a24bce643568",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"quantity\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Cantidad de productos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "3",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Cantidad de productos\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"number\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "3",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#quantity_6a24bce643568",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "click",
+      "url": "https://fasthouse.site/product/chicken-bacon/",
+      "timestamp": "2026-06-07T00:35:56.953Z",
+      "value": "",
+      "tag": "input",
+      "text": "3",
+      "accessibleName": "Cantidad de productos",
+      "labelText": "Chicken Bacon cantidad",
+      "id": "quantity_6a24bce643568",
+      "name": "quantity",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Cantidad de productos",
+      "href": "",
+      "typeAttr": "number",
+      "dataProductId": "",
+      "nearbyText": "Chicken Bacon cantidad",
+      "css": "input#quantity_6a24bce643568",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#quantity_6a24bce643568",
+          "raw": "quantity_6a24bce643568",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"quantity\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Cantidad de productos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "3",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Cantidad de productos\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"number\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "3",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#quantity_6a24bce643568",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/product/chicken-bacon/",
+      "timestamp": "2026-06-07T00:35:57.216Z",
+      "value": "4",
+      "tag": "input",
+      "text": "4",
+      "accessibleName": "Cantidad de productos",
+      "labelText": "Chicken Bacon cantidad",
+      "id": "quantity_6a24bce643568",
+      "name": "quantity",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Cantidad de productos",
+      "href": "",
+      "typeAttr": "number",
+      "dataProductId": "",
+      "nearbyText": "Chicken Bacon cantidad",
+      "css": "input#quantity_6a24bce643568",
+      "intent": "fill_number",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#quantity_6a24bce643568",
+          "raw": "quantity_6a24bce643568",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"quantity\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Cantidad de productos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "4",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Cantidad de productos\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"number\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "4",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#quantity_6a24bce643568",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "click",
+      "url": "https://fasthouse.site/product/chicken-bacon/",
+      "timestamp": "2026-06-07T00:35:57.329Z",
+      "value": "",
+      "tag": "input",
+      "text": "4",
+      "accessibleName": "Cantidad de productos",
+      "labelText": "Chicken Bacon cantidad",
+      "id": "quantity_6a24bce643568",
+      "name": "quantity",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Cantidad de productos",
+      "href": "",
+      "typeAttr": "number",
+      "dataProductId": "",
+      "nearbyText": "Chicken Bacon cantidad",
+      "css": "input#quantity_6a24bce643568",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#quantity_6a24bce643568",
+          "raw": "quantity_6a24bce643568",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"quantity\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Cantidad de productos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "4",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Cantidad de productos\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"number\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "4",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#quantity_6a24bce643568",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "modal_detected",
+      "intent": "modal_detected",
+      "url": "https://fasthouse.site/product/chicken-bacon/",
+      "timestamp": "2026-06-07T00:36:06.172Z",
+      "modalTitle": "Tu carrito (items: 4)",
+      "modalText": "Tu carrito (items: 4) Products in cart Chicken Bacon $95.00 Hamburguesa con pechuga de pollo empanizada con tocino, pan brioche, lechuga, catsup, mayonesa, mostaza y… − ＋ $380.00 S",
+      "buttons": [
+        {
+          "text": "",
+          "href": "https://fasthouse.site/product/chicken-bacon/",
+          "css": "div.wc-block-mini-cart__items.wp-block-woocommerce-mini-cart-items-block:nth-of-type(2) > div.wc-block-mini-cart__products-table.wp-block-woocommerce-mini-cart-products-table-block > table.wc-block-cart-items.wc-block-mini-cart-items > tbody > tr.wc-block-cart-items__row > td.wc-block-cart-item__image:nth-of-type(1) > a",
+          "tag": "a"
+        },
+        {
+          "text": "Chicken Bacon",
+          "href": "https://fasthouse.site/product/chicken-bacon/",
+          "css": "div.wc-block-mini-cart__products-table.wp-block-woocommerce-mini-cart-products-table-block > table.wc-block-cart-items.wc-block-mini-cart-items > tbody > tr.wc-block-cart-items__row > td.wc-block-cart-item__product:nth-of-type(2) > div.wc-block-cart-item__wrap > a.wc-block-components-product-name",
+          "tag": "a"
+        },
+        {
+          "text": "−",
+          "href": "",
+          "css": "tbody > tr.wc-block-cart-items__row > td.wc-block-cart-item__product:nth-of-type(2) > div.wc-block-cart-item__wrap > div.wc-block-cart-item__quantity:nth-of-type(4) > div.wc-block-components-quantity-selector > button.wc-block-components-quantity-selector__button.wc-block-components-quantity-selector__button--minus:nth-of-type(1)",
+          "tag": "button"
+        },
+        {
+          "text": "＋",
+          "href": "",
+          "css": "tbody > tr.wc-block-cart-items__row > td.wc-block-cart-item__product:nth-of-type(2) > div.wc-block-cart-item__wrap > div.wc-block-cart-item__quantity:nth-of-type(4) > div.wc-block-components-quantity-selector > button.wc-block-components-quantity-selector__button.wc-block-components-quantity-selector__button--plus:nth-of-type(2)",
+          "tag": "button"
+        },
+        {
+          "text": "Ver mi carro de compra",
+          "href": "https://fasthouse.site/cart/",
+          "css": "div.wc-block-components-drawer__content > div.wc-block-mini-cart__template-part > div.wp-block-woocommerce-mini-cart-contents > div.wp-block-woocommerce-filled-mini-cart-contents-block:nth-of-type(2) > div.wc-block-mini-cart__footer.wp-block-woocommerce-mini-cart-footer-block:nth-of-type(3) > div.wc-block-mini-cart__footer-actions:nth-of-type(2) > a.wc-block-components-button.wp-element-button:nth-of-type(1)",
+          "tag": "a"
+        },
+        {
+          "text": "Ir al pago",
+          "href": "https://fasthouse.site/checkout/",
+          "css": "div.wc-block-components-drawer__content > div.wc-block-mini-cart__template-part > div.wp-block-woocommerce-mini-cart-contents > div.wp-block-woocommerce-filled-mini-cart-contents-block:nth-of-type(2) > div.wc-block-mini-cart__footer.wp-block-woocommerce-mini-cart-footer-block:nth-of-type(3) > div.wc-block-mini-cart__footer-actions:nth-of-type(2) > a.wc-block-components-button.wp-element-button:nth-of-type(2)",
+          "tag": "a"
+        }
+      ],
+      "css": "html.yes-js.js_active > body.wp-singular.product-template-default > div.wc-block-components-drawer__screen-overlay.wc-block-components-drawer__screen-overlay--with-slide-out:nth-of-type(3) > div.wc-block-mini-cart__drawer.wc-block-components-drawer"
+    },
+    {
+      "type": "navigation",
+      "intent": "navigate",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:10.229Z"
+    },
+    {
+      "type": "click",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:12.478Z",
+      "value": "",
+      "tag": "input",
+      "text": "",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:13.440Z",
+      "value": "i",
+      "tag": "input",
+      "text": "i",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "i",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "i",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:13.770Z",
+      "value": "is",
+      "tag": "input",
+      "text": "isa",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isa",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isa",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:13.820Z",
+      "value": "isa",
+      "tag": "input",
+      "text": "isa",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isa",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isa",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:14.337Z",
+      "value": "isab",
+      "tag": "input",
+      "text": "isab",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isab",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isab",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:14.418Z",
+      "value": "isabe",
+      "tag": "input",
+      "text": "isabela",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isabela",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isabela",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:14.543Z",
+      "value": "isabel",
+      "tag": "input",
+      "text": "isabela",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isabela",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isabela",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:14.674Z",
+      "value": "isabela",
+      "tag": "input",
+      "text": "isabela",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isabela",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isabela",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:15.249Z",
+      "value": "isabela_",
+      "tag": "input",
+      "text": "isabela_",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isabela_",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isabela_",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:16.720Z",
+      "value": "isabela_2",
+      "tag": "input",
+      "text": "isabela_26",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isabela_26",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isabela_26",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:16.831Z",
+      "value": "isabela_26",
+      "tag": "input",
+      "text": "isabela_26",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isabela_26",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isabela_26",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:17.591Z",
+      "value": "isabela_26@",
+      "tag": "input",
+      "text": "isabela_26@",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isabela_26@",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isabela_26@",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:18.497Z",
+      "value": "isabela_26@l",
+      "tag": "input",
+      "text": "isabela_26@l",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isabela_26@l",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isabela_26@l",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:18.688Z",
+      "value": "isabela_26@li",
+      "tag": "input",
+      "text": "isabela_26@live",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isabela_26@live",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isabela_26@live",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:18.935Z",
+      "value": "isabela_26@liv",
+      "tag": "input",
+      "text": "isabela_26@live",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isabela_26@live",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isabela_26@live",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:19.002Z",
+      "value": "isabela_26@live",
+      "tag": "input",
+      "text": "isabela_26@live",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isabela_26@live",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isabela_26@live",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:19.243Z",
+      "value": "isabela_26@live.",
+      "tag": "input",
+      "text": "isabela_26@live.",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isabela_26@live.",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isabela_26@live.",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:19.449Z",
+      "value": "isabela_26@live.c",
+      "tag": "input",
+      "text": "isabela_26@live.co",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isabela_26@live.co",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isabela_26@live.co",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:19.576Z",
+      "value": "isabela_26@live.co",
+      "tag": "input",
+      "text": "isabela_26@live.co",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isabela_26@live.co",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isabela_26@live.co",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:19.783Z",
+      "value": "isabela_26@live.com",
+      "tag": "input",
+      "text": "isabela_26@live.com",
+      "accessibleName": "Dirección de correo electrónico",
+      "labelText": "Dirección de correo electrónico",
+      "id": "email",
+      "name": "contact_email",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Dirección de correo electrónico",
+      "href": "",
+      "typeAttr": "email",
+      "dataProductId": "",
+      "nearbyText": "Dirección de correo electrónico",
+      "css": "input#email",
+      "intent": "fill_email",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#email",
+          "raw": "email",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"contact_email\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Dirección de correo electrónico",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "isabela_26@live.com",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Dirección de correo electrónico\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"email\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "isabela_26@live.com",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#email",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "click",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:20.984Z",
+      "value": "",
+      "tag": "input",
+      "text": "",
+      "accessibleName": "Nombre",
+      "labelText": "Nombre",
+      "id": "billing-first_name",
+      "name": "billing_first_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Nombre",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Nombre",
+      "css": "input#billing-first_name",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-first_name",
+          "raw": "billing-first_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_first_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Nombre",
+          "score": 88
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Nombre\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-first_name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:22.751Z",
+      "value": "i",
+      "tag": "input",
+      "text": "i",
+      "accessibleName": "Nombre",
+      "labelText": "Nombre",
+      "id": "billing-first_name",
+      "name": "billing_first_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Nombre",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Nombre",
+      "css": "input#billing-first_name",
+      "intent": "fill_name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-first_name",
+          "raw": "billing-first_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_first_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Nombre",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "i",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Nombre\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "i",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-first_name",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:23.083Z",
+      "value": "iS",
+      "tag": "input",
+      "text": "iSA",
+      "accessibleName": "Nombre",
+      "labelText": "Nombre",
+      "id": "billing-first_name",
+      "name": "billing_first_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Nombre",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Nombre",
+      "css": "input#billing-first_name",
+      "intent": "fill_name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-first_name",
+          "raw": "billing-first_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_first_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Nombre",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "iSA",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Nombre\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "iSA",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-first_name",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:23.154Z",
+      "value": "iSA",
+      "tag": "input",
+      "text": "iSA",
+      "accessibleName": "Nombre",
+      "labelText": "Nombre",
+      "id": "billing-first_name",
+      "name": "billing_first_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Nombre",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Nombre",
+      "css": "input#billing-first_name",
+      "intent": "fill_name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-first_name",
+          "raw": "billing-first_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_first_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Nombre",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "iSA",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Nombre\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "iSA",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-first_name",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:23.655Z",
+      "value": "iSAB",
+      "tag": "input",
+      "text": "iSAB",
+      "accessibleName": "Nombre",
+      "labelText": "Nombre",
+      "id": "billing-first_name",
+      "name": "billing_first_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Nombre",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Nombre",
+      "css": "input#billing-first_name",
+      "intent": "fill_name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-first_name",
+          "raw": "billing-first_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_first_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Nombre",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "iSAB",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Nombre\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "iSAB",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-first_name",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:23.746Z",
+      "value": "iSABE",
+      "tag": "input",
+      "text": "iSABELA",
+      "accessibleName": "Nombre",
+      "labelText": "Nombre",
+      "id": "billing-first_name",
+      "name": "billing_first_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Nombre",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Nombre",
+      "css": "input#billing-first_name",
+      "intent": "fill_name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-first_name",
+          "raw": "billing-first_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_first_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Nombre",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "iSABELA",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Nombre\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "iSABELA",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-first_name",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:23.901Z",
+      "value": "iSABEL",
+      "tag": "input",
+      "text": "iSABELA",
+      "accessibleName": "Nombre",
+      "labelText": "Nombre",
+      "id": "billing-first_name",
+      "name": "billing_first_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Nombre",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Nombre",
+      "css": "input#billing-first_name",
+      "intent": "fill_name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-first_name",
+          "raw": "billing-first_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_first_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Nombre",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "iSABELA",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Nombre\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "iSABELA",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-first_name",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:24.042Z",
+      "value": "iSABELA",
+      "tag": "input",
+      "text": "iSABELA",
+      "accessibleName": "Nombre",
+      "labelText": "Nombre",
+      "id": "billing-first_name",
+      "name": "billing_first_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Nombre",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Nombre",
+      "css": "input#billing-first_name",
+      "intent": "fill_name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-first_name",
+          "raw": "billing-first_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_first_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Nombre",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "iSABELA",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Nombre\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "iSABELA",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-first_name",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "click",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:25.236Z",
+      "value": "",
+      "tag": "label",
+      "text": "Apellidos",
+      "accessibleName": "Apellidos",
+      "labelText": "Apellidos",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "dataProductId": "",
+      "nearbyText": "Apellidos",
+      "css": "div#billing > div.wc-block-components-text-input.wc-block-components-address-form__last_name:nth-of-type(2) > label",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Apellidos",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#billing > div.wc-block-components-text-input.wc-block-components-address-form__last_name:nth-of-type(2) > label",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:25.238Z",
+      "value": "",
+      "tag": "input",
+      "text": "",
+      "accessibleName": "Apellidos",
+      "labelText": "Apellidos",
+      "id": "billing-last_name",
+      "name": "billing_last_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Apellidos",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Apellidos",
+      "css": "input#billing-last_name",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-last_name",
+          "raw": "billing-last_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_last_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Apellidos",
+          "score": 88
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Apellidos\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-last_name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:25.800Z",
+      "value": "m",
+      "tag": "input",
+      "text": "m",
+      "accessibleName": "Apellidos",
+      "labelText": "Apellidos",
+      "id": "billing-last_name",
+      "name": "billing_last_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Apellidos",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Apellidos",
+      "css": "input#billing-last_name",
+      "intent": "fill_name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-last_name",
+          "raw": "billing-last_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_last_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Apellidos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "m",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Apellidos\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "m",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-last_name",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:26.022Z",
+      "value": "mO",
+      "tag": "input",
+      "text": "mO",
+      "accessibleName": "Apellidos",
+      "labelText": "Apellidos",
+      "id": "billing-last_name",
+      "name": "billing_last_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Apellidos",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Apellidos",
+      "css": "input#billing-last_name",
+      "intent": "fill_name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-last_name",
+          "raw": "billing-last_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_last_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Apellidos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "mO",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Apellidos\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "mO",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-last_name",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:26.387Z",
+      "value": "mON",
+      "tag": "input",
+      "text": "mON",
+      "accessibleName": "Apellidos",
+      "labelText": "Apellidos",
+      "id": "billing-last_name",
+      "name": "billing_last_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Apellidos",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Apellidos",
+      "css": "input#billing-last_name",
+      "intent": "fill_name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-last_name",
+          "raw": "billing-last_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_last_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Apellidos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "mON",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Apellidos\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "mON",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-last_name",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:26.715Z",
+      "value": "mONT",
+      "tag": "input",
+      "text": "mONTE",
+      "accessibleName": "Apellidos",
+      "labelText": "Apellidos",
+      "id": "billing-last_name",
+      "name": "billing_last_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Apellidos",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Apellidos",
+      "css": "input#billing-last_name",
+      "intent": "fill_name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-last_name",
+          "raw": "billing-last_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_last_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Apellidos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "mONTE",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Apellidos\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "mONTE",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-last_name",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:26.805Z",
+      "value": "mONTE",
+      "tag": "input",
+      "text": "mONTE",
+      "accessibleName": "Apellidos",
+      "labelText": "Apellidos",
+      "id": "billing-last_name",
+      "name": "billing_last_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Apellidos",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Apellidos",
+      "css": "input#billing-last_name",
+      "intent": "fill_name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-last_name",
+          "raw": "billing-last_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_last_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Apellidos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "mONTE",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Apellidos\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "mONTE",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-last_name",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:27.061Z",
+      "value": "mONTEM",
+      "tag": "input",
+      "text": "mONTEMA",
+      "accessibleName": "Apellidos",
+      "labelText": "Apellidos",
+      "id": "billing-last_name",
+      "name": "billing_last_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Apellidos",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Apellidos",
+      "css": "input#billing-last_name",
+      "intent": "fill_name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-last_name",
+          "raw": "billing-last_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_last_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Apellidos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "mONTEMA",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Apellidos\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "mONTEMA",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-last_name",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:27.177Z",
+      "value": "mONTEMA",
+      "tag": "input",
+      "text": "mONTEMA",
+      "accessibleName": "Apellidos",
+      "labelText": "Apellidos",
+      "id": "billing-last_name",
+      "name": "billing_last_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Apellidos",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Apellidos",
+      "css": "input#billing-last_name",
+      "intent": "fill_name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-last_name",
+          "raw": "billing-last_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_last_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Apellidos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "mONTEMA",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Apellidos\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "mONTEMA",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-last_name",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:27.334Z",
+      "value": "mONTEMAY",
+      "tag": "input",
+      "text": "mONTEMAYOR",
+      "accessibleName": "Apellidos",
+      "labelText": "Apellidos",
+      "id": "billing-last_name",
+      "name": "billing_last_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Apellidos",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Apellidos",
+      "css": "input#billing-last_name",
+      "intent": "fill_name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-last_name",
+          "raw": "billing-last_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_last_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Apellidos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "mONTEMAYOR",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Apellidos\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "mONTEMAYOR",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-last_name",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:27.507Z",
+      "value": "mONTEMAYO",
+      "tag": "input",
+      "text": "mONTEMAYOR",
+      "accessibleName": "Apellidos",
+      "labelText": "Apellidos",
+      "id": "billing-last_name",
+      "name": "billing_last_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Apellidos",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Apellidos",
+      "css": "input#billing-last_name",
+      "intent": "fill_name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-last_name",
+          "raw": "billing-last_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_last_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Apellidos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "mONTEMAYOR",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Apellidos\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "mONTEMAYOR",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-last_name",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:27.642Z",
+      "value": "mONTEMAYOR",
+      "tag": "input",
+      "text": "mONTEMAYOR",
+      "accessibleName": "Apellidos",
+      "labelText": "Apellidos",
+      "id": "billing-last_name",
+      "name": "billing_last_name",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Apellidos",
+      "href": "",
+      "typeAttr": "text",
+      "dataProductId": "",
+      "nearbyText": "Apellidos",
+      "css": "input#billing-last_name",
+      "intent": "fill_name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-last_name",
+          "raw": "billing-last_name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_last_name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Apellidos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "mONTEMAYOR",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Apellidos\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "mONTEMAYOR",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-last_name",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "click",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:28.911Z",
+      "value": "",
+      "tag": "input",
+      "text": "",
+      "accessibleName": "Teléfono",
+      "labelText": "Teléfono",
+      "id": "billing-phone",
+      "name": "billing_phone",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Teléfono",
+      "href": "",
+      "typeAttr": "tel",
+      "dataProductId": "",
+      "nearbyText": "Teléfono",
+      "css": "input#billing-phone",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-phone",
+          "raw": "billing-phone",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_phone\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Teléfono",
+          "score": 88
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Teléfono\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"tel\"]",
+          "score": 76
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-phone",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:30.077Z",
+      "value": "8",
+      "tag": "input",
+      "text": "8",
+      "accessibleName": "Teléfono",
+      "labelText": "Teléfono",
+      "id": "billing-phone",
+      "name": "billing_phone",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Teléfono",
+      "href": "",
+      "typeAttr": "tel",
+      "dataProductId": "",
+      "nearbyText": "Teléfono",
+      "css": "input#billing-phone",
+      "intent": "fill_phone",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-phone",
+          "raw": "billing-phone",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_phone\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Teléfono",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "8",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Teléfono\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"tel\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "8",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-phone",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:30.368Z",
+      "value": "81",
+      "tag": "input",
+      "text": "81",
+      "accessibleName": "Teléfono",
+      "labelText": "Teléfono",
+      "id": "billing-phone",
+      "name": "billing_phone",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Teléfono",
+      "href": "",
+      "typeAttr": "tel",
+      "dataProductId": "",
+      "nearbyText": "Teléfono",
+      "css": "input#billing-phone",
+      "intent": "fill_phone",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-phone",
+          "raw": "billing-phone",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_phone\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Teléfono",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "81",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Teléfono\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"tel\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "81",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-phone",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:30.559Z",
+      "value": "812",
+      "tag": "input",
+      "text": "8126",
+      "accessibleName": "Teléfono",
+      "labelText": "Teléfono",
+      "id": "billing-phone",
+      "name": "billing_phone",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Teléfono",
+      "href": "",
+      "typeAttr": "tel",
+      "dataProductId": "",
+      "nearbyText": "Teléfono",
+      "css": "input#billing-phone",
+      "intent": "fill_phone",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-phone",
+          "raw": "billing-phone",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_phone\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Teléfono",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "8126",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Teléfono\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"tel\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "8126",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-phone",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:30.747Z",
+      "value": "8126",
+      "tag": "input",
+      "text": "8126",
+      "accessibleName": "Teléfono",
+      "labelText": "Teléfono",
+      "id": "billing-phone",
+      "name": "billing_phone",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Teléfono",
+      "href": "",
+      "typeAttr": "tel",
+      "dataProductId": "",
+      "nearbyText": "Teléfono",
+      "css": "input#billing-phone",
+      "intent": "fill_phone",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-phone",
+          "raw": "billing-phone",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_phone\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Teléfono",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "8126",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Teléfono\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"tel\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "8126",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-phone",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:30.993Z",
+      "value": "81267",
+      "tag": "input",
+      "text": "812679",
+      "accessibleName": "Teléfono",
+      "labelText": "Teléfono",
+      "id": "billing-phone",
+      "name": "billing_phone",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Teléfono",
+      "href": "",
+      "typeAttr": "tel",
+      "dataProductId": "",
+      "nearbyText": "Teléfono",
+      "css": "input#billing-phone",
+      "intent": "fill_phone",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-phone",
+          "raw": "billing-phone",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_phone\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Teléfono",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "812679",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Teléfono\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"tel\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "812679",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-phone",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:31.206Z",
+      "value": "812679",
+      "tag": "input",
+      "text": "812679",
+      "accessibleName": "Teléfono",
+      "labelText": "Teléfono",
+      "id": "billing-phone",
+      "name": "billing_phone",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Teléfono",
+      "href": "",
+      "typeAttr": "tel",
+      "dataProductId": "",
+      "nearbyText": "Teléfono",
+      "css": "input#billing-phone",
+      "intent": "fill_phone",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-phone",
+          "raw": "billing-phone",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_phone\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Teléfono",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "812679",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Teléfono\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"tel\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "812679",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-phone",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:31.448Z",
+      "value": "8126799",
+      "tag": "input",
+      "text": "8126799",
+      "accessibleName": "Teléfono",
+      "labelText": "Teléfono",
+      "id": "billing-phone",
+      "name": "billing_phone",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Teléfono",
+      "href": "",
+      "typeAttr": "tel",
+      "dataProductId": "",
+      "nearbyText": "Teléfono",
+      "css": "input#billing-phone",
+      "intent": "fill_phone",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-phone",
+          "raw": "billing-phone",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_phone\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Teléfono",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "8126799",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Teléfono\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"tel\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "8126799",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-phone",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:31.681Z",
+      "value": "81267994",
+      "tag": "input",
+      "text": "812679940",
+      "accessibleName": "Teléfono",
+      "labelText": "Teléfono",
+      "id": "billing-phone",
+      "name": "billing_phone",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Teléfono",
+      "href": "",
+      "typeAttr": "tel",
+      "dataProductId": "",
+      "nearbyText": "Teléfono",
+      "css": "input#billing-phone",
+      "intent": "fill_phone",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-phone",
+          "raw": "billing-phone",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_phone\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Teléfono",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "812679940",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Teléfono\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"tel\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "812679940",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-phone",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:31.937Z",
+      "value": "812679940",
+      "tag": "input",
+      "text": "812679940",
+      "accessibleName": "Teléfono",
+      "labelText": "Teléfono",
+      "id": "billing-phone",
+      "name": "billing_phone",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Teléfono",
+      "href": "",
+      "typeAttr": "tel",
+      "dataProductId": "",
+      "nearbyText": "Teléfono",
+      "css": "input#billing-phone",
+      "intent": "fill_phone",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-phone",
+          "raw": "billing-phone",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_phone\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Teléfono",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "812679940",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Teléfono\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"tel\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "812679940",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-phone",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "fill",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:32.382Z",
+      "value": "8126799403",
+      "tag": "input",
+      "text": "8126799403",
+      "accessibleName": "Teléfono",
+      "labelText": "Teléfono",
+      "id": "billing-phone",
+      "name": "billing_phone",
+      "role": "textbox",
+      "placeholder": "",
+      "ariaLabel": "Teléfono",
+      "href": "",
+      "typeAttr": "tel",
+      "dataProductId": "",
+      "nearbyText": "Teléfono",
+      "css": "input#billing-phone",
+      "intent": "fill_phone",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-phone",
+          "raw": "billing-phone",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_phone\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Teléfono",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "8126799403",
+          "score": 86
+        },
+        {
+          "strategy": "aria_label",
+          "selector": "[aria-label=\"Teléfono\"]",
+          "score": 85
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"tel\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "8126799403",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-phone",
+          "score": 40
+        }
+      ],
+      "valueStored": true,
+      "sensitive": false
+    },
+    {
+      "type": "click",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:35.406Z",
+      "value": "",
+      "tag": "label",
+      "text": "Get order updates on whatsapp",
+      "accessibleName": "Get order updates on whatsapp",
+      "labelText": "Get order updates on whatsapp",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "dataProductId": "",
+      "nearbyText": "Get order updates on whatsapp",
+      "css": "div#billing > div.wc-block-components-checkbox.wc-block-components-address-form__namespace-woom_notification:nth-of-type(5) > label",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Get order updates on whatsapp",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#billing > div.wc-block-components-checkbox.wc-block-components-address-form__namespace-woom_notification:nth-of-type(5) > label",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:35.408Z",
+      "value": "",
+      "tag": "input",
+      "text": "",
+      "accessibleName": "Get order updates on whatsapp",
+      "labelText": "Get order updates on whatsapp",
+      "id": "billing-namespace-woom_notification",
+      "name": "billing_namespace/woom_notification",
+      "role": "checkbox",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "checkbox",
+      "dataProductId": "",
+      "nearbyText": "Get order updates on whatsapp",
+      "css": "input#billing-namespace-woom_notification",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-namespace-woom_notification",
+          "raw": "billing-namespace-woom_notification",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_namespace/woom_notification\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "checkbox",
+          "name": "Get order updates on whatsapp",
+          "score": 88
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"checkbox\"]",
+          "score": 76
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-namespace-woom_notification",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "check",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:35.414Z",
+      "value": true,
+      "tag": "input",
+      "text": "",
+      "accessibleName": "Get order updates on whatsapp",
+      "labelText": "Get order updates on whatsapp",
+      "id": "billing-namespace-woom_notification",
+      "name": "billing_namespace/woom_notification",
+      "role": "checkbox",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "checkbox",
+      "dataProductId": "",
+      "nearbyText": "Get order updates on whatsapp",
+      "css": "input#billing-namespace-woom_notification",
+      "intent": "check_option",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#billing-namespace-woom_notification",
+          "raw": "billing-namespace-woom_notification",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"billing_namespace/woom_notification\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "checkbox",
+          "name": "Get order updates on whatsapp",
+          "score": 88
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"checkbox\"]",
+          "score": 76
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#billing-namespace-woom_notification",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "https://fasthouse.site/checkout/",
+      "timestamp": "2026-06-07T00:36:41.054Z",
+      "value": "",
+      "tag": "div",
+      "text": "Realizar pedido",
+      "accessibleName": "Realizar pedido",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "dataProductId": "",
+      "nearbyText": "Realizar pedido",
+      "css": "div.wc-block-components-main.wc-block-checkout__main:nth-of-type(2) > form.wc-block-components-form.wc-block-checkout__form > div.wc-block-checkout__actions.wp-block-woocommerce-checkout-actions-block:nth-of-type(5) > div.wc-block-checkout__actions_row.wc-block-checkout__actions_row--justify-flex-end:nth-of-type(4) > button.wc-block-components-button.wp-element-button > div.wc-block-components-button__text > div.wc-block-components-checkout-place-order-button__text",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Realizar pedido",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div.wc-block-components-main.wc-block-checkout__main:nth-of-type(2) > form.wc-block-components-form.wc-block-checkout__form > div.wc-block-checkout__actions.wp-block-woocommerce-checkout-actions-block:nth-of-type(5) > div.wc-block-checkout__actions_row.wc-block-checkout__actions_row--justify-flex-end:nth-of-type(4) > button.wc-block-components-button.wp-element-button > div.wc-block-components-button__text > div.wc-block-components-checkout-place-order-button__text",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "navigation",
+      "intent": "navigate",
+      "url": "https://fasthouse.site/checkout/order-received/3254/?key=wc_order_XyvLSOtjUYZIQ",
+      "timestamp": "2026-06-07T00:36:43.984Z"
+    },
+    {
+      "type": "click",
+      "url": "https://fasthouse.site/checkout/order-received/3254/?key=wc_order_XyvLSOtjUYZIQ",
+      "timestamp": "2026-06-07T00:36:53.172Z",
+      "value": "",
+      "tag": "main",
+      "text": "Pedido recibido Gracias. Tu pedido ha sido recibido. Order #: 3254 Fecha: 6 junio, 2026 Total: $380.00 Email: isabela_26@live.com Payment: Pago en sucursal (Efectivo/Tarjeta) DETAL",
+      "accessibleName": "Pedido recibido Gracias. Tu pedido ha sido recibido. Order #: 3254 Fecha: 6 junio, 2026 Total: $380.00 Email: isabela_26@live.com Payment: Pago en sucursal (Efectivo/Tarjeta) DETAL",
+      "labelText": "",
+      "id": "wp--skip-link--target",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "dataProductId": "",
+      "nearbyText": "Pedido recibido Gracias. Tu pedido ha sido recibido. Order #: 3254 Fecha: 6 junio, 2026 Total: $380.00 Email: isabela_26@live.com Payment: Pago en sucursal (Efectivo/Tarjeta) DETAL",
+      "css": "main#wp--skip-link--target",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#wp--skip-link--target",
+          "raw": "wp--skip-link--target",
+          "score": 96
+        },
+        {
+          "strategy": "text",
+          "selector": "Pedido recibido Gracias. Tu pedido ha sido recibido. Order #: 3254 Fecha: 6 junio, 2026 Total: $380.00 Email: isabela_26@live.com Payment: Pago en sucursal (Efectivo/Tarjeta) DETAL",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "main#wp--skip-link--target",
+          "score": 40
+        }
+      ]
+    }
+  ]
+}

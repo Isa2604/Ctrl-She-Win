@@ -1,0 +1,5176 @@
+{
+  "app": "MapOnce AI Smart Replay",
+  "version": "0.4.0",
+  "createdAt": "2026-06-07T05:00:35.391Z",
+  "replayOf": {
+    "app": "MapOnce AI Smart Recorder",
+    "version": "0.3.0",
+    "createdAt": "2026-06-07T04:11:09.549Z",
+    "file": "C:\\Users\\isabe\\OneDrive - Universidad Autonoma de Nuevo León\\CARRERA SEMESTRE 10\\Ctrl-She-Win\\playwright-recorder\\recordings\\smart_session_1780805428129.json",
+    "totalEvents": 8
+  },
+  "totalEvents": 8,
+  "totalSnapshots": 4,
+  "totalErrors": 0,
+  "siteMap": [
+    {
+      "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+      "title": "Portal Empresarial",
+      "timestamp": "2026-06-07T04:59:40.112Z",
+      "counts": {
+        "buttons": 4,
+        "links": 0,
+        "fields": 0,
+        "tables": 0,
+        "allDomTables": 2,
+        "roleTables": 0,
+        "dataBlocks": 0,
+        "cards": 0,
+        "headings": 0
+      },
+      "mainHeadings": []
+    },
+    {
+      "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+      "title": "Portal Empresarial",
+      "timestamp": "2026-06-07T04:59:46.258Z",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 0,
+        "tables": 1,
+        "allDomTables": 2,
+        "roleTables": 0,
+        "dataBlocks": 6,
+        "cards": 4,
+        "headings": 0
+      },
+      "mainHeadings": []
+    },
+    {
+      "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+      "title": "Portal Empresarial",
+      "timestamp": "2026-06-07T04:59:52.384Z",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 0,
+        "tables": 1,
+        "allDomTables": 2,
+        "roleTables": 0,
+        "dataBlocks": 1,
+        "cards": 0,
+        "headings": 0
+      },
+      "mainHeadings": []
+    },
+    {
+      "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+      "title": "Portal Empresarial",
+      "timestamp": "2026-06-07T05:00:35.387Z",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 0,
+        "tables": 1,
+        "allDomTables": 2,
+        "roleTables": 0,
+        "dataBlocks": 1,
+        "cards": 0,
+        "headings": 0
+      },
+      "mainHeadings": []
+    }
+  ],
+  "pageSnapshots": [
+    {
+      "reason": "initial_load",
+      "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+      "title": "Portal Empresarial",
+      "timestamp": "2026-06-07T04:59:40.112Z",
+      "language": "es",
+      "visibleTextPreview": "PE INGRESAR QUIÉNES SOMOS CONTACTO PORTAL EMPRESARIAL BIENVENIDOS Gestiona los pedidos a tu negocio INGRESAR AL SISTEMA →",
+      "counts": {
+        "buttons": 4,
+        "links": 0,
+        "fields": 0,
+        "tables": 0,
+        "allDomTables": 2,
+        "roleTables": 0,
+        "dataBlocks": 0,
+        "cards": 0,
+        "headings": 0
+      },
+      "headings": [],
+      "buttons": [
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "INGRESAR",
+          "accessibleName": "INGRESAR",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "nav-tab active",
+          "css": "div#page-bienvenida > nav.nav-bienvenida > div.nav-tabs:nth-of-type(2) > button.nav-tab.active:nth-of-type(1)",
+          "intent": "enter_system"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "QUIÉNES SOMOS",
+          "accessibleName": "QUIÉNES SOMOS",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "nav-tab",
+          "css": "div#page-bienvenida > nav.nav-bienvenida > div.nav-tabs:nth-of-type(2) > button.nav-tab:nth-of-type(2)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "CONTACTO",
+          "accessibleName": "CONTACTO",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "nav-tab",
+          "css": "div#page-bienvenida > nav.nav-bienvenida > div.nav-tabs:nth-of-type(2) > button.nav-tab:nth-of-type(3)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "INGRESAR AL SISTEMA →",
+          "accessibleName": "INGRESAR AL SISTEMA →",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "hero-btn",
+          "css": "div#inicio-bienvenida > button.hero-btn",
+          "intent": "enter_system"
+        }
+      ],
+      "links": [],
+      "fields": [],
+      "tables": [],
+      "allDomTables": [
+        {
+          "index": 0,
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.table-wrap:nth-of-type(3) > table",
+          "headers": [
+            "ID",
+            "Cliente",
+            "Proveedor",
+            "Monto",
+            "Fecha",
+            "Estatus"
+          ],
+          "rowCount": 6,
+          "sampleRows": [
+            [
+              "#00412",
+              "Tienda El Sol",
+              "Arca Continental",
+              "$12,480.00",
+              "04/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00411",
+              "Super Norteño",
+              "Barcel",
+              "$7,350.00",
+              "04/Jun/2026",
+              "En tránsito"
+            ],
+            [
+              "#00410",
+              "Abarrotes Mtz",
+              "Sabritas",
+              "$3,200.00",
+              "03/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00409",
+              "Distribuidora NL",
+              "Grupo Peñafiel",
+              "$9,800.00",
+              "03/Jun/2026",
+              "Cancelado"
+            ],
+            [
+              "#00408",
+              "Mini Super Lomas",
+              "Arca Continental",
+              "$5,640.00",
+              "02/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00407",
+              "Tienda La Paz",
+              "Barcel",
+              "$2,900.00",
+              "02/Jun/2026",
+              "En tránsito"
+            ]
+          ],
+          "rows": [
+            [
+              "#00412",
+              "Tienda El Sol",
+              "Arca Continental",
+              "$12,480.00",
+              "04/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00411",
+              "Super Norteño",
+              "Barcel",
+              "$7,350.00",
+              "04/Jun/2026",
+              "En tránsito"
+            ],
+            [
+              "#00410",
+              "Abarrotes Mtz",
+              "Sabritas",
+              "$3,200.00",
+              "03/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00409",
+              "Distribuidora NL",
+              "Grupo Peñafiel",
+              "$9,800.00",
+              "03/Jun/2026",
+              "Cancelado"
+            ],
+            [
+              "#00408",
+              "Mini Super Lomas",
+              "Arca Continental",
+              "$5,640.00",
+              "02/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00407",
+              "Tienda La Paz",
+              "Barcel",
+              "$2,900.00",
+              "02/Jun/2026",
+              "En tránsito"
+            ]
+          ],
+          "visible": false,
+          "parentPageId": "page-inicio",
+          "parentPageClass": "page"
+        },
+        {
+          "index": 1,
+          "css": "div#page-pedidos > div.main-content > div.content-area:nth-of-type(2) > div.table-wrap:nth-of-type(2) > table",
+          "headers": [
+            "Proveedor",
+            "Producto",
+            "SKU",
+            "Fecha del Pedido",
+            "Unidades",
+            "Precio Unitario",
+            "Precio Final"
+          ],
+          "rowCount": 12,
+          "sampleRows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ],
+          "rows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ],
+          "visible": false,
+          "parentPageId": "page-pedidos",
+          "parentPageClass": "page"
+        }
+      ],
+      "roleTables": [],
+      "dataBlocks": [],
+      "cards": [],
+      "sections": [
+        {
+          "tag": "div",
+          "id": "page-bienvenida",
+          "className": "page active",
+          "css": "div#page-bienvenida",
+          "textPreview": "PE INGRESAR QUIÉNES SOMOS CONTACTO PORTAL EMPRESARIAL BIENVENIDOS Gestiona los pedidos a tu negocio INGRESAR AL SISTEMA →"
+        },
+        {
+          "tag": "nav",
+          "id": "",
+          "className": "nav-bienvenida",
+          "css": "div#page-bienvenida > nav.nav-bienvenida",
+          "textPreview": "PE INGRESAR QUIÉNES SOMOS CONTACTO"
+        }
+      ]
+    },
+    {
+      "reason": "after_click_button",
+      "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+      "title": "Portal Empresarial",
+      "timestamp": "2026-06-07T04:59:46.258Z",
+      "language": "es",
+      "visibleTextPreview": "PE Portal PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos Dashboard Admin Usuario SALIR PEDIDOS DEL MES 1,284 ↑ 12% vs mes anterior CLIENTES ACTIVOS 347 ↑ 5 nuevos esta semana PRODUCTOS EN CATÁLOGO 892 18 proveedores VENTAS TOTALES $4.2M ↑ 8.3% este trimestre Actividad Reciente ID CLIENTE PROVEEDOR MONTO FECHA ESTATUS #00412 Tienda El Sol Arca Continental $12,480.00 04/Jun/2026 ENTREGADO #00411 Super Norteño Barcel $7,350.00 04/Jun/2026 EN TRÁNSITO #00410 Abarrotes Mtz Sabritas $3,200.00 03/Jun/2026 ENTREGADO #00409 Distribuidora NL Grupo Peñafiel $9,800.00 03/Jun/2026 CANCELADO #00408 Mini Super Lomas Arca Continental $5,640.00 02/Jun/2026 ENTREGADO #00407 Tienda La Paz Barcel $2,900.00 02/Jun/2026 EN TRÁNSITO",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 0,
+        "tables": 1,
+        "allDomTables": 2,
+        "roleTables": 0,
+        "dataBlocks": 6,
+        "cards": 4,
+        "headings": 0
+      },
+      "headings": [],
+      "buttons": [
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "SALIR",
+          "accessibleName": "SALIR",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "btn-salir",
+          "css": "div#page-inicio > div.main-content > div.topbar:nth-of-type(1) > div.topbar-right > button.btn-salir",
+          "intent": "logout_or_exit"
+        }
+      ],
+      "links": [],
+      "fields": [],
+      "tables": [
+        {
+          "index": 0,
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.table-wrap:nth-of-type(3) > table",
+          "headers": [
+            "ID",
+            "CLIENTE",
+            "PROVEEDOR",
+            "MONTO",
+            "FECHA",
+            "ESTATUS"
+          ],
+          "rowCount": 6,
+          "sampleRows": [
+            [
+              "#00412",
+              "Tienda El Sol",
+              "Arca Continental",
+              "$12,480.00",
+              "04/Jun/2026",
+              "ENTREGADO"
+            ],
+            [
+              "#00411",
+              "Super Norteño",
+              "Barcel",
+              "$7,350.00",
+              "04/Jun/2026",
+              "EN TRÁNSITO"
+            ],
+            [
+              "#00410",
+              "Abarrotes Mtz",
+              "Sabritas",
+              "$3,200.00",
+              "03/Jun/2026",
+              "ENTREGADO"
+            ],
+            [
+              "#00409",
+              "Distribuidora NL",
+              "Grupo Peñafiel",
+              "$9,800.00",
+              "03/Jun/2026",
+              "CANCELADO"
+            ],
+            [
+              "#00408",
+              "Mini Super Lomas",
+              "Arca Continental",
+              "$5,640.00",
+              "02/Jun/2026",
+              "ENTREGADO"
+            ],
+            [
+              "#00407",
+              "Tienda La Paz",
+              "Barcel",
+              "$2,900.00",
+              "02/Jun/2026",
+              "EN TRÁNSITO"
+            ]
+          ],
+          "rows": [
+            [
+              "#00412",
+              "Tienda El Sol",
+              "Arca Continental",
+              "$12,480.00",
+              "04/Jun/2026",
+              "ENTREGADO"
+            ],
+            [
+              "#00411",
+              "Super Norteño",
+              "Barcel",
+              "$7,350.00",
+              "04/Jun/2026",
+              "EN TRÁNSITO"
+            ],
+            [
+              "#00410",
+              "Abarrotes Mtz",
+              "Sabritas",
+              "$3,200.00",
+              "03/Jun/2026",
+              "ENTREGADO"
+            ],
+            [
+              "#00409",
+              "Distribuidora NL",
+              "Grupo Peñafiel",
+              "$9,800.00",
+              "03/Jun/2026",
+              "CANCELADO"
+            ],
+            [
+              "#00408",
+              "Mini Super Lomas",
+              "Arca Continental",
+              "$5,640.00",
+              "02/Jun/2026",
+              "ENTREGADO"
+            ],
+            [
+              "#00407",
+              "Tienda La Paz",
+              "Barcel",
+              "$2,900.00",
+              "02/Jun/2026",
+              "EN TRÁNSITO"
+            ]
+          ]
+        }
+      ],
+      "allDomTables": [
+        {
+          "index": 0,
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.table-wrap:nth-of-type(3) > table",
+          "headers": [
+            "ID",
+            "CLIENTE",
+            "PROVEEDOR",
+            "MONTO",
+            "FECHA",
+            "ESTATUS"
+          ],
+          "rowCount": 6,
+          "sampleRows": [
+            [
+              "#00412",
+              "Tienda El Sol",
+              "Arca Continental",
+              "$12,480.00",
+              "04/Jun/2026",
+              "ENTREGADO"
+            ],
+            [
+              "#00411",
+              "Super Norteño",
+              "Barcel",
+              "$7,350.00",
+              "04/Jun/2026",
+              "EN TRÁNSITO"
+            ],
+            [
+              "#00410",
+              "Abarrotes Mtz",
+              "Sabritas",
+              "$3,200.00",
+              "03/Jun/2026",
+              "ENTREGADO"
+            ],
+            [
+              "#00409",
+              "Distribuidora NL",
+              "Grupo Peñafiel",
+              "$9,800.00",
+              "03/Jun/2026",
+              "CANCELADO"
+            ],
+            [
+              "#00408",
+              "Mini Super Lomas",
+              "Arca Continental",
+              "$5,640.00",
+              "02/Jun/2026",
+              "ENTREGADO"
+            ],
+            [
+              "#00407",
+              "Tienda La Paz",
+              "Barcel",
+              "$2,900.00",
+              "02/Jun/2026",
+              "EN TRÁNSITO"
+            ]
+          ],
+          "rows": [
+            [
+              "#00412",
+              "Tienda El Sol",
+              "Arca Continental",
+              "$12,480.00",
+              "04/Jun/2026",
+              "ENTREGADO"
+            ],
+            [
+              "#00411",
+              "Super Norteño",
+              "Barcel",
+              "$7,350.00",
+              "04/Jun/2026",
+              "EN TRÁNSITO"
+            ],
+            [
+              "#00410",
+              "Abarrotes Mtz",
+              "Sabritas",
+              "$3,200.00",
+              "03/Jun/2026",
+              "ENTREGADO"
+            ],
+            [
+              "#00409",
+              "Distribuidora NL",
+              "Grupo Peñafiel",
+              "$9,800.00",
+              "03/Jun/2026",
+              "CANCELADO"
+            ],
+            [
+              "#00408",
+              "Mini Super Lomas",
+              "Arca Continental",
+              "$5,640.00",
+              "02/Jun/2026",
+              "ENTREGADO"
+            ],
+            [
+              "#00407",
+              "Tienda La Paz",
+              "Barcel",
+              "$2,900.00",
+              "02/Jun/2026",
+              "EN TRÁNSITO"
+            ]
+          ],
+          "visible": true,
+          "parentPageId": "page-inicio",
+          "parentPageClass": "page active"
+        },
+        {
+          "index": 1,
+          "css": "div#page-pedidos > div.main-content > div.content-area:nth-of-type(2) > div.table-wrap:nth-of-type(2) > table",
+          "headers": [
+            "Proveedor",
+            "Producto",
+            "SKU",
+            "Fecha del Pedido",
+            "Unidades",
+            "Precio Unitario",
+            "Precio Final"
+          ],
+          "rowCount": 12,
+          "sampleRows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ],
+          "rows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ],
+          "visible": false,
+          "parentPageId": "page-pedidos",
+          "parentPageClass": "page"
+        }
+      ],
+      "roleTables": [],
+      "dataBlocks": [
+        {
+          "index": 0,
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2)",
+          "title": "",
+          "itemCount": 3,
+          "sampleItems": [
+            "PEDIDOS DEL MES 1,284 ↑ 12% vs mes anterior CLIENTES ACTIVOS 347 ↑ 5 nuevos esta semana PRODUCTOS EN CATÁLOGO 892 18 proveedores VENTAS TOTALES $4.2M ↑ 8.3% este trimestre",
+            "Actividad Reciente",
+            "ID CLIENTE PROVEEDOR MONTO FECHA ESTATUS #00412 Tienda El Sol Arca Continental $12,480.00 04/Jun/2026 ENTREGADO #00411 Super Norteño Barcel $7,350.00 04/Jun/2026 EN TRÁNSITO #00410 Abarrotes Mtz Sabritas $3,200.00 03/Jun/2026 ENTREGADO #00409 Distribuidora NL Grupo Peñafiel $9,800.00 03/Jun/2026 CANCELADO #00408 Mini Super Lomas Arca Continental $5,640.00 02/Jun/2026 ENTREGADO #00407 Tienda La Paz Barcel $2,900.00 02/Jun/2026 EN TRÁNSITO"
+          ]
+        },
+        {
+          "index": 1,
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.kpi-grid:nth-of-type(1)",
+          "title": "",
+          "itemCount": 4,
+          "sampleItems": [
+            "PEDIDOS DEL MES 1,284 ↑ 12% vs mes anterior",
+            "CLIENTES ACTIVOS 347 ↑ 5 nuevos esta semana",
+            "PRODUCTOS EN CATÁLOGO 892 18 proveedores",
+            "VENTAS TOTALES $4.2M ↑ 8.3% este trimestre"
+          ]
+        },
+        {
+          "index": 2,
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.kpi-grid:nth-of-type(1) > div.kpi-card:nth-of-type(1)",
+          "title": "",
+          "itemCount": 3,
+          "sampleItems": [
+            "PEDIDOS DEL MES",
+            "1,284",
+            "↑ 12% vs mes anterior"
+          ]
+        },
+        {
+          "index": 3,
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.kpi-grid:nth-of-type(1) > div.kpi-card:nth-of-type(2)",
+          "title": "",
+          "itemCount": 2,
+          "sampleItems": [
+            "CLIENTES ACTIVOS",
+            "↑ 5 nuevos esta semana"
+          ]
+        },
+        {
+          "index": 4,
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.kpi-grid:nth-of-type(1) > div.kpi-card:nth-of-type(3)",
+          "title": "",
+          "itemCount": 2,
+          "sampleItems": [
+            "PRODUCTOS EN CATÁLOGO",
+            "18 proveedores"
+          ]
+        },
+        {
+          "index": 5,
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.kpi-grid:nth-of-type(1) > div.kpi-card:nth-of-type(4)",
+          "title": "",
+          "itemCount": 3,
+          "sampleItems": [
+            "VENTAS TOTALES",
+            "$4.2M",
+            "↑ 8.3% este trimestre"
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "selector": ".kpi-card",
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.kpi-grid:nth-of-type(1) > div.kpi-card:nth-of-type(1)",
+          "text": "PEDIDOS DEL MES 1,284 ↑ 12% vs mes anterior"
+        },
+        {
+          "selector": ".kpi-card",
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.kpi-grid:nth-of-type(1) > div.kpi-card:nth-of-type(2)",
+          "text": "CLIENTES ACTIVOS 347 ↑ 5 nuevos esta semana"
+        },
+        {
+          "selector": ".kpi-card",
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.kpi-grid:nth-of-type(1) > div.kpi-card:nth-of-type(3)",
+          "text": "PRODUCTOS EN CATÁLOGO 892 18 proveedores"
+        },
+        {
+          "selector": ".kpi-card",
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.kpi-grid:nth-of-type(1) > div.kpi-card:nth-of-type(4)",
+          "text": "VENTAS TOTALES $4.2M ↑ 8.3% este trimestre"
+        }
+      ],
+      "sections": [
+        {
+          "tag": "div",
+          "id": "page-inicio",
+          "className": "page active",
+          "css": "div#page-inicio",
+          "textPreview": "PE Portal PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos Dashboard Admin Usuario SALIR PEDIDOS DEL MES 1,284 ↑ 12% vs mes anterior CLIENTES ACTIVOS 347 ↑ 5 nuevos esta semana PRODUCTOS EN CATÁLOGO 892 18 proveedores VENTAS TOTALES $4.2M ↑ 8.3% este trimestre Actividad Reciente ID CLIENTE PROVEEDOR MONTO FECHA ESTATUS #00412 Tienda El Sol Arca Continental $12,480.00 04/Jun/2026 ENTREGADO #00411 Super Norteño Barcel $7,350.00 04/Jun/2026 EN TRÁNSITO #00410 Abarrotes Mtz Sabritas $3,200.00 03/Jun/2026 ENTREGADO #00409 Distribuidora NL Grupo Peñafiel $9,800.00 03/Jun/2026 CANCELADO #00408 Mini Super Lomas Arca Continental $5,640.00 02/Jun/2026 ENTREGADO #00407 Tienda La Paz Barcel $2,900.00 02/Jun/2026 EN"
+        },
+        {
+          "tag": "aside",
+          "id": "",
+          "className": "sidebar",
+          "css": "div#page-inicio > aside.sidebar",
+          "textPreview": "PE Portal PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos"
+        },
+        {
+          "tag": "nav",
+          "id": "",
+          "className": "sidebar-nav",
+          "css": "div#page-inicio > aside.sidebar > nav.sidebar-nav",
+          "textPreview": "PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos"
+        },
+        {
+          "tag": "div",
+          "id": "",
+          "className": "topbar",
+          "css": "div#page-inicio > div.main-content > div.topbar:nth-of-type(1)",
+          "textPreview": "Dashboard Admin Usuario SALIR"
+        },
+        {
+          "tag": "div",
+          "id": "",
+          "className": "content-area",
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2)",
+          "textPreview": "PEDIDOS DEL MES 1,284 ↑ 12% vs mes anterior CLIENTES ACTIVOS 347 ↑ 5 nuevos esta semana PRODUCTOS EN CATÁLOGO 892 18 proveedores VENTAS TOTALES $4.2M ↑ 8.3% este trimestre Actividad Reciente ID CLIENTE PROVEEDOR MONTO FECHA ESTATUS #00412 Tienda El Sol Arca Continental $12,480.00 04/Jun/2026 ENTREGADO #00411 Super Norteño Barcel $7,350.00 04/Jun/2026 EN TRÁNSITO #00410 Abarrotes Mtz Sabritas $3,200.00 03/Jun/2026 ENTREGADO #00409 Distribuidora NL Grupo Peñafiel $9,800.00 03/Jun/2026 CANCELADO #00408 Mini Super Lomas Arca Continental $5,640.00 02/Jun/2026 ENTREGADO #00407 Tienda La Paz Barcel $2,900.00 02/Jun/2026 EN TRÁNSITO"
+        }
+      ]
+    },
+    {
+      "reason": "after_click_element",
+      "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+      "title": "Portal Empresarial",
+      "timestamp": "2026-06-07T04:59:52.384Z",
+      "language": "es",
+      "visibleTextPreview": "PE Portal PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos Pedidos Admin Usuario SALIR Listado de Pedidos PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Arca Continental Coca Cola 2L ARCA-CC2L-001 01/Jun/2026 240 $22.50 $5,400.00 Barcel Papas Habanero 45g BARC-PH45-002 01/Jun/2026 600 $12.00 $7,200.00 Sabritas Sabritas Original 60g SABR-SO60-003 02/Jun/2026 480 $13.50 $6,480.00 Grupo Peñafiel Agua Peñafiel 1.5L GPEF-AP15-004 02/Jun/2026 360 $14.00 $5,040.00 Arca Continental Sprite 2L ARCA-SP2L-005 02/Jun/2026 180 $20.00 $3,600.00 Barcel Takis Fuego 100g BARC-TF10-006 03/Jun/2026 300 $18.00 $5,400.00 Sabritas Cheetos Flamin' Hot 50g SABR-CF50-007 03/Jun/2026 420 $11.00 $4,620.00 Grupo Peñafiel Sidral Mundet 355ml GPEF-SM35-008 03/Jun/2026 720 $9.50 $6,840.00 Arca Continental Fanta Naranja 600ml ARCA-FN60-009 04/Jun/2026 540 $16.00 $8,640.00 Barcel Chips Chile Limón 45g BARC-CCL45-010 04/Jun/2026 360 $11.50 $4,140.00 Sabritas Rancheritos 40g SABR-RA40-011 04/Jun/2026 500 $10.00 $5,000.00 Grupo Peñafiel Garci Crespo Mineral 500ml GPEF-GC50-012 05/Jun/2026 800 $8.00 $6",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 0,
+        "tables": 1,
+        "allDomTables": 2,
+        "roleTables": 0,
+        "dataBlocks": 1,
+        "cards": 0,
+        "headings": 0
+      },
+      "headings": [],
+      "buttons": [
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "SALIR",
+          "accessibleName": "SALIR",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "btn-salir",
+          "css": "div#page-pedidos > div.main-content > div.topbar:nth-of-type(1) > div.topbar-right > button.btn-salir",
+          "intent": "logout_or_exit"
+        }
+      ],
+      "links": [],
+      "fields": [],
+      "tables": [
+        {
+          "index": 0,
+          "css": "div#page-pedidos > div.main-content > div.content-area:nth-of-type(2) > div.table-wrap:nth-of-type(2) > table",
+          "headers": [
+            "PROVEEDOR",
+            "PRODUCTO",
+            "SKU",
+            "FECHA DEL PEDIDO",
+            "UNIDADES",
+            "PRECIO UNITARIO",
+            "PRECIO FINAL"
+          ],
+          "rowCount": 12,
+          "sampleRows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ],
+          "rows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ]
+        }
+      ],
+      "allDomTables": [
+        {
+          "index": 0,
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.table-wrap:nth-of-type(3) > table",
+          "headers": [
+            "ID",
+            "Cliente",
+            "Proveedor",
+            "Monto",
+            "Fecha",
+            "Estatus"
+          ],
+          "rowCount": 6,
+          "sampleRows": [
+            [
+              "#00412",
+              "Tienda El Sol",
+              "Arca Continental",
+              "$12,480.00",
+              "04/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00411",
+              "Super Norteño",
+              "Barcel",
+              "$7,350.00",
+              "04/Jun/2026",
+              "En tránsito"
+            ],
+            [
+              "#00410",
+              "Abarrotes Mtz",
+              "Sabritas",
+              "$3,200.00",
+              "03/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00409",
+              "Distribuidora NL",
+              "Grupo Peñafiel",
+              "$9,800.00",
+              "03/Jun/2026",
+              "Cancelado"
+            ],
+            [
+              "#00408",
+              "Mini Super Lomas",
+              "Arca Continental",
+              "$5,640.00",
+              "02/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00407",
+              "Tienda La Paz",
+              "Barcel",
+              "$2,900.00",
+              "02/Jun/2026",
+              "En tránsito"
+            ]
+          ],
+          "rows": [
+            [
+              "#00412",
+              "Tienda El Sol",
+              "Arca Continental",
+              "$12,480.00",
+              "04/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00411",
+              "Super Norteño",
+              "Barcel",
+              "$7,350.00",
+              "04/Jun/2026",
+              "En tránsito"
+            ],
+            [
+              "#00410",
+              "Abarrotes Mtz",
+              "Sabritas",
+              "$3,200.00",
+              "03/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00409",
+              "Distribuidora NL",
+              "Grupo Peñafiel",
+              "$9,800.00",
+              "03/Jun/2026",
+              "Cancelado"
+            ],
+            [
+              "#00408",
+              "Mini Super Lomas",
+              "Arca Continental",
+              "$5,640.00",
+              "02/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00407",
+              "Tienda La Paz",
+              "Barcel",
+              "$2,900.00",
+              "02/Jun/2026",
+              "En tránsito"
+            ]
+          ],
+          "visible": false,
+          "parentPageId": "page-inicio",
+          "parentPageClass": "page"
+        },
+        {
+          "index": 1,
+          "css": "div#page-pedidos > div.main-content > div.content-area:nth-of-type(2) > div.table-wrap:nth-of-type(2) > table",
+          "headers": [
+            "PROVEEDOR",
+            "PRODUCTO",
+            "SKU",
+            "FECHA DEL PEDIDO",
+            "UNIDADES",
+            "PRECIO UNITARIO",
+            "PRECIO FINAL"
+          ],
+          "rowCount": 12,
+          "sampleRows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ],
+          "rows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ],
+          "visible": true,
+          "parentPageId": "page-pedidos",
+          "parentPageClass": "page active"
+        }
+      ],
+      "roleTables": [],
+      "dataBlocks": [
+        {
+          "index": 0,
+          "css": "div#page-pedidos > div.main-content > div.content-area:nth-of-type(2)",
+          "title": "",
+          "itemCount": 2,
+          "sampleItems": [
+            "Listado de Pedidos",
+            "PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Arca Continental Coca Cola 2L ARCA-CC2L-001 01/Jun/2026 240 $22.50 $5,400.00 Barcel Papas Habanero 45g BARC-PH45-002 01/Jun/2026 600 $12.00 $7,200.00 Sabritas Sabritas Original 60g SABR-SO60-003 02/Jun/2026 480 $13.50 $6,480.00 Grupo Peñafiel Agua Peñafiel 1.5L GPEF-AP15-004 02/Jun/2026 360 $14.00 $5,040.00 Arca Continental Sprite 2L ARCA-SP2L-005 02/Jun/2026 180 $20.00 $3,600.00 Barcel Takis Fuego 100g BARC-TF10-006 03/Jun/2026 300 $18.00 $5,400.00 Sabritas Cheetos Flamin' Hot 50g SABR-CF50-007 03/Jun/2026 420 $11.00 $4,620.00 Grupo Peñafiel Sidral Mundet 355ml GPEF-SM35-008 03/Jun/2026 720 $9.50 $6,840.00 Arca Continental Fanta Naranja 600ml ARCA-FN60-009 04/Jun/2026 540 $16.00 $8,640.00 Barcel Chips Chile Limón 45g BARC-CCL45-010 04/Jun/2026 360 $11.50 $4,140.00 Sabritas Rancheritos 40g SABR-RA40-011 04/Jun/2026 500 $10.00 $5,000.00 Grupo Peñafiel Garci Crespo Mineral 500ml GPEF-GC50-012 05/Jun/2026 800 $8.00 $6,400.00"
+          ]
+        }
+      ],
+      "cards": [],
+      "sections": [
+        {
+          "tag": "div",
+          "id": "page-pedidos",
+          "className": "page active",
+          "css": "div#page-pedidos",
+          "textPreview": "PE Portal PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos Pedidos Admin Usuario SALIR Listado de Pedidos PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Arca Continental Coca Cola 2L ARCA-CC2L-001 01/Jun/2026 240 $22.50 $5,400.00 Barcel Papas Habanero 45g BARC-PH45-002 01/Jun/2026 600 $12.00 $7,200.00 Sabritas Sabritas Original 60g SABR-SO60-003 02/Jun/2026 480 $13.50 $6,480.00 Grupo Peñafiel Agua Peñafiel 1.5L GPEF-AP15-004 02/Jun/2026 360 $14.00 $5,040.00 Arca Continental Sprite 2L ARCA-SP2L-005 02/Jun/2026 180 $20.00 $3,600.00 Barcel Takis Fuego 100g BARC-TF10-006 03/Jun/2026 300 $18.00 $5,400.00 Sabritas Cheetos Flamin' Hot 50g SABR-CF50-007 03/Jun/2026 420 $11.00 $4,6"
+        },
+        {
+          "tag": "aside",
+          "id": "",
+          "className": "sidebar",
+          "css": "div#page-pedidos > aside.sidebar",
+          "textPreview": "PE Portal PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos"
+        },
+        {
+          "tag": "nav",
+          "id": "",
+          "className": "sidebar-nav",
+          "css": "div#page-pedidos > aside.sidebar > nav.sidebar-nav",
+          "textPreview": "PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos"
+        },
+        {
+          "tag": "div",
+          "id": "",
+          "className": "topbar",
+          "css": "div#page-pedidos > div.main-content > div.topbar:nth-of-type(1)",
+          "textPreview": "Pedidos Admin Usuario SALIR"
+        },
+        {
+          "tag": "div",
+          "id": "",
+          "className": "content-area",
+          "css": "div#page-pedidos > div.main-content > div.content-area:nth-of-type(2)",
+          "textPreview": "Listado de Pedidos PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Arca Continental Coca Cola 2L ARCA-CC2L-001 01/Jun/2026 240 $22.50 $5,400.00 Barcel Papas Habanero 45g BARC-PH45-002 01/Jun/2026 600 $12.00 $7,200.00 Sabritas Sabritas Original 60g SABR-SO60-003 02/Jun/2026 480 $13.50 $6,480.00 Grupo Peñafiel Agua Peñafiel 1.5L GPEF-AP15-004 02/Jun/2026 360 $14.00 $5,040.00 Arca Continental Sprite 2L ARCA-SP2L-005 02/Jun/2026 180 $20.00 $3,600.00 Barcel Takis Fuego 100g BARC-TF10-006 03/Jun/2026 300 $18.00 $5,400.00 Sabritas Cheetos Flamin' Hot 50g SABR-CF50-007 03/Jun/2026 420 $11.00 $4,620.00 Grupo Peñafiel Sidral Mundet 355ml GPEF-SM35-008 03/Jun/2026 720 $9.50 $6,840.00 Arca Continental Fanta Naranja 600ml ARCA-FN60-009 04/Jun/2026 540 $16.00 $8,640.00 Barc"
+        }
+      ]
+    },
+    {
+      "reason": "final_state",
+      "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+      "title": "Portal Empresarial",
+      "timestamp": "2026-06-07T05:00:35.387Z",
+      "language": "es",
+      "visibleTextPreview": "PE Portal PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos Pedidos Admin Usuario SALIR Listado de Pedidos PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Arca Continental Coca Cola 2L ARCA-CC2L-001 01/Jun/2026 240 $22.50 $5,400.00 Barcel Papas Habanero 45g BARC-PH45-002 01/Jun/2026 600 $12.00 $7,200.00 Sabritas Sabritas Original 60g SABR-SO60-003 02/Jun/2026 480 $13.50 $6,480.00 Grupo Peñafiel Agua Peñafiel 1.5L GPEF-AP15-004 02/Jun/2026 360 $14.00 $5,040.00 Arca Continental Sprite 2L ARCA-SP2L-005 02/Jun/2026 180 $20.00 $3,600.00 Barcel Takis Fuego 100g BARC-TF10-006 03/Jun/2026 300 $18.00 $5,400.00 Sabritas Cheetos Flamin' Hot 50g SABR-CF50-007 03/Jun/2026 420 $11.00 $4,620.00 Grupo Peñafiel Sidral Mundet 355ml GPEF-SM35-008 03/Jun/2026 720 $9.50 $6,840.00 Arca Continental Fanta Naranja 600ml ARCA-FN60-009 04/Jun/2026 540 $16.00 $8,640.00 Barcel Chips Chile Limón 45g BARC-CCL45-010 04/Jun/2026 360 $11.50 $4,140.00 Sabritas Rancheritos 40g SABR-RA40-011 04/Jun/2026 500 $10.00 $5,000.00 Grupo Peñafiel Garci Crespo Mineral 500ml GPEF-GC50-012 05/Jun/2026 800 $8.00 $6",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 0,
+        "tables": 1,
+        "allDomTables": 2,
+        "roleTables": 0,
+        "dataBlocks": 1,
+        "cards": 0,
+        "headings": 0
+      },
+      "headings": [],
+      "buttons": [
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "SALIR",
+          "accessibleName": "SALIR",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "btn-salir",
+          "css": "div#page-pedidos > div.main-content > div.topbar:nth-of-type(1) > div.topbar-right > button.btn-salir",
+          "intent": "logout_or_exit"
+        }
+      ],
+      "links": [],
+      "fields": [],
+      "tables": [
+        {
+          "index": 0,
+          "css": "div#page-pedidos > div.main-content > div.content-area:nth-of-type(2) > div.table-wrap:nth-of-type(2) > table",
+          "headers": [
+            "PROVEEDOR",
+            "PRODUCTO",
+            "SKU",
+            "FECHA DEL PEDIDO",
+            "UNIDADES",
+            "PRECIO UNITARIO",
+            "PRECIO FINAL"
+          ],
+          "rowCount": 12,
+          "sampleRows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ],
+          "rows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ]
+        }
+      ],
+      "allDomTables": [
+        {
+          "index": 0,
+          "css": "div#page-inicio > div.main-content > div.content-area:nth-of-type(2) > div.table-wrap:nth-of-type(3) > table",
+          "headers": [
+            "ID",
+            "Cliente",
+            "Proveedor",
+            "Monto",
+            "Fecha",
+            "Estatus"
+          ],
+          "rowCount": 6,
+          "sampleRows": [
+            [
+              "#00412",
+              "Tienda El Sol",
+              "Arca Continental",
+              "$12,480.00",
+              "04/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00411",
+              "Super Norteño",
+              "Barcel",
+              "$7,350.00",
+              "04/Jun/2026",
+              "En tránsito"
+            ],
+            [
+              "#00410",
+              "Abarrotes Mtz",
+              "Sabritas",
+              "$3,200.00",
+              "03/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00409",
+              "Distribuidora NL",
+              "Grupo Peñafiel",
+              "$9,800.00",
+              "03/Jun/2026",
+              "Cancelado"
+            ],
+            [
+              "#00408",
+              "Mini Super Lomas",
+              "Arca Continental",
+              "$5,640.00",
+              "02/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00407",
+              "Tienda La Paz",
+              "Barcel",
+              "$2,900.00",
+              "02/Jun/2026",
+              "En tránsito"
+            ]
+          ],
+          "rows": [
+            [
+              "#00412",
+              "Tienda El Sol",
+              "Arca Continental",
+              "$12,480.00",
+              "04/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00411",
+              "Super Norteño",
+              "Barcel",
+              "$7,350.00",
+              "04/Jun/2026",
+              "En tránsito"
+            ],
+            [
+              "#00410",
+              "Abarrotes Mtz",
+              "Sabritas",
+              "$3,200.00",
+              "03/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00409",
+              "Distribuidora NL",
+              "Grupo Peñafiel",
+              "$9,800.00",
+              "03/Jun/2026",
+              "Cancelado"
+            ],
+            [
+              "#00408",
+              "Mini Super Lomas",
+              "Arca Continental",
+              "$5,640.00",
+              "02/Jun/2026",
+              "Entregado"
+            ],
+            [
+              "#00407",
+              "Tienda La Paz",
+              "Barcel",
+              "$2,900.00",
+              "02/Jun/2026",
+              "En tránsito"
+            ]
+          ],
+          "visible": false,
+          "parentPageId": "page-inicio",
+          "parentPageClass": "page"
+        },
+        {
+          "index": 1,
+          "css": "div#page-pedidos > div.main-content > div.content-area:nth-of-type(2) > div.table-wrap:nth-of-type(2) > table",
+          "headers": [
+            "PROVEEDOR",
+            "PRODUCTO",
+            "SKU",
+            "FECHA DEL PEDIDO",
+            "UNIDADES",
+            "PRECIO UNITARIO",
+            "PRECIO FINAL"
+          ],
+          "rowCount": 12,
+          "sampleRows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ],
+          "rows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ],
+          "visible": true,
+          "parentPageId": "page-pedidos",
+          "parentPageClass": "page active"
+        }
+      ],
+      "roleTables": [],
+      "dataBlocks": [
+        {
+          "index": 0,
+          "css": "div#page-pedidos > div.main-content > div.content-area:nth-of-type(2)",
+          "title": "",
+          "itemCount": 2,
+          "sampleItems": [
+            "Listado de Pedidos",
+            "PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Arca Continental Coca Cola 2L ARCA-CC2L-001 01/Jun/2026 240 $22.50 $5,400.00 Barcel Papas Habanero 45g BARC-PH45-002 01/Jun/2026 600 $12.00 $7,200.00 Sabritas Sabritas Original 60g SABR-SO60-003 02/Jun/2026 480 $13.50 $6,480.00 Grupo Peñafiel Agua Peñafiel 1.5L GPEF-AP15-004 02/Jun/2026 360 $14.00 $5,040.00 Arca Continental Sprite 2L ARCA-SP2L-005 02/Jun/2026 180 $20.00 $3,600.00 Barcel Takis Fuego 100g BARC-TF10-006 03/Jun/2026 300 $18.00 $5,400.00 Sabritas Cheetos Flamin' Hot 50g SABR-CF50-007 03/Jun/2026 420 $11.00 $4,620.00 Grupo Peñafiel Sidral Mundet 355ml GPEF-SM35-008 03/Jun/2026 720 $9.50 $6,840.00 Arca Continental Fanta Naranja 600ml ARCA-FN60-009 04/Jun/2026 540 $16.00 $8,640.00 Barcel Chips Chile Limón 45g BARC-CCL45-010 04/Jun/2026 360 $11.50 $4,140.00 Sabritas Rancheritos 40g SABR-RA40-011 04/Jun/2026 500 $10.00 $5,000.00 Grupo Peñafiel Garci Crespo Mineral 500ml GPEF-GC50-012 05/Jun/2026 800 $8.00 $6,400.00"
+          ]
+        }
+      ],
+      "cards": [],
+      "sections": [
+        {
+          "tag": "div",
+          "id": "page-pedidos",
+          "className": "page active",
+          "css": "div#page-pedidos",
+          "textPreview": "PE Portal PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos Pedidos Admin Usuario SALIR Listado de Pedidos PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Arca Continental Coca Cola 2L ARCA-CC2L-001 01/Jun/2026 240 $22.50 $5,400.00 Barcel Papas Habanero 45g BARC-PH45-002 01/Jun/2026 600 $12.00 $7,200.00 Sabritas Sabritas Original 60g SABR-SO60-003 02/Jun/2026 480 $13.50 $6,480.00 Grupo Peñafiel Agua Peñafiel 1.5L GPEF-AP15-004 02/Jun/2026 360 $14.00 $5,040.00 Arca Continental Sprite 2L ARCA-SP2L-005 02/Jun/2026 180 $20.00 $3,600.00 Barcel Takis Fuego 100g BARC-TF10-006 03/Jun/2026 300 $18.00 $5,400.00 Sabritas Cheetos Flamin' Hot 50g SABR-CF50-007 03/Jun/2026 420 $11.00 $4,6"
+        },
+        {
+          "tag": "aside",
+          "id": "",
+          "className": "sidebar",
+          "css": "div#page-pedidos > aside.sidebar",
+          "textPreview": "PE Portal PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos"
+        },
+        {
+          "tag": "nav",
+          "id": "",
+          "className": "sidebar-nav",
+          "css": "div#page-pedidos > aside.sidebar > nav.sidebar-nav",
+          "textPreview": "PRINCIPAL ◈ Dashboard ◉ Datos de Contacto ADMINISTRACIÓN ◈ Usuarios ◉ Clientes ◈ Productos ◉ Pedidos CONFIGURACIÓN ◈ Permisos ◉ Acuerdos"
+        },
+        {
+          "tag": "div",
+          "id": "",
+          "className": "topbar",
+          "css": "div#page-pedidos > div.main-content > div.topbar:nth-of-type(1)",
+          "textPreview": "Pedidos Admin Usuario SALIR"
+        },
+        {
+          "tag": "div",
+          "id": "",
+          "className": "content-area",
+          "css": "div#page-pedidos > div.main-content > div.content-area:nth-of-type(2)",
+          "textPreview": "Listado de Pedidos PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Arca Continental Coca Cola 2L ARCA-CC2L-001 01/Jun/2026 240 $22.50 $5,400.00 Barcel Papas Habanero 45g BARC-PH45-002 01/Jun/2026 600 $12.00 $7,200.00 Sabritas Sabritas Original 60g SABR-SO60-003 02/Jun/2026 480 $13.50 $6,480.00 Grupo Peñafiel Agua Peñafiel 1.5L GPEF-AP15-004 02/Jun/2026 360 $14.00 $5,040.00 Arca Continental Sprite 2L ARCA-SP2L-005 02/Jun/2026 180 $20.00 $3,600.00 Barcel Takis Fuego 100g BARC-TF10-006 03/Jun/2026 300 $18.00 $5,400.00 Sabritas Cheetos Flamin' Hot 50g SABR-CF50-007 03/Jun/2026 420 $11.00 $4,620.00 Grupo Peñafiel Sidral Mundet 355ml GPEF-SM35-008 03/Jun/2026 720 $9.50 $6,840.00 Arca Continental Fanta Naranja 600ml ARCA-FN60-009 04/Jun/2026 540 $16.00 $8,640.00 Barc"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "type": "goto",
+      "intent": "open_url",
+      "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+      "timestamp": "2026-06-07T04:59:40.099Z",
+      "replay": {
+        "success": true,
+        "message": "goto_ok",
+        "sourceTimestamp": "2026-06-07T04:10:38.272Z",
+        "urlAfter": "file:///C:/Users/isabe/Downloads/heb_tienda.html"
+      },
+      "value": "",
+      "tag": "",
+      "text": "",
+      "accessibleName": "",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "",
+      "selectorCandidates": []
+    },
+    {
+      "type": "click",
+      "intent": "click_button",
+      "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+      "timestamp": "2026-06-07T04:59:46.255Z",
+      "replay": {
+        "success": true,
+        "message": "click_ok",
+        "sourceTimestamp": "2026-06-07T04:10:39.998Z",
+        "urlAfter": "file:///C:/Users/isabe/Downloads/heb_tienda.html"
+      },
+      "value": "",
+      "tag": "button",
+      "text": "INGRESAR AL SISTEMA →",
+      "accessibleName": "INGRESAR AL SISTEMA →",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "hero-btn",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#inicio-bienvenida > button.hero-btn",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "INGRESAR AL SISTEMA →",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "INGRESAR AL SISTEMA →",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "INGRESAR AL SISTEMA →",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#inicio-bienvenida > button.hero-btn",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "intent": "click_element",
+      "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+      "timestamp": "2026-06-07T04:59:52.381Z",
+      "replay": {
+        "success": true,
+        "message": "click_ok",
+        "sourceTimestamp": "2026-06-07T04:10:52.958Z",
+        "urlAfter": "file:///C:/Users/isabe/Downloads/heb_tienda.html"
+      },
+      "value": "",
+      "tag": "div",
+      "text": "◉ Pedidos",
+      "accessibleName": "◉ Pedidos",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "sidebar-item",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-inicio > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(8)",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "◉ Pedidos",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-inicio > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(8)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "intent": "click_element",
+      "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+      "timestamp": "2026-06-07T05:00:00.986Z",
+      "replay": {
+        "success": true,
+        "message": "click_ok",
+        "sourceTimestamp": "2026-06-07T04:10:58.493Z",
+        "urlAfter": "file:///C:/Users/isabe/Downloads/heb_tienda.html"
+      },
+      "value": "",
+      "tag": "div",
+      "text": "◈ Permisos",
+      "accessibleName": "◈ Permisos",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "sidebar-item",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-pedidos > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(10)",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "◈ Permisos",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-pedidos > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(10)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "intent": "click_element",
+      "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+      "timestamp": "2026-06-07T05:00:09.580Z",
+      "replay": {
+        "success": true,
+        "message": "click_ok",
+        "sourceTimestamp": "2026-06-07T04:10:59.025Z",
+        "urlAfter": "file:///C:/Users/isabe/Downloads/heb_tienda.html"
+      },
+      "value": "",
+      "tag": "div",
+      "text": "◉ Acuerdos",
+      "accessibleName": "◉ Acuerdos",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "sidebar-item",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-pedidos > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(11)",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "◉ Acuerdos",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-pedidos > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(11)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "intent": "click_element",
+      "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+      "timestamp": "2026-06-07T05:00:18.187Z",
+      "replay": {
+        "success": true,
+        "message": "click_ok",
+        "sourceTimestamp": "2026-06-07T04:10:59.618Z",
+        "urlAfter": "file:///C:/Users/isabe/Downloads/heb_tienda.html"
+      },
+      "value": "",
+      "tag": "div",
+      "text": "◈ Productos",
+      "accessibleName": "◈ Productos",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "sidebar-item",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-pedidos > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(7)",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "◈ Productos",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-pedidos > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(7)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "intent": "click_element",
+      "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+      "timestamp": "2026-06-07T05:00:26.793Z",
+      "replay": {
+        "success": true,
+        "message": "click_ok",
+        "sourceTimestamp": "2026-06-07T04:11:00.263Z",
+        "urlAfter": "file:///C:/Users/isabe/Downloads/heb_tienda.html"
+      },
+      "value": "",
+      "tag": "div",
+      "text": "◉ Clientes",
+      "accessibleName": "◉ Clientes",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "sidebar-item",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-pedidos > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(6)",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "◉ Clientes",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-pedidos > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(6)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "intent": "click_element",
+      "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+      "timestamp": "2026-06-07T05:00:35.379Z",
+      "replay": {
+        "success": true,
+        "message": "click_ok",
+        "sourceTimestamp": "2026-06-07T04:11:03.953Z",
+        "urlAfter": "file:///C:/Users/isabe/Downloads/heb_tienda.html"
+      },
+      "value": "",
+      "tag": "div",
+      "text": "◈ Usuarios",
+      "accessibleName": "◈ Usuarios",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "sidebar-item",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-pedidos > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(5)",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "◈ Usuarios",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-pedidos > aside.sidebar > nav.sidebar-nav > div.sidebar-item:nth-of-type(5)",
+          "score": 40
+        }
+      ]
+    }
+  ],
+  "replayErrors": [],
+  "extractedBusinessData": {
+    "tables": [
+      {
+        "source": "initial_load",
+        "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+        "title": "Portal Empresarial",
+        "visible": false,
+        "parentPageId": "page-inicio",
+        "parentPageClass": "page",
+        "headers": [
+          "ID",
+          "Cliente",
+          "Proveedor",
+          "Monto",
+          "Fecha",
+          "Estatus"
+        ],
+        "rowCount": 6,
+        "rows": [
+          {
+            "rowIndex": 0,
+            "id": "#00412",
+            "cliente": "Tienda El Sol",
+            "proveedor": "Arca Continental",
+            "monto": "$12,480.00",
+            "fecha": "04/Jun/2026",
+            "estatus": "Entregado"
+          },
+          {
+            "rowIndex": 1,
+            "id": "#00411",
+            "cliente": "Super Norteño",
+            "proveedor": "Barcel",
+            "monto": "$7,350.00",
+            "fecha": "04/Jun/2026",
+            "estatus": "En tránsito"
+          },
+          {
+            "rowIndex": 2,
+            "id": "#00410",
+            "cliente": "Abarrotes Mtz",
+            "proveedor": "Sabritas",
+            "monto": "$3,200.00",
+            "fecha": "03/Jun/2026",
+            "estatus": "Entregado"
+          },
+          {
+            "rowIndex": 3,
+            "id": "#00409",
+            "cliente": "Distribuidora NL",
+            "proveedor": "Grupo Peñafiel",
+            "monto": "$9,800.00",
+            "fecha": "03/Jun/2026",
+            "estatus": "Cancelado"
+          },
+          {
+            "rowIndex": 4,
+            "id": "#00408",
+            "cliente": "Mini Super Lomas",
+            "proveedor": "Arca Continental",
+            "monto": "$5,640.00",
+            "fecha": "02/Jun/2026",
+            "estatus": "Entregado"
+          },
+          {
+            "rowIndex": 5,
+            "id": "#00407",
+            "cliente": "Tienda La Paz",
+            "proveedor": "Barcel",
+            "monto": "$2,900.00",
+            "fecha": "02/Jun/2026",
+            "estatus": "En tránsito"
+          }
+        ]
+      },
+      {
+        "source": "initial_load",
+        "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+        "title": "Portal Empresarial",
+        "visible": false,
+        "parentPageId": "page-pedidos",
+        "parentPageClass": "page",
+        "headers": [
+          "Proveedor",
+          "Producto",
+          "SKU",
+          "Fecha del Pedido",
+          "Unidades",
+          "Precio Unitario",
+          "Precio Final"
+        ],
+        "rowCount": 12,
+        "rows": [
+          {
+            "rowIndex": 0,
+            "proveedor": "Arca Continental",
+            "producto": "Coca Cola 2L",
+            "sku": "ARCA-CC2L-001",
+            "fecha_del_pedido": "01/Jun/2026",
+            "unidades": "240",
+            "precio_unitario": "$22.50",
+            "precio_final": "$5,400.00"
+          },
+          {
+            "rowIndex": 1,
+            "proveedor": "Barcel",
+            "producto": "Papas Habanero 45g",
+            "sku": "BARC-PH45-002",
+            "fecha_del_pedido": "01/Jun/2026",
+            "unidades": "600",
+            "precio_unitario": "$12.00",
+            "precio_final": "$7,200.00"
+          },
+          {
+            "rowIndex": 2,
+            "proveedor": "Sabritas",
+            "producto": "Sabritas Original 60g",
+            "sku": "SABR-SO60-003",
+            "fecha_del_pedido": "02/Jun/2026",
+            "unidades": "480",
+            "precio_unitario": "$13.50",
+            "precio_final": "$6,480.00"
+          },
+          {
+            "rowIndex": 3,
+            "proveedor": "Grupo Peñafiel",
+            "producto": "Agua Peñafiel 1.5L",
+            "sku": "GPEF-AP15-004",
+            "fecha_del_pedido": "02/Jun/2026",
+            "unidades": "360",
+            "precio_unitario": "$14.00",
+            "precio_final": "$5,040.00"
+          },
+          {
+            "rowIndex": 4,
+            "proveedor": "Arca Continental",
+            "producto": "Sprite 2L",
+            "sku": "ARCA-SP2L-005",
+            "fecha_del_pedido": "02/Jun/2026",
+            "unidades": "180",
+            "precio_unitario": "$20.00",
+            "precio_final": "$3,600.00"
+          },
+          {
+            "rowIndex": 5,
+            "proveedor": "Barcel",
+            "producto": "Takis Fuego 100g",
+            "sku": "BARC-TF10-006",
+            "fecha_del_pedido": "03/Jun/2026",
+            "unidades": "300",
+            "precio_unitario": "$18.00",
+            "precio_final": "$5,400.00"
+          },
+          {
+            "rowIndex": 6,
+            "proveedor": "Sabritas",
+            "producto": "Cheetos Flamin' Hot 50g",
+            "sku": "SABR-CF50-007",
+            "fecha_del_pedido": "03/Jun/2026",
+            "unidades": "420",
+            "precio_unitario": "$11.00",
+            "precio_final": "$4,620.00"
+          },
+          {
+            "rowIndex": 7,
+            "proveedor": "Grupo Peñafiel",
+            "producto": "Sidral Mundet 355ml",
+            "sku": "GPEF-SM35-008",
+            "fecha_del_pedido": "03/Jun/2026",
+            "unidades": "720",
+            "precio_unitario": "$9.50",
+            "precio_final": "$6,840.00"
+          },
+          {
+            "rowIndex": 8,
+            "proveedor": "Arca Continental",
+            "producto": "Fanta Naranja 600ml",
+            "sku": "ARCA-FN60-009",
+            "fecha_del_pedido": "04/Jun/2026",
+            "unidades": "540",
+            "precio_unitario": "$16.00",
+            "precio_final": "$8,640.00"
+          },
+          {
+            "rowIndex": 9,
+            "proveedor": "Barcel",
+            "producto": "Chips Chile Limón 45g",
+            "sku": "BARC-CCL45-010",
+            "fecha_del_pedido": "04/Jun/2026",
+            "unidades": "360",
+            "precio_unitario": "$11.50",
+            "precio_final": "$4,140.00"
+          },
+          {
+            "rowIndex": 10,
+            "proveedor": "Sabritas",
+            "producto": "Rancheritos 40g",
+            "sku": "SABR-RA40-011",
+            "fecha_del_pedido": "04/Jun/2026",
+            "unidades": "500",
+            "precio_unitario": "$10.00",
+            "precio_final": "$5,000.00"
+          },
+          {
+            "rowIndex": 11,
+            "proveedor": "Grupo Peñafiel",
+            "producto": "Garci Crespo Mineral 500ml",
+            "sku": "GPEF-GC50-012",
+            "fecha_del_pedido": "05/Jun/2026",
+            "unidades": "800",
+            "precio_unitario": "$8.00",
+            "precio_final": "$6,400.00"
+          }
+        ]
+      },
+      {
+        "source": "after_click_button",
+        "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+        "title": "Portal Empresarial",
+        "visible": true,
+        "parentPageId": "",
+        "headers": [
+          "ID",
+          "CLIENTE",
+          "PROVEEDOR",
+          "MONTO",
+          "FECHA",
+          "ESTATUS"
+        ],
+        "rowCount": 6,
+        "rows": [
+          {
+            "rowIndex": 0,
+            "id": "#00412",
+            "cliente": "Tienda El Sol",
+            "proveedor": "Arca Continental",
+            "monto": "$12,480.00",
+            "fecha": "04/Jun/2026",
+            "estatus": "ENTREGADO"
+          },
+          {
+            "rowIndex": 1,
+            "id": "#00411",
+            "cliente": "Super Norteño",
+            "proveedor": "Barcel",
+            "monto": "$7,350.00",
+            "fecha": "04/Jun/2026",
+            "estatus": "EN TRÁNSITO"
+          },
+          {
+            "rowIndex": 2,
+            "id": "#00410",
+            "cliente": "Abarrotes Mtz",
+            "proveedor": "Sabritas",
+            "monto": "$3,200.00",
+            "fecha": "03/Jun/2026",
+            "estatus": "ENTREGADO"
+          },
+          {
+            "rowIndex": 3,
+            "id": "#00409",
+            "cliente": "Distribuidora NL",
+            "proveedor": "Grupo Peñafiel",
+            "monto": "$9,800.00",
+            "fecha": "03/Jun/2026",
+            "estatus": "CANCELADO"
+          },
+          {
+            "rowIndex": 4,
+            "id": "#00408",
+            "cliente": "Mini Super Lomas",
+            "proveedor": "Arca Continental",
+            "monto": "$5,640.00",
+            "fecha": "02/Jun/2026",
+            "estatus": "ENTREGADO"
+          },
+          {
+            "rowIndex": 5,
+            "id": "#00407",
+            "cliente": "Tienda La Paz",
+            "proveedor": "Barcel",
+            "monto": "$2,900.00",
+            "fecha": "02/Jun/2026",
+            "estatus": "EN TRÁNSITO"
+          }
+        ]
+      },
+      {
+        "source": "after_click_button",
+        "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+        "title": "Portal Empresarial",
+        "visible": false,
+        "parentPageId": "page-pedidos",
+        "parentPageClass": "page",
+        "headers": [
+          "Proveedor",
+          "Producto",
+          "SKU",
+          "Fecha del Pedido",
+          "Unidades",
+          "Precio Unitario",
+          "Precio Final"
+        ],
+        "rowCount": 12,
+        "rows": [
+          {
+            "rowIndex": 0,
+            "proveedor": "Arca Continental",
+            "producto": "Coca Cola 2L",
+            "sku": "ARCA-CC2L-001",
+            "fecha_del_pedido": "01/Jun/2026",
+            "unidades": "240",
+            "precio_unitario": "$22.50",
+            "precio_final": "$5,400.00"
+          },
+          {
+            "rowIndex": 1,
+            "proveedor": "Barcel",
+            "producto": "Papas Habanero 45g",
+            "sku": "BARC-PH45-002",
+            "fecha_del_pedido": "01/Jun/2026",
+            "unidades": "600",
+            "precio_unitario": "$12.00",
+            "precio_final": "$7,200.00"
+          },
+          {
+            "rowIndex": 2,
+            "proveedor": "Sabritas",
+            "producto": "Sabritas Original 60g",
+            "sku": "SABR-SO60-003",
+            "fecha_del_pedido": "02/Jun/2026",
+            "unidades": "480",
+            "precio_unitario": "$13.50",
+            "precio_final": "$6,480.00"
+          },
+          {
+            "rowIndex": 3,
+            "proveedor": "Grupo Peñafiel",
+            "producto": "Agua Peñafiel 1.5L",
+            "sku": "GPEF-AP15-004",
+            "fecha_del_pedido": "02/Jun/2026",
+            "unidades": "360",
+            "precio_unitario": "$14.00",
+            "precio_final": "$5,040.00"
+          },
+          {
+            "rowIndex": 4,
+            "proveedor": "Arca Continental",
+            "producto": "Sprite 2L",
+            "sku": "ARCA-SP2L-005",
+            "fecha_del_pedido": "02/Jun/2026",
+            "unidades": "180",
+            "precio_unitario": "$20.00",
+            "precio_final": "$3,600.00"
+          },
+          {
+            "rowIndex": 5,
+            "proveedor": "Barcel",
+            "producto": "Takis Fuego 100g",
+            "sku": "BARC-TF10-006",
+            "fecha_del_pedido": "03/Jun/2026",
+            "unidades": "300",
+            "precio_unitario": "$18.00",
+            "precio_final": "$5,400.00"
+          },
+          {
+            "rowIndex": 6,
+            "proveedor": "Sabritas",
+            "producto": "Cheetos Flamin' Hot 50g",
+            "sku": "SABR-CF50-007",
+            "fecha_del_pedido": "03/Jun/2026",
+            "unidades": "420",
+            "precio_unitario": "$11.00",
+            "precio_final": "$4,620.00"
+          },
+          {
+            "rowIndex": 7,
+            "proveedor": "Grupo Peñafiel",
+            "producto": "Sidral Mundet 355ml",
+            "sku": "GPEF-SM35-008",
+            "fecha_del_pedido": "03/Jun/2026",
+            "unidades": "720",
+            "precio_unitario": "$9.50",
+            "precio_final": "$6,840.00"
+          },
+          {
+            "rowIndex": 8,
+            "proveedor": "Arca Continental",
+            "producto": "Fanta Naranja 600ml",
+            "sku": "ARCA-FN60-009",
+            "fecha_del_pedido": "04/Jun/2026",
+            "unidades": "540",
+            "precio_unitario": "$16.00",
+            "precio_final": "$8,640.00"
+          },
+          {
+            "rowIndex": 9,
+            "proveedor": "Barcel",
+            "producto": "Chips Chile Limón 45g",
+            "sku": "BARC-CCL45-010",
+            "fecha_del_pedido": "04/Jun/2026",
+            "unidades": "360",
+            "precio_unitario": "$11.50",
+            "precio_final": "$4,140.00"
+          },
+          {
+            "rowIndex": 10,
+            "proveedor": "Sabritas",
+            "producto": "Rancheritos 40g",
+            "sku": "SABR-RA40-011",
+            "fecha_del_pedido": "04/Jun/2026",
+            "unidades": "500",
+            "precio_unitario": "$10.00",
+            "precio_final": "$5,000.00"
+          },
+          {
+            "rowIndex": 11,
+            "proveedor": "Grupo Peñafiel",
+            "producto": "Garci Crespo Mineral 500ml",
+            "sku": "GPEF-GC50-012",
+            "fecha_del_pedido": "05/Jun/2026",
+            "unidades": "800",
+            "precio_unitario": "$8.00",
+            "precio_final": "$6,400.00"
+          }
+        ]
+      },
+      {
+        "source": "after_click_element",
+        "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+        "title": "Portal Empresarial",
+        "visible": true,
+        "parentPageId": "",
+        "headers": [
+          "PROVEEDOR",
+          "PRODUCTO",
+          "SKU",
+          "FECHA DEL PEDIDO",
+          "UNIDADES",
+          "PRECIO UNITARIO",
+          "PRECIO FINAL"
+        ],
+        "rowCount": 12,
+        "rows": [
+          {
+            "rowIndex": 0,
+            "proveedor": "Arca Continental",
+            "producto": "Coca Cola 2L",
+            "sku": "ARCA-CC2L-001",
+            "fecha_del_pedido": "01/Jun/2026",
+            "unidades": "240",
+            "precio_unitario": "$22.50",
+            "precio_final": "$5,400.00"
+          },
+          {
+            "rowIndex": 1,
+            "proveedor": "Barcel",
+            "producto": "Papas Habanero 45g",
+            "sku": "BARC-PH45-002",
+            "fecha_del_pedido": "01/Jun/2026",
+            "unidades": "600",
+            "precio_unitario": "$12.00",
+            "precio_final": "$7,200.00"
+          },
+          {
+            "rowIndex": 2,
+            "proveedor": "Sabritas",
+            "producto": "Sabritas Original 60g",
+            "sku": "SABR-SO60-003",
+            "fecha_del_pedido": "02/Jun/2026",
+            "unidades": "480",
+            "precio_unitario": "$13.50",
+            "precio_final": "$6,480.00"
+          },
+          {
+            "rowIndex": 3,
+            "proveedor": "Grupo Peñafiel",
+            "producto": "Agua Peñafiel 1.5L",
+            "sku": "GPEF-AP15-004",
+            "fecha_del_pedido": "02/Jun/2026",
+            "unidades": "360",
+            "precio_unitario": "$14.00",
+            "precio_final": "$5,040.00"
+          },
+          {
+            "rowIndex": 4,
+            "proveedor": "Arca Continental",
+            "producto": "Sprite 2L",
+            "sku": "ARCA-SP2L-005",
+            "fecha_del_pedido": "02/Jun/2026",
+            "unidades": "180",
+            "precio_unitario": "$20.00",
+            "precio_final": "$3,600.00"
+          },
+          {
+            "rowIndex": 5,
+            "proveedor": "Barcel",
+            "producto": "Takis Fuego 100g",
+            "sku": "BARC-TF10-006",
+            "fecha_del_pedido": "03/Jun/2026",
+            "unidades": "300",
+            "precio_unitario": "$18.00",
+            "precio_final": "$5,400.00"
+          },
+          {
+            "rowIndex": 6,
+            "proveedor": "Sabritas",
+            "producto": "Cheetos Flamin' Hot 50g",
+            "sku": "SABR-CF50-007",
+            "fecha_del_pedido": "03/Jun/2026",
+            "unidades": "420",
+            "precio_unitario": "$11.00",
+            "precio_final": "$4,620.00"
+          },
+          {
+            "rowIndex": 7,
+            "proveedor": "Grupo Peñafiel",
+            "producto": "Sidral Mundet 355ml",
+            "sku": "GPEF-SM35-008",
+            "fecha_del_pedido": "03/Jun/2026",
+            "unidades": "720",
+            "precio_unitario": "$9.50",
+            "precio_final": "$6,840.00"
+          },
+          {
+            "rowIndex": 8,
+            "proveedor": "Arca Continental",
+            "producto": "Fanta Naranja 600ml",
+            "sku": "ARCA-FN60-009",
+            "fecha_del_pedido": "04/Jun/2026",
+            "unidades": "540",
+            "precio_unitario": "$16.00",
+            "precio_final": "$8,640.00"
+          },
+          {
+            "rowIndex": 9,
+            "proveedor": "Barcel",
+            "producto": "Chips Chile Limón 45g",
+            "sku": "BARC-CCL45-010",
+            "fecha_del_pedido": "04/Jun/2026",
+            "unidades": "360",
+            "precio_unitario": "$11.50",
+            "precio_final": "$4,140.00"
+          },
+          {
+            "rowIndex": 10,
+            "proveedor": "Sabritas",
+            "producto": "Rancheritos 40g",
+            "sku": "SABR-RA40-011",
+            "fecha_del_pedido": "04/Jun/2026",
+            "unidades": "500",
+            "precio_unitario": "$10.00",
+            "precio_final": "$5,000.00"
+          },
+          {
+            "rowIndex": 11,
+            "proveedor": "Grupo Peñafiel",
+            "producto": "Garci Crespo Mineral 500ml",
+            "sku": "GPEF-GC50-012",
+            "fecha_del_pedido": "05/Jun/2026",
+            "unidades": "800",
+            "precio_unitario": "$8.00",
+            "precio_final": "$6,400.00"
+          }
+        ]
+      },
+      {
+        "source": "after_click_element",
+        "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+        "title": "Portal Empresarial",
+        "visible": false,
+        "parentPageId": "page-inicio",
+        "parentPageClass": "page",
+        "headers": [
+          "ID",
+          "Cliente",
+          "Proveedor",
+          "Monto",
+          "Fecha",
+          "Estatus"
+        ],
+        "rowCount": 6,
+        "rows": [
+          {
+            "rowIndex": 0,
+            "id": "#00412",
+            "cliente": "Tienda El Sol",
+            "proveedor": "Arca Continental",
+            "monto": "$12,480.00",
+            "fecha": "04/Jun/2026",
+            "estatus": "Entregado"
+          },
+          {
+            "rowIndex": 1,
+            "id": "#00411",
+            "cliente": "Super Norteño",
+            "proveedor": "Barcel",
+            "monto": "$7,350.00",
+            "fecha": "04/Jun/2026",
+            "estatus": "En tránsito"
+          },
+          {
+            "rowIndex": 2,
+            "id": "#00410",
+            "cliente": "Abarrotes Mtz",
+            "proveedor": "Sabritas",
+            "monto": "$3,200.00",
+            "fecha": "03/Jun/2026",
+            "estatus": "Entregado"
+          },
+          {
+            "rowIndex": 3,
+            "id": "#00409",
+            "cliente": "Distribuidora NL",
+            "proveedor": "Grupo Peñafiel",
+            "monto": "$9,800.00",
+            "fecha": "03/Jun/2026",
+            "estatus": "Cancelado"
+          },
+          {
+            "rowIndex": 4,
+            "id": "#00408",
+            "cliente": "Mini Super Lomas",
+            "proveedor": "Arca Continental",
+            "monto": "$5,640.00",
+            "fecha": "02/Jun/2026",
+            "estatus": "Entregado"
+          },
+          {
+            "rowIndex": 5,
+            "id": "#00407",
+            "cliente": "Tienda La Paz",
+            "proveedor": "Barcel",
+            "monto": "$2,900.00",
+            "fecha": "02/Jun/2026",
+            "estatus": "En tránsito"
+          }
+        ]
+      },
+      {
+        "source": "final_state",
+        "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+        "title": "Portal Empresarial",
+        "visible": true,
+        "parentPageId": "",
+        "headers": [
+          "PROVEEDOR",
+          "PRODUCTO",
+          "SKU",
+          "FECHA DEL PEDIDO",
+          "UNIDADES",
+          "PRECIO UNITARIO",
+          "PRECIO FINAL"
+        ],
+        "rowCount": 12,
+        "rows": [
+          {
+            "rowIndex": 0,
+            "proveedor": "Arca Continental",
+            "producto": "Coca Cola 2L",
+            "sku": "ARCA-CC2L-001",
+            "fecha_del_pedido": "01/Jun/2026",
+            "unidades": "240",
+            "precio_unitario": "$22.50",
+            "precio_final": "$5,400.00"
+          },
+          {
+            "rowIndex": 1,
+            "proveedor": "Barcel",
+            "producto": "Papas Habanero 45g",
+            "sku": "BARC-PH45-002",
+            "fecha_del_pedido": "01/Jun/2026",
+            "unidades": "600",
+            "precio_unitario": "$12.00",
+            "precio_final": "$7,200.00"
+          },
+          {
+            "rowIndex": 2,
+            "proveedor": "Sabritas",
+            "producto": "Sabritas Original 60g",
+            "sku": "SABR-SO60-003",
+            "fecha_del_pedido": "02/Jun/2026",
+            "unidades": "480",
+            "precio_unitario": "$13.50",
+            "precio_final": "$6,480.00"
+          },
+          {
+            "rowIndex": 3,
+            "proveedor": "Grupo Peñafiel",
+            "producto": "Agua Peñafiel 1.5L",
+            "sku": "GPEF-AP15-004",
+            "fecha_del_pedido": "02/Jun/2026",
+            "unidades": "360",
+            "precio_unitario": "$14.00",
+            "precio_final": "$5,040.00"
+          },
+          {
+            "rowIndex": 4,
+            "proveedor": "Arca Continental",
+            "producto": "Sprite 2L",
+            "sku": "ARCA-SP2L-005",
+            "fecha_del_pedido": "02/Jun/2026",
+            "unidades": "180",
+            "precio_unitario": "$20.00",
+            "precio_final": "$3,600.00"
+          },
+          {
+            "rowIndex": 5,
+            "proveedor": "Barcel",
+            "producto": "Takis Fuego 100g",
+            "sku": "BARC-TF10-006",
+            "fecha_del_pedido": "03/Jun/2026",
+            "unidades": "300",
+            "precio_unitario": "$18.00",
+            "precio_final": "$5,400.00"
+          },
+          {
+            "rowIndex": 6,
+            "proveedor": "Sabritas",
+            "producto": "Cheetos Flamin' Hot 50g",
+            "sku": "SABR-CF50-007",
+            "fecha_del_pedido": "03/Jun/2026",
+            "unidades": "420",
+            "precio_unitario": "$11.00",
+            "precio_final": "$4,620.00"
+          },
+          {
+            "rowIndex": 7,
+            "proveedor": "Grupo Peñafiel",
+            "producto": "Sidral Mundet 355ml",
+            "sku": "GPEF-SM35-008",
+            "fecha_del_pedido": "03/Jun/2026",
+            "unidades": "720",
+            "precio_unitario": "$9.50",
+            "precio_final": "$6,840.00"
+          },
+          {
+            "rowIndex": 8,
+            "proveedor": "Arca Continental",
+            "producto": "Fanta Naranja 600ml",
+            "sku": "ARCA-FN60-009",
+            "fecha_del_pedido": "04/Jun/2026",
+            "unidades": "540",
+            "precio_unitario": "$16.00",
+            "precio_final": "$8,640.00"
+          },
+          {
+            "rowIndex": 9,
+            "proveedor": "Barcel",
+            "producto": "Chips Chile Limón 45g",
+            "sku": "BARC-CCL45-010",
+            "fecha_del_pedido": "04/Jun/2026",
+            "unidades": "360",
+            "precio_unitario": "$11.50",
+            "precio_final": "$4,140.00"
+          },
+          {
+            "rowIndex": 10,
+            "proveedor": "Sabritas",
+            "producto": "Rancheritos 40g",
+            "sku": "SABR-RA40-011",
+            "fecha_del_pedido": "04/Jun/2026",
+            "unidades": "500",
+            "precio_unitario": "$10.00",
+            "precio_final": "$5,000.00"
+          },
+          {
+            "rowIndex": 11,
+            "proveedor": "Grupo Peñafiel",
+            "producto": "Garci Crespo Mineral 500ml",
+            "sku": "GPEF-GC50-012",
+            "fecha_del_pedido": "05/Jun/2026",
+            "unidades": "800",
+            "precio_unitario": "$8.00",
+            "precio_final": "$6,400.00"
+          }
+        ]
+      },
+      {
+        "source": "final_state",
+        "url": "file:///C:/Users/isabe/Downloads/heb_tienda.html",
+        "title": "Portal Empresarial",
+        "visible": false,
+        "parentPageId": "page-inicio",
+        "parentPageClass": "page",
+        "headers": [
+          "ID",
+          "Cliente",
+          "Proveedor",
+          "Monto",
+          "Fecha",
+          "Estatus"
+        ],
+        "rowCount": 6,
+        "rows": [
+          {
+            "rowIndex": 0,
+            "id": "#00412",
+            "cliente": "Tienda El Sol",
+            "proveedor": "Arca Continental",
+            "monto": "$12,480.00",
+            "fecha": "04/Jun/2026",
+            "estatus": "Entregado"
+          },
+          {
+            "rowIndex": 1,
+            "id": "#00411",
+            "cliente": "Super Norteño",
+            "proveedor": "Barcel",
+            "monto": "$7,350.00",
+            "fecha": "04/Jun/2026",
+            "estatus": "En tránsito"
+          },
+          {
+            "rowIndex": 2,
+            "id": "#00410",
+            "cliente": "Abarrotes Mtz",
+            "proveedor": "Sabritas",
+            "monto": "$3,200.00",
+            "fecha": "03/Jun/2026",
+            "estatus": "Entregado"
+          },
+          {
+            "rowIndex": 3,
+            "id": "#00409",
+            "cliente": "Distribuidora NL",
+            "proveedor": "Grupo Peñafiel",
+            "monto": "$9,800.00",
+            "fecha": "03/Jun/2026",
+            "estatus": "Cancelado"
+          },
+          {
+            "rowIndex": 4,
+            "id": "#00408",
+            "cliente": "Mini Super Lomas",
+            "proveedor": "Arca Continental",
+            "monto": "$5,640.00",
+            "fecha": "02/Jun/2026",
+            "estatus": "Entregado"
+          },
+          {
+            "rowIndex": 5,
+            "id": "#00407",
+            "cliente": "Tienda La Paz",
+            "proveedor": "Barcel",
+            "monto": "$2,900.00",
+            "fecha": "02/Jun/2026",
+            "estatus": "En tránsito"
+          }
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "Arca Continental",
+        "rowCount": 20,
+        "totalAmount": 143040,
+        "totalUnits": 3840,
+        "products": [
+          {
+            "product": "Coca Cola 2L",
+            "sku": "ARCA-CC2L-001",
+            "date": "01/Jun/2026",
+            "units": "240",
+            "unitPrice": "$22.50",
+            "finalPrice": "$5,400.00"
+          },
+          {
+            "product": "Sprite 2L",
+            "sku": "ARCA-SP2L-005",
+            "date": "02/Jun/2026",
+            "units": "180",
+            "unitPrice": "$20.00",
+            "finalPrice": "$3,600.00"
+          },
+          {
+            "product": "Fanta Naranja 600ml",
+            "sku": "ARCA-FN60-009",
+            "date": "04/Jun/2026",
+            "units": "540",
+            "unitPrice": "$16.00",
+            "finalPrice": "$8,640.00"
+          },
+          {
+            "product": "Coca Cola 2L",
+            "sku": "ARCA-CC2L-001",
+            "date": "01/Jun/2026",
+            "units": "240",
+            "unitPrice": "$22.50",
+            "finalPrice": "$5,400.00"
+          },
+          {
+            "product": "Sprite 2L",
+            "sku": "ARCA-SP2L-005",
+            "date": "02/Jun/2026",
+            "units": "180",
+            "unitPrice": "$20.00",
+            "finalPrice": "$3,600.00"
+          },
+          {
+            "product": "Fanta Naranja 600ml",
+            "sku": "ARCA-FN60-009",
+            "date": "04/Jun/2026",
+            "units": "540",
+            "unitPrice": "$16.00",
+            "finalPrice": "$8,640.00"
+          },
+          {
+            "product": "Coca Cola 2L",
+            "sku": "ARCA-CC2L-001",
+            "date": "01/Jun/2026",
+            "units": "240",
+            "unitPrice": "$22.50",
+            "finalPrice": "$5,400.00"
+          },
+          {
+            "product": "Sprite 2L",
+            "sku": "ARCA-SP2L-005",
+            "date": "02/Jun/2026",
+            "units": "180",
+            "unitPrice": "$20.00",
+            "finalPrice": "$3,600.00"
+          },
+          {
+            "product": "Fanta Naranja 600ml",
+            "sku": "ARCA-FN60-009",
+            "date": "04/Jun/2026",
+            "units": "540",
+            "unitPrice": "$16.00",
+            "finalPrice": "$8,640.00"
+          },
+          {
+            "product": "Coca Cola 2L",
+            "sku": "ARCA-CC2L-001",
+            "date": "01/Jun/2026",
+            "units": "240",
+            "unitPrice": "$22.50",
+            "finalPrice": "$5,400.00"
+          },
+          {
+            "product": "Sprite 2L",
+            "sku": "ARCA-SP2L-005",
+            "date": "02/Jun/2026",
+            "units": "180",
+            "unitPrice": "$20.00",
+            "finalPrice": "$3,600.00"
+          },
+          {
+            "product": "Fanta Naranja 600ml",
+            "sku": "ARCA-FN60-009",
+            "date": "04/Jun/2026",
+            "units": "540",
+            "unitPrice": "$16.00",
+            "finalPrice": "$8,640.00"
+          }
+        ],
+        "clients": [
+          "Tienda El Sol",
+          "Mini Super Lomas"
+        ],
+        "rows": [
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 0,
+              "id": "#00412",
+              "cliente": "Tienda El Sol",
+              "proveedor": "Arca Continental",
+              "monto": "$12,480.00",
+              "fecha": "04/Jun/2026",
+              "estatus": "Entregado"
+            }
+          },
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 4,
+              "id": "#00408",
+              "cliente": "Mini Super Lomas",
+              "proveedor": "Arca Continental",
+              "monto": "$5,640.00",
+              "fecha": "02/Jun/2026",
+              "estatus": "Entregado"
+            }
+          },
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 0,
+              "proveedor": "Arca Continental",
+              "producto": "Coca Cola 2L",
+              "sku": "ARCA-CC2L-001",
+              "fecha_del_pedido": "01/Jun/2026",
+              "unidades": "240",
+              "precio_unitario": "$22.50",
+              "precio_final": "$5,400.00"
+            }
+          },
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 4,
+              "proveedor": "Arca Continental",
+              "producto": "Sprite 2L",
+              "sku": "ARCA-SP2L-005",
+              "fecha_del_pedido": "02/Jun/2026",
+              "unidades": "180",
+              "precio_unitario": "$20.00",
+              "precio_final": "$3,600.00"
+            }
+          },
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 8,
+              "proveedor": "Arca Continental",
+              "producto": "Fanta Naranja 600ml",
+              "sku": "ARCA-FN60-009",
+              "fecha_del_pedido": "04/Jun/2026",
+              "unidades": "540",
+              "precio_unitario": "$16.00",
+              "precio_final": "$8,640.00"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": true,
+            "data": {
+              "rowIndex": 0,
+              "id": "#00412",
+              "cliente": "Tienda El Sol",
+              "proveedor": "Arca Continental",
+              "monto": "$12,480.00",
+              "fecha": "04/Jun/2026",
+              "estatus": "ENTREGADO"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": true,
+            "data": {
+              "rowIndex": 4,
+              "id": "#00408",
+              "cliente": "Mini Super Lomas",
+              "proveedor": "Arca Continental",
+              "monto": "$5,640.00",
+              "fecha": "02/Jun/2026",
+              "estatus": "ENTREGADO"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": false,
+            "data": {
+              "rowIndex": 0,
+              "proveedor": "Arca Continental",
+              "producto": "Coca Cola 2L",
+              "sku": "ARCA-CC2L-001",
+              "fecha_del_pedido": "01/Jun/2026",
+              "unidades": "240",
+              "precio_unitario": "$22.50",
+              "precio_final": "$5,400.00"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": false,
+            "data": {
+              "rowIndex": 4,
+              "proveedor": "Arca Continental",
+              "producto": "Sprite 2L",
+              "sku": "ARCA-SP2L-005",
+              "fecha_del_pedido": "02/Jun/2026",
+              "unidades": "180",
+              "precio_unitario": "$20.00",
+              "precio_final": "$3,600.00"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": false,
+            "data": {
+              "rowIndex": 8,
+              "proveedor": "Arca Continental",
+              "producto": "Fanta Naranja 600ml",
+              "sku": "ARCA-FN60-009",
+              "fecha_del_pedido": "04/Jun/2026",
+              "unidades": "540",
+              "precio_unitario": "$16.00",
+              "precio_final": "$8,640.00"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": true,
+            "data": {
+              "rowIndex": 0,
+              "proveedor": "Arca Continental",
+              "producto": "Coca Cola 2L",
+              "sku": "ARCA-CC2L-001",
+              "fecha_del_pedido": "01/Jun/2026",
+              "unidades": "240",
+              "precio_unitario": "$22.50",
+              "precio_final": "$5,400.00"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": true,
+            "data": {
+              "rowIndex": 4,
+              "proveedor": "Arca Continental",
+              "producto": "Sprite 2L",
+              "sku": "ARCA-SP2L-005",
+              "fecha_del_pedido": "02/Jun/2026",
+              "unidades": "180",
+              "precio_unitario": "$20.00",
+              "precio_final": "$3,600.00"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": true,
+            "data": {
+              "rowIndex": 8,
+              "proveedor": "Arca Continental",
+              "producto": "Fanta Naranja 600ml",
+              "sku": "ARCA-FN60-009",
+              "fecha_del_pedido": "04/Jun/2026",
+              "unidades": "540",
+              "precio_unitario": "$16.00",
+              "precio_final": "$8,640.00"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": false,
+            "data": {
+              "rowIndex": 0,
+              "id": "#00412",
+              "cliente": "Tienda El Sol",
+              "proveedor": "Arca Continental",
+              "monto": "$12,480.00",
+              "fecha": "04/Jun/2026",
+              "estatus": "Entregado"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": false,
+            "data": {
+              "rowIndex": 4,
+              "id": "#00408",
+              "cliente": "Mini Super Lomas",
+              "proveedor": "Arca Continental",
+              "monto": "$5,640.00",
+              "fecha": "02/Jun/2026",
+              "estatus": "Entregado"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": true,
+            "data": {
+              "rowIndex": 0,
+              "proveedor": "Arca Continental",
+              "producto": "Coca Cola 2L",
+              "sku": "ARCA-CC2L-001",
+              "fecha_del_pedido": "01/Jun/2026",
+              "unidades": "240",
+              "precio_unitario": "$22.50",
+              "precio_final": "$5,400.00"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": true,
+            "data": {
+              "rowIndex": 4,
+              "proveedor": "Arca Continental",
+              "producto": "Sprite 2L",
+              "sku": "ARCA-SP2L-005",
+              "fecha_del_pedido": "02/Jun/2026",
+              "unidades": "180",
+              "precio_unitario": "$20.00",
+              "precio_final": "$3,600.00"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": true,
+            "data": {
+              "rowIndex": 8,
+              "proveedor": "Arca Continental",
+              "producto": "Fanta Naranja 600ml",
+              "sku": "ARCA-FN60-009",
+              "fecha_del_pedido": "04/Jun/2026",
+              "unidades": "540",
+              "precio_unitario": "$16.00",
+              "precio_final": "$8,640.00"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": false,
+            "data": {
+              "rowIndex": 0,
+              "id": "#00412",
+              "cliente": "Tienda El Sol",
+              "proveedor": "Arca Continental",
+              "monto": "$12,480.00",
+              "fecha": "04/Jun/2026",
+              "estatus": "Entregado"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": false,
+            "data": {
+              "rowIndex": 4,
+              "id": "#00408",
+              "cliente": "Mini Super Lomas",
+              "proveedor": "Arca Continental",
+              "monto": "$5,640.00",
+              "fecha": "02/Jun/2026",
+              "estatus": "Entregado"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Barcel",
+        "rowCount": 20,
+        "totalAmount": 107960,
+        "totalUnits": 5040,
+        "products": [
+          {
+            "product": "Papas Habanero 45g",
+            "sku": "BARC-PH45-002",
+            "date": "01/Jun/2026",
+            "units": "600",
+            "unitPrice": "$12.00",
+            "finalPrice": "$7,200.00"
+          },
+          {
+            "product": "Takis Fuego 100g",
+            "sku": "BARC-TF10-006",
+            "date": "03/Jun/2026",
+            "units": "300",
+            "unitPrice": "$18.00",
+            "finalPrice": "$5,400.00"
+          },
+          {
+            "product": "Chips Chile Limón 45g",
+            "sku": "BARC-CCL45-010",
+            "date": "04/Jun/2026",
+            "units": "360",
+            "unitPrice": "$11.50",
+            "finalPrice": "$4,140.00"
+          },
+          {
+            "product": "Papas Habanero 45g",
+            "sku": "BARC-PH45-002",
+            "date": "01/Jun/2026",
+            "units": "600",
+            "unitPrice": "$12.00",
+            "finalPrice": "$7,200.00"
+          },
+          {
+            "product": "Takis Fuego 100g",
+            "sku": "BARC-TF10-006",
+            "date": "03/Jun/2026",
+            "units": "300",
+            "unitPrice": "$18.00",
+            "finalPrice": "$5,400.00"
+          },
+          {
+            "product": "Chips Chile Limón 45g",
+            "sku": "BARC-CCL45-010",
+            "date": "04/Jun/2026",
+            "units": "360",
+            "unitPrice": "$11.50",
+            "finalPrice": "$4,140.00"
+          },
+          {
+            "product": "Papas Habanero 45g",
+            "sku": "BARC-PH45-002",
+            "date": "01/Jun/2026",
+            "units": "600",
+            "unitPrice": "$12.00",
+            "finalPrice": "$7,200.00"
+          },
+          {
+            "product": "Takis Fuego 100g",
+            "sku": "BARC-TF10-006",
+            "date": "03/Jun/2026",
+            "units": "300",
+            "unitPrice": "$18.00",
+            "finalPrice": "$5,400.00"
+          },
+          {
+            "product": "Chips Chile Limón 45g",
+            "sku": "BARC-CCL45-010",
+            "date": "04/Jun/2026",
+            "units": "360",
+            "unitPrice": "$11.50",
+            "finalPrice": "$4,140.00"
+          },
+          {
+            "product": "Papas Habanero 45g",
+            "sku": "BARC-PH45-002",
+            "date": "01/Jun/2026",
+            "units": "600",
+            "unitPrice": "$12.00",
+            "finalPrice": "$7,200.00"
+          },
+          {
+            "product": "Takis Fuego 100g",
+            "sku": "BARC-TF10-006",
+            "date": "03/Jun/2026",
+            "units": "300",
+            "unitPrice": "$18.00",
+            "finalPrice": "$5,400.00"
+          },
+          {
+            "product": "Chips Chile Limón 45g",
+            "sku": "BARC-CCL45-010",
+            "date": "04/Jun/2026",
+            "units": "360",
+            "unitPrice": "$11.50",
+            "finalPrice": "$4,140.00"
+          }
+        ],
+        "clients": [
+          "Super Norteño",
+          "Tienda La Paz"
+        ],
+        "rows": [
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 1,
+              "id": "#00411",
+              "cliente": "Super Norteño",
+              "proveedor": "Barcel",
+              "monto": "$7,350.00",
+              "fecha": "04/Jun/2026",
+              "estatus": "En tránsito"
+            }
+          },
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 5,
+              "id": "#00407",
+              "cliente": "Tienda La Paz",
+              "proveedor": "Barcel",
+              "monto": "$2,900.00",
+              "fecha": "02/Jun/2026",
+              "estatus": "En tránsito"
+            }
+          },
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 1,
+              "proveedor": "Barcel",
+              "producto": "Papas Habanero 45g",
+              "sku": "BARC-PH45-002",
+              "fecha_del_pedido": "01/Jun/2026",
+              "unidades": "600",
+              "precio_unitario": "$12.00",
+              "precio_final": "$7,200.00"
+            }
+          },
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 5,
+              "proveedor": "Barcel",
+              "producto": "Takis Fuego 100g",
+              "sku": "BARC-TF10-006",
+              "fecha_del_pedido": "03/Jun/2026",
+              "unidades": "300",
+              "precio_unitario": "$18.00",
+              "precio_final": "$5,400.00"
+            }
+          },
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 9,
+              "proveedor": "Barcel",
+              "producto": "Chips Chile Limón 45g",
+              "sku": "BARC-CCL45-010",
+              "fecha_del_pedido": "04/Jun/2026",
+              "unidades": "360",
+              "precio_unitario": "$11.50",
+              "precio_final": "$4,140.00"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": true,
+            "data": {
+              "rowIndex": 1,
+              "id": "#00411",
+              "cliente": "Super Norteño",
+              "proveedor": "Barcel",
+              "monto": "$7,350.00",
+              "fecha": "04/Jun/2026",
+              "estatus": "EN TRÁNSITO"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": true,
+            "data": {
+              "rowIndex": 5,
+              "id": "#00407",
+              "cliente": "Tienda La Paz",
+              "proveedor": "Barcel",
+              "monto": "$2,900.00",
+              "fecha": "02/Jun/2026",
+              "estatus": "EN TRÁNSITO"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": false,
+            "data": {
+              "rowIndex": 1,
+              "proveedor": "Barcel",
+              "producto": "Papas Habanero 45g",
+              "sku": "BARC-PH45-002",
+              "fecha_del_pedido": "01/Jun/2026",
+              "unidades": "600",
+              "precio_unitario": "$12.00",
+              "precio_final": "$7,200.00"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": false,
+            "data": {
+              "rowIndex": 5,
+              "proveedor": "Barcel",
+              "producto": "Takis Fuego 100g",
+              "sku": "BARC-TF10-006",
+              "fecha_del_pedido": "03/Jun/2026",
+              "unidades": "300",
+              "precio_unitario": "$18.00",
+              "precio_final": "$5,400.00"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": false,
+            "data": {
+              "rowIndex": 9,
+              "proveedor": "Barcel",
+              "producto": "Chips Chile Limón 45g",
+              "sku": "BARC-CCL45-010",
+              "fecha_del_pedido": "04/Jun/2026",
+              "unidades": "360",
+              "precio_unitario": "$11.50",
+              "precio_final": "$4,140.00"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": true,
+            "data": {
+              "rowIndex": 1,
+              "proveedor": "Barcel",
+              "producto": "Papas Habanero 45g",
+              "sku": "BARC-PH45-002",
+              "fecha_del_pedido": "01/Jun/2026",
+              "unidades": "600",
+              "precio_unitario": "$12.00",
+              "precio_final": "$7,200.00"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": true,
+            "data": {
+              "rowIndex": 5,
+              "proveedor": "Barcel",
+              "producto": "Takis Fuego 100g",
+              "sku": "BARC-TF10-006",
+              "fecha_del_pedido": "03/Jun/2026",
+              "unidades": "300",
+              "precio_unitario": "$18.00",
+              "precio_final": "$5,400.00"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": true,
+            "data": {
+              "rowIndex": 9,
+              "proveedor": "Barcel",
+              "producto": "Chips Chile Limón 45g",
+              "sku": "BARC-CCL45-010",
+              "fecha_del_pedido": "04/Jun/2026",
+              "unidades": "360",
+              "precio_unitario": "$11.50",
+              "precio_final": "$4,140.00"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": false,
+            "data": {
+              "rowIndex": 1,
+              "id": "#00411",
+              "cliente": "Super Norteño",
+              "proveedor": "Barcel",
+              "monto": "$7,350.00",
+              "fecha": "04/Jun/2026",
+              "estatus": "En tránsito"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": false,
+            "data": {
+              "rowIndex": 5,
+              "id": "#00407",
+              "cliente": "Tienda La Paz",
+              "proveedor": "Barcel",
+              "monto": "$2,900.00",
+              "fecha": "02/Jun/2026",
+              "estatus": "En tránsito"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": true,
+            "data": {
+              "rowIndex": 1,
+              "proveedor": "Barcel",
+              "producto": "Papas Habanero 45g",
+              "sku": "BARC-PH45-002",
+              "fecha_del_pedido": "01/Jun/2026",
+              "unidades": "600",
+              "precio_unitario": "$12.00",
+              "precio_final": "$7,200.00"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": true,
+            "data": {
+              "rowIndex": 5,
+              "proveedor": "Barcel",
+              "producto": "Takis Fuego 100g",
+              "sku": "BARC-TF10-006",
+              "fecha_del_pedido": "03/Jun/2026",
+              "unidades": "300",
+              "precio_unitario": "$18.00",
+              "precio_final": "$5,400.00"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": true,
+            "data": {
+              "rowIndex": 9,
+              "proveedor": "Barcel",
+              "producto": "Chips Chile Limón 45g",
+              "sku": "BARC-CCL45-010",
+              "fecha_del_pedido": "04/Jun/2026",
+              "unidades": "360",
+              "precio_unitario": "$11.50",
+              "precio_final": "$4,140.00"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": false,
+            "data": {
+              "rowIndex": 1,
+              "id": "#00411",
+              "cliente": "Super Norteño",
+              "proveedor": "Barcel",
+              "monto": "$7,350.00",
+              "fecha": "04/Jun/2026",
+              "estatus": "En tránsito"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": false,
+            "data": {
+              "rowIndex": 5,
+              "id": "#00407",
+              "cliente": "Tienda La Paz",
+              "proveedor": "Barcel",
+              "monto": "$2,900.00",
+              "fecha": "02/Jun/2026",
+              "estatus": "En tránsito"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sabritas",
+        "rowCount": 16,
+        "totalAmount": 77200,
+        "totalUnits": 5600,
+        "products": [
+          {
+            "product": "Sabritas Original 60g",
+            "sku": "SABR-SO60-003",
+            "date": "02/Jun/2026",
+            "units": "480",
+            "unitPrice": "$13.50",
+            "finalPrice": "$6,480.00"
+          },
+          {
+            "product": "Cheetos Flamin' Hot 50g",
+            "sku": "SABR-CF50-007",
+            "date": "03/Jun/2026",
+            "units": "420",
+            "unitPrice": "$11.00",
+            "finalPrice": "$4,620.00"
+          },
+          {
+            "product": "Rancheritos 40g",
+            "sku": "SABR-RA40-011",
+            "date": "04/Jun/2026",
+            "units": "500",
+            "unitPrice": "$10.00",
+            "finalPrice": "$5,000.00"
+          },
+          {
+            "product": "Sabritas Original 60g",
+            "sku": "SABR-SO60-003",
+            "date": "02/Jun/2026",
+            "units": "480",
+            "unitPrice": "$13.50",
+            "finalPrice": "$6,480.00"
+          },
+          {
+            "product": "Cheetos Flamin' Hot 50g",
+            "sku": "SABR-CF50-007",
+            "date": "03/Jun/2026",
+            "units": "420",
+            "unitPrice": "$11.00",
+            "finalPrice": "$4,620.00"
+          },
+          {
+            "product": "Rancheritos 40g",
+            "sku": "SABR-RA40-011",
+            "date": "04/Jun/2026",
+            "units": "500",
+            "unitPrice": "$10.00",
+            "finalPrice": "$5,000.00"
+          },
+          {
+            "product": "Sabritas Original 60g",
+            "sku": "SABR-SO60-003",
+            "date": "02/Jun/2026",
+            "units": "480",
+            "unitPrice": "$13.50",
+            "finalPrice": "$6,480.00"
+          },
+          {
+            "product": "Cheetos Flamin' Hot 50g",
+            "sku": "SABR-CF50-007",
+            "date": "03/Jun/2026",
+            "units": "420",
+            "unitPrice": "$11.00",
+            "finalPrice": "$4,620.00"
+          },
+          {
+            "product": "Rancheritos 40g",
+            "sku": "SABR-RA40-011",
+            "date": "04/Jun/2026",
+            "units": "500",
+            "unitPrice": "$10.00",
+            "finalPrice": "$5,000.00"
+          },
+          {
+            "product": "Sabritas Original 60g",
+            "sku": "SABR-SO60-003",
+            "date": "02/Jun/2026",
+            "units": "480",
+            "unitPrice": "$13.50",
+            "finalPrice": "$6,480.00"
+          },
+          {
+            "product": "Cheetos Flamin' Hot 50g",
+            "sku": "SABR-CF50-007",
+            "date": "03/Jun/2026",
+            "units": "420",
+            "unitPrice": "$11.00",
+            "finalPrice": "$4,620.00"
+          },
+          {
+            "product": "Rancheritos 40g",
+            "sku": "SABR-RA40-011",
+            "date": "04/Jun/2026",
+            "units": "500",
+            "unitPrice": "$10.00",
+            "finalPrice": "$5,000.00"
+          }
+        ],
+        "clients": [
+          "Abarrotes Mtz"
+        ],
+        "rows": [
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 2,
+              "id": "#00410",
+              "cliente": "Abarrotes Mtz",
+              "proveedor": "Sabritas",
+              "monto": "$3,200.00",
+              "fecha": "03/Jun/2026",
+              "estatus": "Entregado"
+            }
+          },
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 2,
+              "proveedor": "Sabritas",
+              "producto": "Sabritas Original 60g",
+              "sku": "SABR-SO60-003",
+              "fecha_del_pedido": "02/Jun/2026",
+              "unidades": "480",
+              "precio_unitario": "$13.50",
+              "precio_final": "$6,480.00"
+            }
+          },
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 6,
+              "proveedor": "Sabritas",
+              "producto": "Cheetos Flamin' Hot 50g",
+              "sku": "SABR-CF50-007",
+              "fecha_del_pedido": "03/Jun/2026",
+              "unidades": "420",
+              "precio_unitario": "$11.00",
+              "precio_final": "$4,620.00"
+            }
+          },
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 10,
+              "proveedor": "Sabritas",
+              "producto": "Rancheritos 40g",
+              "sku": "SABR-RA40-011",
+              "fecha_del_pedido": "04/Jun/2026",
+              "unidades": "500",
+              "precio_unitario": "$10.00",
+              "precio_final": "$5,000.00"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": true,
+            "data": {
+              "rowIndex": 2,
+              "id": "#00410",
+              "cliente": "Abarrotes Mtz",
+              "proveedor": "Sabritas",
+              "monto": "$3,200.00",
+              "fecha": "03/Jun/2026",
+              "estatus": "ENTREGADO"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": false,
+            "data": {
+              "rowIndex": 2,
+              "proveedor": "Sabritas",
+              "producto": "Sabritas Original 60g",
+              "sku": "SABR-SO60-003",
+              "fecha_del_pedido": "02/Jun/2026",
+              "unidades": "480",
+              "precio_unitario": "$13.50",
+              "precio_final": "$6,480.00"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": false,
+            "data": {
+              "rowIndex": 6,
+              "proveedor": "Sabritas",
+              "producto": "Cheetos Flamin' Hot 50g",
+              "sku": "SABR-CF50-007",
+              "fecha_del_pedido": "03/Jun/2026",
+              "unidades": "420",
+              "precio_unitario": "$11.00",
+              "precio_final": "$4,620.00"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": false,
+            "data": {
+              "rowIndex": 10,
+              "proveedor": "Sabritas",
+              "producto": "Rancheritos 40g",
+              "sku": "SABR-RA40-011",
+              "fecha_del_pedido": "04/Jun/2026",
+              "unidades": "500",
+              "precio_unitario": "$10.00",
+              "precio_final": "$5,000.00"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": true,
+            "data": {
+              "rowIndex": 2,
+              "proveedor": "Sabritas",
+              "producto": "Sabritas Original 60g",
+              "sku": "SABR-SO60-003",
+              "fecha_del_pedido": "02/Jun/2026",
+              "unidades": "480",
+              "precio_unitario": "$13.50",
+              "precio_final": "$6,480.00"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": true,
+            "data": {
+              "rowIndex": 6,
+              "proveedor": "Sabritas",
+              "producto": "Cheetos Flamin' Hot 50g",
+              "sku": "SABR-CF50-007",
+              "fecha_del_pedido": "03/Jun/2026",
+              "unidades": "420",
+              "precio_unitario": "$11.00",
+              "precio_final": "$4,620.00"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": true,
+            "data": {
+              "rowIndex": 10,
+              "proveedor": "Sabritas",
+              "producto": "Rancheritos 40g",
+              "sku": "SABR-RA40-011",
+              "fecha_del_pedido": "04/Jun/2026",
+              "unidades": "500",
+              "precio_unitario": "$10.00",
+              "precio_final": "$5,000.00"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": false,
+            "data": {
+              "rowIndex": 2,
+              "id": "#00410",
+              "cliente": "Abarrotes Mtz",
+              "proveedor": "Sabritas",
+              "monto": "$3,200.00",
+              "fecha": "03/Jun/2026",
+              "estatus": "Entregado"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": true,
+            "data": {
+              "rowIndex": 2,
+              "proveedor": "Sabritas",
+              "producto": "Sabritas Original 60g",
+              "sku": "SABR-SO60-003",
+              "fecha_del_pedido": "02/Jun/2026",
+              "unidades": "480",
+              "precio_unitario": "$13.50",
+              "precio_final": "$6,480.00"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": true,
+            "data": {
+              "rowIndex": 6,
+              "proveedor": "Sabritas",
+              "producto": "Cheetos Flamin' Hot 50g",
+              "sku": "SABR-CF50-007",
+              "fecha_del_pedido": "03/Jun/2026",
+              "unidades": "420",
+              "precio_unitario": "$11.00",
+              "precio_final": "$4,620.00"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": true,
+            "data": {
+              "rowIndex": 10,
+              "proveedor": "Sabritas",
+              "producto": "Rancheritos 40g",
+              "sku": "SABR-RA40-011",
+              "fecha_del_pedido": "04/Jun/2026",
+              "unidades": "500",
+              "precio_unitario": "$10.00",
+              "precio_final": "$5,000.00"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": false,
+            "data": {
+              "rowIndex": 2,
+              "id": "#00410",
+              "cliente": "Abarrotes Mtz",
+              "proveedor": "Sabritas",
+              "monto": "$3,200.00",
+              "fecha": "03/Jun/2026",
+              "estatus": "Entregado"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Grupo Peñafiel",
+        "rowCount": 16,
+        "totalAmount": 112320,
+        "totalUnits": 7520,
+        "products": [
+          {
+            "product": "Agua Peñafiel 1.5L",
+            "sku": "GPEF-AP15-004",
+            "date": "02/Jun/2026",
+            "units": "360",
+            "unitPrice": "$14.00",
+            "finalPrice": "$5,040.00"
+          },
+          {
+            "product": "Sidral Mundet 355ml",
+            "sku": "GPEF-SM35-008",
+            "date": "03/Jun/2026",
+            "units": "720",
+            "unitPrice": "$9.50",
+            "finalPrice": "$6,840.00"
+          },
+          {
+            "product": "Garci Crespo Mineral 500ml",
+            "sku": "GPEF-GC50-012",
+            "date": "05/Jun/2026",
+            "units": "800",
+            "unitPrice": "$8.00",
+            "finalPrice": "$6,400.00"
+          },
+          {
+            "product": "Agua Peñafiel 1.5L",
+            "sku": "GPEF-AP15-004",
+            "date": "02/Jun/2026",
+            "units": "360",
+            "unitPrice": "$14.00",
+            "finalPrice": "$5,040.00"
+          },
+          {
+            "product": "Sidral Mundet 355ml",
+            "sku": "GPEF-SM35-008",
+            "date": "03/Jun/2026",
+            "units": "720",
+            "unitPrice": "$9.50",
+            "finalPrice": "$6,840.00"
+          },
+          {
+            "product": "Garci Crespo Mineral 500ml",
+            "sku": "GPEF-GC50-012",
+            "date": "05/Jun/2026",
+            "units": "800",
+            "unitPrice": "$8.00",
+            "finalPrice": "$6,400.00"
+          },
+          {
+            "product": "Agua Peñafiel 1.5L",
+            "sku": "GPEF-AP15-004",
+            "date": "02/Jun/2026",
+            "units": "360",
+            "unitPrice": "$14.00",
+            "finalPrice": "$5,040.00"
+          },
+          {
+            "product": "Sidral Mundet 355ml",
+            "sku": "GPEF-SM35-008",
+            "date": "03/Jun/2026",
+            "units": "720",
+            "unitPrice": "$9.50",
+            "finalPrice": "$6,840.00"
+          },
+          {
+            "product": "Garci Crespo Mineral 500ml",
+            "sku": "GPEF-GC50-012",
+            "date": "05/Jun/2026",
+            "units": "800",
+            "unitPrice": "$8.00",
+            "finalPrice": "$6,400.00"
+          },
+          {
+            "product": "Agua Peñafiel 1.5L",
+            "sku": "GPEF-AP15-004",
+            "date": "02/Jun/2026",
+            "units": "360",
+            "unitPrice": "$14.00",
+            "finalPrice": "$5,040.00"
+          },
+          {
+            "product": "Sidral Mundet 355ml",
+            "sku": "GPEF-SM35-008",
+            "date": "03/Jun/2026",
+            "units": "720",
+            "unitPrice": "$9.50",
+            "finalPrice": "$6,840.00"
+          },
+          {
+            "product": "Garci Crespo Mineral 500ml",
+            "sku": "GPEF-GC50-012",
+            "date": "05/Jun/2026",
+            "units": "800",
+            "unitPrice": "$8.00",
+            "finalPrice": "$6,400.00"
+          }
+        ],
+        "clients": [
+          "Distribuidora NL"
+        ],
+        "rows": [
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 3,
+              "id": "#00409",
+              "cliente": "Distribuidora NL",
+              "proveedor": "Grupo Peñafiel",
+              "monto": "$9,800.00",
+              "fecha": "03/Jun/2026",
+              "estatus": "Cancelado"
+            }
+          },
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 3,
+              "proveedor": "Grupo Peñafiel",
+              "producto": "Agua Peñafiel 1.5L",
+              "sku": "GPEF-AP15-004",
+              "fecha_del_pedido": "02/Jun/2026",
+              "unidades": "360",
+              "precio_unitario": "$14.00",
+              "precio_final": "$5,040.00"
+            }
+          },
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 7,
+              "proveedor": "Grupo Peñafiel",
+              "producto": "Sidral Mundet 355ml",
+              "sku": "GPEF-SM35-008",
+              "fecha_del_pedido": "03/Jun/2026",
+              "unidades": "720",
+              "precio_unitario": "$9.50",
+              "precio_final": "$6,840.00"
+            }
+          },
+          {
+            "source": "initial_load",
+            "visible": false,
+            "data": {
+              "rowIndex": 11,
+              "proveedor": "Grupo Peñafiel",
+              "producto": "Garci Crespo Mineral 500ml",
+              "sku": "GPEF-GC50-012",
+              "fecha_del_pedido": "05/Jun/2026",
+              "unidades": "800",
+              "precio_unitario": "$8.00",
+              "precio_final": "$6,400.00"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": true,
+            "data": {
+              "rowIndex": 3,
+              "id": "#00409",
+              "cliente": "Distribuidora NL",
+              "proveedor": "Grupo Peñafiel",
+              "monto": "$9,800.00",
+              "fecha": "03/Jun/2026",
+              "estatus": "CANCELADO"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": false,
+            "data": {
+              "rowIndex": 3,
+              "proveedor": "Grupo Peñafiel",
+              "producto": "Agua Peñafiel 1.5L",
+              "sku": "GPEF-AP15-004",
+              "fecha_del_pedido": "02/Jun/2026",
+              "unidades": "360",
+              "precio_unitario": "$14.00",
+              "precio_final": "$5,040.00"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": false,
+            "data": {
+              "rowIndex": 7,
+              "proveedor": "Grupo Peñafiel",
+              "producto": "Sidral Mundet 355ml",
+              "sku": "GPEF-SM35-008",
+              "fecha_del_pedido": "03/Jun/2026",
+              "unidades": "720",
+              "precio_unitario": "$9.50",
+              "precio_final": "$6,840.00"
+            }
+          },
+          {
+            "source": "after_click_button",
+            "visible": false,
+            "data": {
+              "rowIndex": 11,
+              "proveedor": "Grupo Peñafiel",
+              "producto": "Garci Crespo Mineral 500ml",
+              "sku": "GPEF-GC50-012",
+              "fecha_del_pedido": "05/Jun/2026",
+              "unidades": "800",
+              "precio_unitario": "$8.00",
+              "precio_final": "$6,400.00"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": true,
+            "data": {
+              "rowIndex": 3,
+              "proveedor": "Grupo Peñafiel",
+              "producto": "Agua Peñafiel 1.5L",
+              "sku": "GPEF-AP15-004",
+              "fecha_del_pedido": "02/Jun/2026",
+              "unidades": "360",
+              "precio_unitario": "$14.00",
+              "precio_final": "$5,040.00"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": true,
+            "data": {
+              "rowIndex": 7,
+              "proveedor": "Grupo Peñafiel",
+              "producto": "Sidral Mundet 355ml",
+              "sku": "GPEF-SM35-008",
+              "fecha_del_pedido": "03/Jun/2026",
+              "unidades": "720",
+              "precio_unitario": "$9.50",
+              "precio_final": "$6,840.00"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": true,
+            "data": {
+              "rowIndex": 11,
+              "proveedor": "Grupo Peñafiel",
+              "producto": "Garci Crespo Mineral 500ml",
+              "sku": "GPEF-GC50-012",
+              "fecha_del_pedido": "05/Jun/2026",
+              "unidades": "800",
+              "precio_unitario": "$8.00",
+              "precio_final": "$6,400.00"
+            }
+          },
+          {
+            "source": "after_click_element",
+            "visible": false,
+            "data": {
+              "rowIndex": 3,
+              "id": "#00409",
+              "cliente": "Distribuidora NL",
+              "proveedor": "Grupo Peñafiel",
+              "monto": "$9,800.00",
+              "fecha": "03/Jun/2026",
+              "estatus": "Cancelado"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": true,
+            "data": {
+              "rowIndex": 3,
+              "proveedor": "Grupo Peñafiel",
+              "producto": "Agua Peñafiel 1.5L",
+              "sku": "GPEF-AP15-004",
+              "fecha_del_pedido": "02/Jun/2026",
+              "unidades": "360",
+              "precio_unitario": "$14.00",
+              "precio_final": "$5,040.00"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": true,
+            "data": {
+              "rowIndex": 7,
+              "proveedor": "Grupo Peñafiel",
+              "producto": "Sidral Mundet 355ml",
+              "sku": "GPEF-SM35-008",
+              "fecha_del_pedido": "03/Jun/2026",
+              "unidades": "720",
+              "precio_unitario": "$9.50",
+              "precio_final": "$6,840.00"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": true,
+            "data": {
+              "rowIndex": 11,
+              "proveedor": "Grupo Peñafiel",
+              "producto": "Garci Crespo Mineral 500ml",
+              "sku": "GPEF-GC50-012",
+              "fecha_del_pedido": "05/Jun/2026",
+              "unidades": "800",
+              "precio_unitario": "$8.00",
+              "precio_final": "$6,400.00"
+            }
+          },
+          {
+            "source": "final_state",
+            "visible": false,
+            "data": {
+              "rowIndex": 3,
+              "id": "#00409",
+              "cliente": "Distribuidora NL",
+              "proveedor": "Grupo Peñafiel",
+              "monto": "$9,800.00",
+              "fecha": "03/Jun/2026",
+              "estatus": "Cancelado"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

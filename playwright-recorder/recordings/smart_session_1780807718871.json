@@ -1,0 +1,1442 @@
+{
+  "app": "MapOnce AI Smart Recorder",
+  "version": "0.3.0",
+  "createdAt": "2026-06-07T04:49:18.172Z",
+  "totalEvents": 6,
+  "totalSnapshots": 4,
+  "siteMap": [
+    {
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "title": "Portal de Proveedores",
+      "timestamp": "2026-06-07T04:48:45.471Z",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 0,
+        "tables": 0,
+        "allDomTables": 1,
+        "headings": 0
+      },
+      "mainHeadings": []
+    },
+    {
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "title": "Portal de Proveedores",
+      "timestamp": "2026-06-07T04:48:50.228Z",
+      "counts": {
+        "buttons": 6,
+        "links": 1,
+        "fields": 0,
+        "tables": 0,
+        "allDomTables": 1,
+        "headings": 0
+      },
+      "mainHeadings": []
+    },
+    {
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "title": "Portal de Proveedores",
+      "timestamp": "2026-06-07T04:48:55.236Z",
+      "counts": {
+        "buttons": 6,
+        "links": 1,
+        "fields": 0,
+        "tables": 0,
+        "allDomTables": 1,
+        "headings": 0
+      },
+      "mainHeadings": []
+    },
+    {
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "title": "Portal de Proveedores",
+      "timestamp": "2026-06-07T04:49:02.052Z",
+      "counts": {
+        "buttons": 6,
+        "links": 0,
+        "fields": 0,
+        "tables": 1,
+        "allDomTables": 1,
+        "headings": 0
+      },
+      "mainHeadings": []
+    }
+  ],
+  "pageSnapshots": [
+    {
+      "reason": "initial_load",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "title": "Portal de Proveedores",
+      "timestamp": "2026-06-07T04:48:45.471Z",
+      "visibleTextPreview": "Portal BIENVENIDO DE VUELTA ¡Qué gusto tenerte de vuelta! Accede a tu información de proveedor Ingresar →",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 0,
+        "tables": 0,
+        "allDomTables": 1,
+        "headings": 0
+      },
+      "tables": [],
+      "allDomTables": [
+        {
+          "index": 0,
+          "css": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table",
+          "headers": [
+            "Proveedor",
+            "Producto",
+            "SKU",
+            "Fecha del Pedido",
+            "Unidades",
+            "Precio Unitario",
+            "Precio Final"
+          ],
+          "rowCount": 12,
+          "sampleRows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ],
+          "visible": false,
+          "parentPageId": "page-consultar",
+          "parentPageClass": "page"
+        }
+      ],
+      "headings": [],
+      "buttons": [
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Ingresar →",
+          "accessibleName": "Ingresar →",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "btn-primary",
+          "css": "div#page-bienvenida > div.bienvenida-card > button.btn-primary",
+          "intent": "enter_system"
+        }
+      ],
+      "links": [],
+      "fields": [],
+      "cards": [
+        {
+          "selector": "[class*=\"card\"]",
+          "css": "div#page-bienvenida > div.bienvenida-card",
+          "text": "Portal BIENVENIDO DE VUELTA ¡Qué gusto tenerte de vuelta! Accede a tu información de proveedor Ingresar →"
+        }
+      ],
+      "sections": [
+        {
+          "tag": "div",
+          "id": "page-bienvenida",
+          "className": "page active",
+          "css": "div#page-bienvenida",
+          "textPreview": "Portal BIENVENIDO DE VUELTA ¡Qué gusto tenerte de vuelta! Accede a tu información de proveedor Ingresar →"
+        }
+      ]
+    },
+    {
+      "reason": "after_click_button",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "title": "Portal de Proveedores",
+      "timestamp": "2026-06-07T04:48:50.228Z",
+      "visibleTextPreview": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión Sesión activa: Arca Continental — Proveedor verificado AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO +52 81 8151 1400 UBICACIÓN Monterrey, Nuevo León, México RFC ACO-831116-GX3 SEGMENTO Bebidas carbonatadas y agua ESTATUS ● Activo",
+      "counts": {
+        "buttons": 6,
+        "links": 1,
+        "fields": 0,
+        "tables": 0,
+        "allDomTables": 1,
+        "headings": 0
+      },
+      "tables": [],
+      "allDomTables": [
+        {
+          "index": 0,
+          "css": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table",
+          "headers": [
+            "Proveedor",
+            "Producto",
+            "SKU",
+            "Fecha del Pedido",
+            "Unidades",
+            "Precio Unitario",
+            "Precio Final"
+          ],
+          "rowCount": 12,
+          "sampleRows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ],
+          "visible": false,
+          "parentPageId": "page-consultar",
+          "parentPageClass": "page"
+        }
+      ],
+      "headings": [],
+      "buttons": [
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Inicio",
+          "accessibleName": "Inicio",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab active",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab.active:nth-of-type(1)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Consultar datos",
+          "accessibleName": "Consultar datos",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(2)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Estadísticas",
+          "accessibleName": "Estadísticas",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(3)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Información adicional",
+          "accessibleName": "Información adicional",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(4)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Soporte",
+          "accessibleName": "Soporte",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(5)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Cerrar sesión",
+          "accessibleName": "Cerrar sesión",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "btn-salir",
+          "css": "div#page-inicio > nav.topnav > div.topnav-right:nth-of-type(3) > button.btn-salir",
+          "intent": "logout_or_exit"
+        }
+      ],
+      "links": [
+        {
+          "tag": "a",
+          "role": "link",
+          "text": "clientes@arcacontinental.com",
+          "accessibleName": "clientes@arcacontinental.com",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "#",
+          "value": "",
+          "className": "",
+          "css": "div#tab-inicio > div.user-card > div.user-fields:nth-of-type(2) > div.user-field:nth-of-type(1) > div.val > a",
+          "intent": "click_link"
+        }
+      ],
+      "fields": [],
+      "cards": [
+        {
+          "selector": "[class*=\"card\"]",
+          "css": "div#tab-inicio > div.user-card",
+          "text": "AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO +52 81 8151 1400 UBICACIÓN Monterrey, Nuevo León, México RFC ACO-831116-GX3 SEGMENTO Bebidas carbonatadas y agua ESTATUS ● Activo"
+        },
+        {
+          "selector": "[class*=\"card\"]",
+          "css": "div#tab-inicio > div.user-card > div.user-card-header:nth-of-type(1)",
+          "text": "AC Arca Continental Proveedor · Cuenta Corporativa"
+        }
+      ],
+      "sections": [
+        {
+          "tag": "div",
+          "id": "page-inicio",
+          "className": "page active",
+          "css": "div#page-inicio",
+          "textPreview": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión Sesión activa: Arca Continental — Proveedor verificado AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO "
+        },
+        {
+          "tag": "nav",
+          "id": "",
+          "className": "topnav",
+          "css": "div#page-inicio > nav.topnav",
+          "textPreview": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión"
+        }
+      ]
+    },
+    {
+      "reason": "after_click_element",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "title": "Portal de Proveedores",
+      "timestamp": "2026-06-07T04:48:55.236Z",
+      "visibleTextPreview": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión Sesión activa: Arca Continental — Proveedor verificado AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO +52 81 8151 1400 UBICACIÓN Monterrey, Nuevo León, México RFC ACO-831116-GX3 SEGMENTO Bebidas carbonatadas y agua ESTATUS ● Activo",
+      "counts": {
+        "buttons": 6,
+        "links": 1,
+        "fields": 0,
+        "tables": 0,
+        "allDomTables": 1,
+        "headings": 0
+      },
+      "tables": [],
+      "allDomTables": [
+        {
+          "index": 0,
+          "css": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table",
+          "headers": [
+            "Proveedor",
+            "Producto",
+            "SKU",
+            "Fecha del Pedido",
+            "Unidades",
+            "Precio Unitario",
+            "Precio Final"
+          ],
+          "rowCount": 12,
+          "sampleRows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ],
+          "visible": false,
+          "parentPageId": "page-consultar",
+          "parentPageClass": "page"
+        }
+      ],
+      "headings": [],
+      "buttons": [
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Inicio",
+          "accessibleName": "Inicio",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab active",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab.active:nth-of-type(1)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Consultar datos",
+          "accessibleName": "Consultar datos",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(2)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Estadísticas",
+          "accessibleName": "Estadísticas",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(3)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Información adicional",
+          "accessibleName": "Información adicional",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(4)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Soporte",
+          "accessibleName": "Soporte",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(5)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Cerrar sesión",
+          "accessibleName": "Cerrar sesión",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "btn-salir",
+          "css": "div#page-inicio > nav.topnav > div.topnav-right:nth-of-type(3) > button.btn-salir",
+          "intent": "logout_or_exit"
+        }
+      ],
+      "links": [
+        {
+          "tag": "a",
+          "role": "link",
+          "text": "clientes@arcacontinental.com",
+          "accessibleName": "clientes@arcacontinental.com",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "#",
+          "value": "",
+          "className": "",
+          "css": "div#tab-inicio > div.user-card > div.user-fields:nth-of-type(2) > div.user-field:nth-of-type(1) > div.val > a",
+          "intent": "click_link"
+        }
+      ],
+      "fields": [],
+      "cards": [
+        {
+          "selector": "[class*=\"card\"]",
+          "css": "div#tab-inicio > div.user-card",
+          "text": "AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO +52 81 8151 1400 UBICACIÓN Monterrey, Nuevo León, México RFC ACO-831116-GX3 SEGMENTO Bebidas carbonatadas y agua ESTATUS ● Activo"
+        },
+        {
+          "selector": "[class*=\"card\"]",
+          "css": "div#tab-inicio > div.user-card > div.user-card-header:nth-of-type(1)",
+          "text": "AC Arca Continental Proveedor · Cuenta Corporativa"
+        }
+      ],
+      "sections": [
+        {
+          "tag": "div",
+          "id": "page-inicio",
+          "className": "page active",
+          "css": "div#page-inicio",
+          "textPreview": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión Sesión activa: Arca Continental — Proveedor verificado AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO "
+        },
+        {
+          "tag": "nav",
+          "id": "",
+          "className": "topnav",
+          "css": "div#page-inicio > nav.topnav",
+          "textPreview": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión"
+        }
+      ]
+    },
+    {
+      "reason": "after_view_details",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "title": "Portal de Proveedores",
+      "timestamp": "2026-06-07T04:49:02.052Z",
+      "visibleTextPreview": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión Sesión activa: Arca Continental — Proveedor verificado Consultar datos Inicio / Consultar datos Pedidos registrados 12 registros · Actualizado 06/Jun/2026 PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Arca Continental Coca Cola 2L ARCA-CC2L-001 01/Jun/2026 240 $22.50 $5,400.00 Barcel Papas Habanero 45g BARC-PH45-002 01/Jun/2026 600 $12.00 $7,200.00 Sabritas Sabritas Original 60g SABR-SO60-003 02/Jun/2026 480 $13.50 $6,480.00 Grupo Peñafiel Agua Peñafiel 1.5L GPEF-AP15-004 02/Jun/2026 360 $14.00 $5,040.00 Arca Continental Sprite 2L ARCA-SP2L-005 02/Jun/2026 180 $20.00 $3,600.00 Barcel Takis Fuego 100g BARC-TF10-006 03/Jun/2026 300 $18.00 $5,400.00 Sabritas Cheetos Flamin' Hot 50g SABR-CF50-007 03/Jun/2026 420 $11.00 $4,620.00 Grupo Peñafiel Sidral Mundet 355ml GPEF-SM35-008 03/Jun/2026 720 $9.50 $6,840.00 Arca Continental Fanta Naranja 600ml ARCA-FN60-009 04/Jun/2026 540 $16.00 $8,640.00 Barcel Chips Chile Limón 45g BARC-CCL45-010 04/Jun/2026 360 $11.50 $4,140.00 Sabritas Rancheritos 40g SABR-RA40-011 04/Jun/2026 500 $10.00 $5,000.00 Grupo Peñafiel Garci Crespo Mine",
+      "counts": {
+        "buttons": 6,
+        "links": 0,
+        "fields": 0,
+        "tables": 1,
+        "allDomTables": 1,
+        "headings": 0
+      },
+      "tables": [
+        {
+          "index": 0,
+          "css": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table",
+          "headers": [
+            "PROVEEDOR",
+            "PRODUCTO",
+            "SKU",
+            "FECHA DEL PEDIDO",
+            "UNIDADES",
+            "PRECIO UNITARIO",
+            "PRECIO FINAL"
+          ],
+          "rowCount": 12,
+          "sampleRows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ]
+        }
+      ],
+      "allDomTables": [
+        {
+          "index": 0,
+          "css": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3) > table",
+          "headers": [
+            "PROVEEDOR",
+            "PRODUCTO",
+            "SKU",
+            "FECHA DEL PEDIDO",
+            "UNIDADES",
+            "PRECIO UNITARIO",
+            "PRECIO FINAL"
+          ],
+          "rowCount": 12,
+          "sampleRows": [
+            [
+              "Arca Continental",
+              "Coca Cola 2L",
+              "ARCA-CC2L-001",
+              "01/Jun/2026",
+              "240",
+              "$22.50",
+              "$5,400.00"
+            ],
+            [
+              "Barcel",
+              "Papas Habanero 45g",
+              "BARC-PH45-002",
+              "01/Jun/2026",
+              "600",
+              "$12.00",
+              "$7,200.00"
+            ],
+            [
+              "Sabritas",
+              "Sabritas Original 60g",
+              "SABR-SO60-003",
+              "02/Jun/2026",
+              "480",
+              "$13.50",
+              "$6,480.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Agua Peñafiel 1.5L",
+              "GPEF-AP15-004",
+              "02/Jun/2026",
+              "360",
+              "$14.00",
+              "$5,040.00"
+            ],
+            [
+              "Arca Continental",
+              "Sprite 2L",
+              "ARCA-SP2L-005",
+              "02/Jun/2026",
+              "180",
+              "$20.00",
+              "$3,600.00"
+            ],
+            [
+              "Barcel",
+              "Takis Fuego 100g",
+              "BARC-TF10-006",
+              "03/Jun/2026",
+              "300",
+              "$18.00",
+              "$5,400.00"
+            ],
+            [
+              "Sabritas",
+              "Cheetos Flamin' Hot 50g",
+              "SABR-CF50-007",
+              "03/Jun/2026",
+              "420",
+              "$11.00",
+              "$4,620.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Sidral Mundet 355ml",
+              "GPEF-SM35-008",
+              "03/Jun/2026",
+              "720",
+              "$9.50",
+              "$6,840.00"
+            ],
+            [
+              "Arca Continental",
+              "Fanta Naranja 600ml",
+              "ARCA-FN60-009",
+              "04/Jun/2026",
+              "540",
+              "$16.00",
+              "$8,640.00"
+            ],
+            [
+              "Barcel",
+              "Chips Chile Limón 45g",
+              "BARC-CCL45-010",
+              "04/Jun/2026",
+              "360",
+              "$11.50",
+              "$4,140.00"
+            ],
+            [
+              "Sabritas",
+              "Rancheritos 40g",
+              "SABR-RA40-011",
+              "04/Jun/2026",
+              "500",
+              "$10.00",
+              "$5,000.00"
+            ],
+            [
+              "Grupo Peñafiel",
+              "Garci Crespo Mineral 500ml",
+              "GPEF-GC50-012",
+              "05/Jun/2026",
+              "800",
+              "$8.00",
+              "$6,400.00"
+            ]
+          ],
+          "visible": true,
+          "parentPageId": "page-consultar",
+          "parentPageClass": "page active"
+        }
+      ],
+      "headings": [],
+      "buttons": [
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Inicio",
+          "accessibleName": "Inicio",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-consultar > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(1)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Consultar datos",
+          "accessibleName": "Consultar datos",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab active",
+          "css": "div#page-consultar > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab.active:nth-of-type(2)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Estadísticas",
+          "accessibleName": "Estadísticas",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-consultar > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(3)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Información adicional",
+          "accessibleName": "Información adicional",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-consultar > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(4)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Soporte",
+          "accessibleName": "Soporte",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "topnav-tab",
+          "css": "div#page-consultar > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(5)",
+          "intent": "click_button"
+        },
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "Cerrar sesión",
+          "accessibleName": "Cerrar sesión",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "btn-salir",
+          "css": "div#page-consultar > nav.topnav > div.topnav-right:nth-of-type(3) > button.btn-salir",
+          "intent": "logout_or_exit"
+        }
+      ],
+      "links": [],
+      "fields": [],
+      "cards": [
+        {
+          "selector": "[class*=\"card\"]",
+          "css": "div#page-consultar > div.page-content:nth-of-type(2) > div.table-card:nth-of-type(3)",
+          "text": "Pedidos registrados 12 registros · Actualizado 06/Jun/2026 PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Arca Continental Coca Cola 2L ARCA-CC2L-001 01/Jun/2026 240 $22.50 $5,400.00 Barcel Papas Habanero 45g BARC-PH45-"
+        }
+      ],
+      "sections": [
+        {
+          "tag": "div",
+          "id": "page-consultar",
+          "className": "page active",
+          "css": "div#page-consultar",
+          "textPreview": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión Sesión activa: Arca Continental — Proveedor verificado Consultar datos Inicio / Consultar datos Pedidos registrados 12 registros · Actualizado 06/Jun/2026 PROVEEDO"
+        },
+        {
+          "tag": "nav",
+          "id": "",
+          "className": "topnav",
+          "css": "div#page-consultar > nav.topnav",
+          "textPreview": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "type": "goto",
+      "intent": "open_url",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:48:45.475Z"
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:48:49.309Z",
+      "value": "",
+      "tag": "button",
+      "text": "Ingresar →",
+      "accessibleName": "Ingresar →",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "btn-primary",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-bienvenida > div.bienvenida-card > button.btn-primary",
+      "intent": "click_button",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Ingresar →",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Ingresar →",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Ingresar →",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-bienvenida > div.bienvenida-card > button.btn-primary",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:48:54.213Z",
+      "value": "",
+      "tag": "div",
+      "text": "AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO +52 81 8151 1400 UBICACIÓN Monterrey, Nuevo León, México RFC ACO-831116-",
+      "accessibleName": "AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO +52 81 8151 1400 UBICACIÓN Monterrey, Nuevo León, México RFC ACO-831116-",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "page-content",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-inicio > div.page-content:nth-of-type(2)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "AC Arca Continental Proveedor · Cuenta Corporativa CORREO ELECTRÓNICO clientes@arcacontinental.com TELÉFONO +52 81 8151 1400 UBICACIÓN Monterrey, Nuevo León, México RFC ACO-831116-",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-inicio > div.page-content:nth-of-type(2)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:48:57.379Z",
+      "value": "",
+      "tag": "button",
+      "text": "Consultar datos",
+      "accessibleName": "Consultar datos",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "topnav-tab",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(2)",
+      "intent": "click_button",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Consultar datos",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Consultar datos",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Consultar datos",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-inicio > nav.topnav > div.topnav-tabs:nth-of-type(2) > button.topnav-tab:nth-of-type(2)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:49:01.181Z",
+      "value": "",
+      "tag": "html",
+      "text": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión Sesión activa: Arca Continental — Proveedor verificado Consultar datos Inicio / Consultar dat",
+      "accessibleName": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión Sesión activa: Arca Continental — Proveedor verificado Consultar datos Inicio / Consultar dat",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "html",
+      "intent": "view_details",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Portal Inicio Consultar datos Estadísticas Información adicional Soporte Cerrar sesión Sesión activa: Arca Continental — Proveedor verificado Consultar datos Inicio / Consultar dat",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "html",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "url": "file:///C:/Users/isabe/Downloads/walmart-portal.html",
+      "timestamp": "2026-06-07T04:49:02.261Z",
+      "value": "",
+      "tag": "div",
+      "text": "Consultar datos Inicio / Consultar datos Pedidos registrados 12 registros · Actualizado 06/Jun/2026 PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Ar",
+      "accessibleName": "Consultar datos Inicio / Consultar datos Pedidos registrados 12 registros · Actualizado 06/Jun/2026 PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Ar",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "page-content",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#page-consultar > div.page-content:nth-of-type(2)",
+      "intent": "click_element",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Consultar datos Inicio / Consultar datos Pedidos registrados 12 registros · Actualizado 06/Jun/2026 PROVEEDOR PRODUCTO SKU FECHA DEL PEDIDO UNIDADES PRECIO UNITARIO PRECIO FINAL Ar",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#page-consultar > div.page-content:nth-of-type(2)",
+          "score": 40
+        }
+      ]
+    }
+  ]
+}

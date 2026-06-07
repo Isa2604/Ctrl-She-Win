@@ -1,0 +1,4293 @@
+{
+  "app": "MapOnce AI Smart Replay",
+  "version": "0.4.0",
+  "createdAt": "2026-06-07T05:42:01.766Z",
+  "replayOf": {
+    "app": "MapOnce AI Smart Recorder",
+    "version": "0.3.0",
+    "createdAt": "2026-06-07T05:36:47.968Z",
+    "file": "C:\\Users\\isabe\\OneDrive - Universidad Autonoma de Nuevo León\\CARRERA SEMESTRE 10\\Ctrl-She-Win\\playwright-recorder\\recordings\\smart_session_test1.json",
+    "totalEvents": 57
+  },
+  "totalEvents": 57,
+  "totalSnapshots": 4,
+  "totalErrors": 9,
+  "siteMap": [
+    {
+      "url": "https://www.saucedemo.com/",
+      "title": "Swag Labs",
+      "timestamp": "2026-06-07T05:41:19.466Z",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 3,
+        "tables": 0,
+        "allDomTables": 0,
+        "roleTables": 0,
+        "dataBlocks": 0,
+        "cards": 0,
+        "headings": 2
+      },
+      "mainHeadings": [
+        "Accepted usernames are:",
+        "Password for all users:"
+      ]
+    },
+    {
+      "url": "https://www.saucedemo.com/",
+      "title": "Swag Labs",
+      "timestamp": "2026-06-07T05:41:25.570Z",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 3,
+        "tables": 0,
+        "allDomTables": 0,
+        "roleTables": 0,
+        "dataBlocks": 0,
+        "cards": 0,
+        "headings": 2
+      },
+      "mainHeadings": [
+        "Accepted usernames are:",
+        "Password for all users:"
+      ]
+    },
+    {
+      "url": "https://www.saucedemo.com/",
+      "title": "Swag Labs",
+      "timestamp": "2026-06-07T05:41:31.662Z",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 3,
+        "tables": 0,
+        "allDomTables": 0,
+        "roleTables": 0,
+        "dataBlocks": 0,
+        "cards": 0,
+        "headings": 2
+      },
+      "mainHeadings": [
+        "Accepted usernames are:",
+        "Password for all users:"
+      ]
+    },
+    {
+      "url": "https://www.saucedemo.com/",
+      "title": "Swag Labs",
+      "timestamp": "2026-06-07T05:41:54.222Z",
+      "counts": {
+        "buttons": 2,
+        "links": 0,
+        "fields": 3,
+        "tables": 0,
+        "allDomTables": 0,
+        "roleTables": 0,
+        "dataBlocks": 0,
+        "cards": 0,
+        "headings": 3
+      },
+      "mainHeadings": [
+        "Epic sadface: You can only access '/inventory.html' when you are logged in.",
+        "Accepted usernames are:",
+        "Password for all users:"
+      ]
+    }
+  ],
+  "pageSnapshots": [
+    {
+      "reason": "initial_load",
+      "url": "https://www.saucedemo.com/",
+      "title": "Swag Labs",
+      "timestamp": "2026-06-07T05:41:19.466Z",
+      "language": "en",
+      "visibleTextPreview": "Swag Labs Accepted usernames are: standard_user locked_out_user problem_user performance_glitch_user error_user visual_user Password for all users: secret_sauce",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 3,
+        "tables": 0,
+        "allDomTables": 0,
+        "roleTables": 0,
+        "dataBlocks": 0,
+        "cards": 0,
+        "headings": 2
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Accepted usernames are:",
+          "css": "div#login_credentials > h4"
+        },
+        {
+          "tag": "h4",
+          "text": "Password for all users:",
+          "css": "div#root > div.login_container > div.login_wrapper:nth-of-type(2) > div.login_credentials_wrap:nth-of-type(2) > div.login_credentials_wrap-inner > div.login_password:nth-of-type(2) > h4"
+        }
+      ],
+      "buttons": [
+        {
+          "tag": "input",
+          "role": "button",
+          "text": "Login",
+          "accessibleName": "login-button",
+          "id": "login-button",
+          "name": "login-button",
+          "type": "submit",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "Login",
+          "className": "submit-button btn_action",
+          "css": "input#login-button",
+          "intent": "click_button"
+        }
+      ],
+      "links": [],
+      "fields": [
+        {
+          "tag": "input",
+          "role": "textbox",
+          "text": "",
+          "accessibleName": "Username",
+          "id": "user-name",
+          "name": "user-name",
+          "type": "text",
+          "placeholder": "Username",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "input_error form_input",
+          "css": "input#user-name",
+          "intent": "fill_name"
+        },
+        {
+          "tag": "input",
+          "role": "textbox",
+          "text": "",
+          "accessibleName": "Password",
+          "id": "password",
+          "name": "password",
+          "type": "password",
+          "placeholder": "Password",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "input_error form_input",
+          "css": "input#password",
+          "intent": "fill_password"
+        },
+        {
+          "tag": "input",
+          "role": "button",
+          "text": "Login",
+          "accessibleName": "login-button",
+          "id": "login-button",
+          "name": "login-button",
+          "type": "submit",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "Login",
+          "className": "submit-button btn_action",
+          "css": "input#login-button",
+          "intent": "click_button"
+        }
+      ],
+      "tables": [],
+      "allDomTables": [],
+      "roleTables": [],
+      "dataBlocks": [],
+      "cards": [],
+      "sections": []
+    },
+    {
+      "reason": "after_login",
+      "url": "https://www.saucedemo.com/",
+      "title": "Swag Labs",
+      "timestamp": "2026-06-07T05:41:25.570Z",
+      "language": "en",
+      "visibleTextPreview": "Swag Labs Accepted usernames are: standard_user locked_out_user problem_user performance_glitch_user error_user visual_user Password for all users: secret_sauce",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 3,
+        "tables": 0,
+        "allDomTables": 0,
+        "roleTables": 0,
+        "dataBlocks": 0,
+        "cards": 0,
+        "headings": 2
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Accepted usernames are:",
+          "css": "div#login_credentials > h4"
+        },
+        {
+          "tag": "h4",
+          "text": "Password for all users:",
+          "css": "div#root > div.login_container > div.login_wrapper:nth-of-type(2) > div.login_credentials_wrap:nth-of-type(2) > div.login_credentials_wrap-inner > div.login_password:nth-of-type(2) > h4"
+        }
+      ],
+      "buttons": [
+        {
+          "tag": "input",
+          "role": "button",
+          "text": "Login",
+          "accessibleName": "login-button",
+          "id": "login-button",
+          "name": "login-button",
+          "type": "submit",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "Login",
+          "className": "submit-button btn_action",
+          "css": "input#login-button",
+          "intent": "click_button"
+        }
+      ],
+      "links": [],
+      "fields": [
+        {
+          "tag": "input",
+          "role": "textbox",
+          "text": "",
+          "accessibleName": "Username",
+          "id": "user-name",
+          "name": "user-name",
+          "type": "text",
+          "placeholder": "Username",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "input_error form_input",
+          "css": "input#user-name",
+          "intent": "fill_name"
+        },
+        {
+          "tag": "input",
+          "role": "textbox",
+          "text": "",
+          "accessibleName": "Password",
+          "id": "password",
+          "name": "password",
+          "type": "password",
+          "placeholder": "Password",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "input_error form_input",
+          "css": "input#password",
+          "intent": "fill_password"
+        },
+        {
+          "tag": "input",
+          "role": "button",
+          "text": "Login",
+          "accessibleName": "login-button",
+          "id": "login-button",
+          "name": "login-button",
+          "type": "submit",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "Login",
+          "className": "submit-button btn_action",
+          "css": "input#login-button",
+          "intent": "click_button"
+        }
+      ],
+      "tables": [],
+      "allDomTables": [],
+      "roleTables": [],
+      "dataBlocks": [],
+      "cards": [],
+      "sections": []
+    },
+    {
+      "reason": "after_click_element",
+      "url": "https://www.saucedemo.com/",
+      "title": "Swag Labs",
+      "timestamp": "2026-06-07T05:41:31.662Z",
+      "language": "en",
+      "visibleTextPreview": "Swag Labs Accepted usernames are: standard_user locked_out_user problem_user performance_glitch_user error_user visual_user Password for all users: secret_sauce",
+      "counts": {
+        "buttons": 1,
+        "links": 0,
+        "fields": 3,
+        "tables": 0,
+        "allDomTables": 0,
+        "roleTables": 0,
+        "dataBlocks": 0,
+        "cards": 0,
+        "headings": 2
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Accepted usernames are:",
+          "css": "div#login_credentials > h4"
+        },
+        {
+          "tag": "h4",
+          "text": "Password for all users:",
+          "css": "div#root > div.login_container > div.login_wrapper:nth-of-type(2) > div.login_credentials_wrap:nth-of-type(2) > div.login_credentials_wrap-inner > div.login_password:nth-of-type(2) > h4"
+        }
+      ],
+      "buttons": [
+        {
+          "tag": "input",
+          "role": "button",
+          "text": "Login",
+          "accessibleName": "login-button",
+          "id": "login-button",
+          "name": "login-button",
+          "type": "submit",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "Login",
+          "className": "submit-button btn_action",
+          "css": "input#login-button",
+          "intent": "click_button"
+        }
+      ],
+      "links": [],
+      "fields": [
+        {
+          "tag": "input",
+          "role": "textbox",
+          "text": "",
+          "accessibleName": "Username",
+          "id": "user-name",
+          "name": "user-name",
+          "type": "text",
+          "placeholder": "Username",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "input_error form_input",
+          "css": "input#user-name",
+          "intent": "fill_name"
+        },
+        {
+          "tag": "input",
+          "role": "textbox",
+          "text": "",
+          "accessibleName": "Password",
+          "id": "password",
+          "name": "password",
+          "type": "password",
+          "placeholder": "Password",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "input_error form_input",
+          "css": "input#password",
+          "intent": "fill_password"
+        },
+        {
+          "tag": "input",
+          "role": "button",
+          "text": "Login",
+          "accessibleName": "login-button",
+          "id": "login-button",
+          "name": "login-button",
+          "type": "submit",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "Login",
+          "className": "submit-button btn_action",
+          "css": "input#login-button",
+          "intent": "click_button"
+        }
+      ],
+      "tables": [],
+      "allDomTables": [],
+      "roleTables": [],
+      "dataBlocks": [],
+      "cards": [],
+      "sections": []
+    },
+    {
+      "reason": "navigation",
+      "url": "https://www.saucedemo.com/",
+      "title": "Swag Labs",
+      "timestamp": "2026-06-07T05:41:54.222Z",
+      "language": "en",
+      "visibleTextPreview": "Swag Labs Epic sadface: You can only access '/inventory.html' when you are logged in. Accepted usernames are: standard_user locked_out_user problem_user performance_glitch_user error_user visual_user Password for all users: secret_sauce",
+      "counts": {
+        "buttons": 2,
+        "links": 0,
+        "fields": 3,
+        "tables": 0,
+        "allDomTables": 0,
+        "roleTables": 0,
+        "dataBlocks": 0,
+        "cards": 0,
+        "headings": 3
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Epic sadface: You can only access '/inventory.html' when you are logged in.",
+          "css": "div#login_button_container > div.login-box > form > div.error-message-container.error:nth-of-type(3) > h3"
+        },
+        {
+          "tag": "h4",
+          "text": "Accepted usernames are:",
+          "css": "div#login_credentials > h4"
+        },
+        {
+          "tag": "h4",
+          "text": "Password for all users:",
+          "css": "div#root > div.login_container > div.login_wrapper:nth-of-type(2) > div.login_credentials_wrap:nth-of-type(2) > div.login_credentials_wrap-inner > div.login_password:nth-of-type(2) > h4"
+        }
+      ],
+      "buttons": [
+        {
+          "tag": "button",
+          "role": "button",
+          "text": "",
+          "accessibleName": "",
+          "id": "",
+          "name": "",
+          "type": "",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "error-button",
+          "css": "div#login_button_container > div.login-box > form > div.error-message-container.error:nth-of-type(3) > h3 > button.error-button",
+          "intent": "click_button"
+        },
+        {
+          "tag": "input",
+          "role": "button",
+          "text": "Login",
+          "accessibleName": "login-button",
+          "id": "login-button",
+          "name": "login-button",
+          "type": "submit",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "Login",
+          "className": "submit-button btn_action",
+          "css": "input#login-button",
+          "intent": "click_button"
+        }
+      ],
+      "links": [],
+      "fields": [
+        {
+          "tag": "input",
+          "role": "textbox",
+          "text": "",
+          "accessibleName": "Username",
+          "id": "user-name",
+          "name": "user-name",
+          "type": "text",
+          "placeholder": "Username",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "input_error form_input error",
+          "css": "input#user-name",
+          "intent": "fill_name"
+        },
+        {
+          "tag": "input",
+          "role": "textbox",
+          "text": "",
+          "accessibleName": "Password",
+          "id": "password",
+          "name": "password",
+          "type": "password",
+          "placeholder": "Password",
+          "ariaLabel": "",
+          "href": "",
+          "value": "",
+          "className": "input_error form_input error",
+          "css": "input#password",
+          "intent": "fill_password"
+        },
+        {
+          "tag": "input",
+          "role": "button",
+          "text": "Login",
+          "accessibleName": "login-button",
+          "id": "login-button",
+          "name": "login-button",
+          "type": "submit",
+          "placeholder": "",
+          "ariaLabel": "",
+          "href": "",
+          "value": "Login",
+          "className": "submit-button btn_action",
+          "css": "input#login-button",
+          "intent": "click_button"
+        }
+      ],
+      "tables": [],
+      "allDomTables": [],
+      "roleTables": [],
+      "dataBlocks": [],
+      "cards": [],
+      "sections": []
+    }
+  ],
+  "events": [
+    {
+      "type": "goto",
+      "intent": "open_url",
+      "url": "https://www.saucedemo.com/",
+      "timestamp": "2026-06-07T05:41:19.455Z",
+      "replay": {
+        "success": true,
+        "message": "goto_ok",
+        "sourceTimestamp": "2026-06-07T05:36:04.367Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "",
+      "text": "",
+      "accessibleName": "",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "",
+      "selectorCandidates": []
+    },
+    {
+      "type": "click",
+      "intent": "login",
+      "url": "https://www.saucedemo.com/",
+      "timestamp": "2026-06-07T05:41:25.568Z",
+      "replay": {
+        "success": true,
+        "message": "click_ok",
+        "sourceTimestamp": "2026-06-07T05:36:06.106Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "div",
+      "text": "Accepted usernames are: standard_user locked_out_user problem_user performance_glitch_user error_user visual_user",
+      "accessibleName": "Accepted usernames are: standard_user locked_out_user problem_user performance_glitch_user error_user visual_user",
+      "labelText": "",
+      "id": "login_credentials",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "login_credentials",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#login_credentials",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#login_credentials",
+          "raw": "login_credentials",
+          "score": 96
+        },
+        {
+          "strategy": "text",
+          "selector": "Accepted usernames are: standard_user locked_out_user problem_user performance_glitch_user error_user visual_user",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#login_credentials",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "intent": "click_element",
+      "url": "https://www.saucedemo.com/",
+      "timestamp": "2026-06-07T05:41:31.660Z",
+      "replay": {
+        "success": true,
+        "message": "click_ok",
+        "sourceTimestamp": "2026-06-07T05:36:07.396Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "input",
+      "text": "",
+      "accessibleName": "user-name",
+      "labelText": "",
+      "id": "user-name",
+      "name": "user-name",
+      "role": "textbox",
+      "placeholder": "Username",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "input_error form_input",
+      "dataProductId": "",
+      "formAction": "https://www.saucedemo.com/",
+      "formMethod": "get",
+      "nearbyText": "",
+      "css": "input#user-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#user-name",
+          "raw": "user-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"user-name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Username",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "user-name",
+          "score": 88
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#user-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/",
+      "timestamp": "2026-06-07T05:41:33.258Z",
+      "replay": {
+        "success": true,
+        "message": "fill_ok",
+        "sourceTimestamp": "2026-06-07T05:36:07.828Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "standard_user",
+      "tag": "input",
+      "text": "standard_user",
+      "accessibleName": "Username",
+      "labelText": "",
+      "id": "user-name",
+      "name": "user-name",
+      "role": "textbox",
+      "placeholder": "Username",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#user-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#user-name",
+          "raw": "user-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"user-name\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Username",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Username",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "standard_user",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "standard_user",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#user-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "intent": "login",
+      "url": "https://www.saucedemo.com/",
+      "timestamp": "2026-06-07T05:41:39.337Z",
+      "replay": {
+        "success": true,
+        "message": "click_ok",
+        "sourceTimestamp": "2026-06-07T05:36:08.701Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "div",
+      "text": "Password for all users: secret_sauce",
+      "accessibleName": "Password for all users: secret_sauce",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "login_password",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#root > div.login_container > div.login_wrapper:nth-of-type(2) > div.login_credentials_wrap:nth-of-type(2) > div.login_credentials_wrap-inner > div.login_password:nth-of-type(2)",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Password for all users: secret_sauce",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#root > div.login_container > div.login_wrapper:nth-of-type(2) > div.login_credentials_wrap:nth-of-type(2) > div.login_credentials_wrap-inner > div.login_password:nth-of-type(2)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "intent": "click_element",
+      "url": "https://www.saucedemo.com/",
+      "timestamp": "2026-06-07T05:41:45.440Z",
+      "replay": {
+        "success": true,
+        "message": "click_ok",
+        "sourceTimestamp": "2026-06-07T05:36:10.066Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "input",
+      "text": "",
+      "accessibleName": "password",
+      "labelText": "",
+      "id": "password",
+      "name": "password",
+      "role": "textbox",
+      "placeholder": "Password",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "password",
+      "valueAttr": "",
+      "className": "input_error form_input",
+      "dataProductId": "",
+      "formAction": "https://www.saucedemo.com/",
+      "formMethod": "get",
+      "nearbyText": "",
+      "css": "input#password",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#password",
+          "raw": "password",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"password\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Password",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "password",
+          "score": 88
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"password\"]",
+          "score": 76
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#password",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_password",
+      "url": "https://www.saucedemo.com/",
+      "timestamp": "2026-06-07T05:41:53.045Z",
+      "replay": {
+        "success": true,
+        "message": "fill_ok",
+        "sourceTimestamp": "2026-06-07T05:36:10.461Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "__PASSWORD_NOT_STORED__",
+      "tag": "input",
+      "text": "secret_sauce",
+      "accessibleName": "Password",
+      "labelText": "",
+      "id": "password",
+      "name": "password",
+      "role": "textbox",
+      "placeholder": "Password",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "password",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#password",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#password",
+          "raw": "password",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"password\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Password",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Password",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "secret_sauce",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"password\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "secret_sauce",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#password",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "navigation",
+      "intent": "navigate",
+      "url": "https://www.saucedemo.com/inventory.html",
+      "timestamp": "2026-06-07T05:41:54.215Z",
+      "replay": {
+        "success": true,
+        "message": "navigation_ok",
+        "sourceTimestamp": "2026-06-07T05:36:11.362Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "",
+      "text": "",
+      "accessibleName": "",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "",
+      "selectorCandidates": []
+    },
+    {
+      "type": "click",
+      "intent": "login",
+      "url": "https://www.saucedemo.com/inventory.html",
+      "timestamp": "2026-06-07T05:42:00.338Z",
+      "replay": {
+        "success": true,
+        "message": "click_ok",
+        "sourceTimestamp": "2026-06-07T05:36:11.356Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "input",
+      "text": "Login",
+      "accessibleName": "Login",
+      "labelText": "",
+      "id": "login-button",
+      "name": "login-button",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "submit",
+      "valueAttr": "Login",
+      "className": "submit-button btn_action",
+      "dataProductId": "",
+      "formAction": "https://www.saucedemo.com/",
+      "formMethod": "get",
+      "nearbyText": "",
+      "css": "input#login-button",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#login-button",
+          "raw": "login-button",
+          "score": 96
+        },
+        {
+          "strategy": "name_value",
+          "selector": "[name=\"login-button\"][value=\"Login\"]",
+          "score": 98
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"login-button\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Login",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Login",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"submit\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Login",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#login-button",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "submit",
+      "intent": "login",
+      "url": "https://www.saucedemo.com/inventory.html",
+      "timestamp": "2026-06-07T05:42:01.614Z",
+      "replay": {
+        "success": false,
+        "message": "page.goto: Target page, context or browser has been closed",
+        "sourceTimestamp": "2026-06-07T05:36:11.357Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "input",
+      "text": "Login",
+      "accessibleName": "Login",
+      "labelText": "",
+      "id": "login-button",
+      "name": "login-button",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "submit",
+      "valueAttr": "Login",
+      "className": "submit-button btn_action",
+      "dataProductId": "",
+      "formAction": "https://www.saucedemo.com/",
+      "formMethod": "get",
+      "nearbyText": "",
+      "css": "input#login-button",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#login-button",
+          "raw": "login-button",
+          "score": 96
+        },
+        {
+          "strategy": "name_value",
+          "selector": "[name=\"login-button\"][value=\"Login\"]",
+          "score": 98
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"login-button\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Login",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Login",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"submit\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Login",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#login-button",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "intent": "ecommerce_add_to_cart",
+      "url": "https://www.saucedemo.com/inventory.html",
+      "timestamp": "2026-06-07T05:42:01.616Z",
+      "replay": {
+        "success": false,
+        "message": "click_failed",
+        "sourceTimestamp": "2026-06-07T05:36:13.231Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "button",
+      "text": "Add to cart",
+      "accessibleName": "Add to cart",
+      "labelText": "",
+      "id": "add-to-cart-sauce-labs-backpack",
+      "name": "add-to-cart-sauce-labs-backpack",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "btn btn_primary btn_small btn_inventory ",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "button#add-to-cart-sauce-labs-backpack",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#add-to-cart-sauce-labs-backpack",
+          "raw": "add-to-cart-sauce-labs-backpack",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"add-to-cart-sauce-labs-backpack\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Add to cart",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Add to cart",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Add to cart",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "button#add-to-cart-sauce-labs-backpack",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "intent": "ecommerce_add_to_cart",
+      "url": "https://www.saucedemo.com/inventory.html",
+      "timestamp": "2026-06-07T05:42:01.619Z",
+      "replay": {
+        "success": false,
+        "message": "click_failed",
+        "sourceTimestamp": "2026-06-07T05:36:14.634Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "button",
+      "text": "Add to cart",
+      "accessibleName": "Add to cart",
+      "labelText": "",
+      "id": "add-to-cart-sauce-labs-fleece-jacket",
+      "name": "add-to-cart-sauce-labs-fleece-jacket",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "btn btn_primary btn_small btn_inventory ",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "button#add-to-cart-sauce-labs-fleece-jacket",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#add-to-cart-sauce-labs-fleece-jacket",
+          "raw": "add-to-cart-sauce-labs-fleece-jacket",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"add-to-cart-sauce-labs-fleece-jacket\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Add to cart",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Add to cart",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Add to cart",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "button#add-to-cart-sauce-labs-fleece-jacket",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "intent": "click_element",
+      "url": "https://www.saucedemo.com/inventory.html",
+      "timestamp": "2026-06-07T05:42:01.621Z",
+      "replay": {
+        "success": false,
+        "message": "click_failed",
+        "sourceTimestamp": "2026-06-07T05:36:16.426Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "div",
+      "text": "Sauce Labs Onesie Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.",
+      "accessibleName": "Sauce Labs Onesie Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "inventory_item_label",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#inventory_container > div.inventory_list > div.inventory_item:nth-of-type(5) > div.inventory_item_description:nth-of-type(2) > div.inventory_item_label:nth-of-type(1)",
+      "selectorCandidates": [
+        {
+          "strategy": "text",
+          "selector": "Sauce Labs Onesie Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#inventory_container > div.inventory_list > div.inventory_item:nth-of-type(5) > div.inventory_item_description:nth-of-type(2) > div.inventory_item_label:nth-of-type(1)",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "navigation",
+      "intent": "navigate",
+      "url": "https://www.saucedemo.com/inventory-item.html?id=2",
+      "timestamp": "2026-06-07T05:42:01.621Z",
+      "replay": {
+        "success": false,
+        "message": "page.goto: Target page, context or browser has been closed",
+        "sourceTimestamp": "2026-06-07T05:36:17.510Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "",
+      "text": "",
+      "accessibleName": "",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "",
+      "selectorCandidates": []
+    },
+    {
+      "type": "click",
+      "intent": "click_link",
+      "url": "https://www.saucedemo.com/inventory-item.html?id=2",
+      "timestamp": "2026-06-07T05:42:01.623Z",
+      "replay": {
+        "success": false,
+        "message": "click_failed",
+        "sourceTimestamp": "2026-06-07T05:36:17.507Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "a",
+      "text": "Sauce Labs Onesie",
+      "accessibleName": "Sauce Labs Onesie",
+      "labelText": "",
+      "id": "item_2_title_link",
+      "name": "",
+      "role": "link",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "#",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "a#item_2_title_link",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#item_2_title_link",
+          "raw": "item_2_title_link",
+          "score": 96
+        },
+        {
+          "strategy": "role_name",
+          "role": "link",
+          "name": "Sauce Labs Onesie",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "link",
+          "name": "Sauce Labs Onesie",
+          "score": 86
+        },
+        {
+          "strategy": "href",
+          "selector": "a[href=\"#\"]",
+          "score": 82
+        },
+        {
+          "strategy": "text",
+          "selector": "Sauce Labs Onesie",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "a#item_2_title_link",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "intent": "ecommerce_add_to_cart",
+      "url": "https://www.saucedemo.com/inventory-item.html?id=2",
+      "timestamp": "2026-06-07T05:42:01.626Z",
+      "replay": {
+        "success": false,
+        "message": "click_failed",
+        "sourceTimestamp": "2026-06-07T05:36:18.563Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "button",
+      "text": "Add to cart",
+      "accessibleName": "Add to cart",
+      "labelText": "",
+      "id": "add-to-cart",
+      "name": "add-to-cart",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "btn btn_primary btn_small btn_inventory",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "button#add-to-cart",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#add-to-cart",
+          "raw": "add-to-cart",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"add-to-cart\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Add to cart",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Add to cart",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Add to cart",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "button#add-to-cart",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "navigation",
+      "intent": "navigate",
+      "url": "https://www.saucedemo.com/inventory.html",
+      "timestamp": "2026-06-07T05:42:01.627Z",
+      "replay": {
+        "success": false,
+        "message": "page.goto: Target page, context or browser has been closed",
+        "sourceTimestamp": "2026-06-07T05:36:19.916Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "",
+      "text": "",
+      "accessibleName": "",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "",
+      "selectorCandidates": []
+    },
+    {
+      "type": "click",
+      "intent": "view_details",
+      "url": "https://www.saucedemo.com/inventory.html",
+      "timestamp": "2026-06-07T05:42:01.630Z",
+      "replay": {
+        "success": false,
+        "message": "click_failed",
+        "sourceTimestamp": "2026-06-07T05:36:19.913Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "button",
+      "text": "Back to products",
+      "accessibleName": "Back to products",
+      "labelText": "",
+      "id": "back-to-products",
+      "name": "back-to-products",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "btn btn_secondary back btn_large inventory_details_back_button",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "button#back-to-products",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#back-to-products",
+          "raw": "back-to-products",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"back-to-products\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Back to products",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Back to products",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Back to products",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "button#back-to-products",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "navigation",
+      "intent": "navigate",
+      "url": "https://www.saucedemo.com/cart.html",
+      "timestamp": "2026-06-07T05:42:01.630Z",
+      "replay": {
+        "success": false,
+        "message": "page.goto: Target page, context or browser has been closed",
+        "sourceTimestamp": "2026-06-07T05:36:21.987Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "",
+      "text": "",
+      "accessibleName": "",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "",
+      "selectorCandidates": []
+    },
+    {
+      "type": "click",
+      "intent": "click_link",
+      "url": "https://www.saucedemo.com/cart.html",
+      "timestamp": "2026-06-07T05:42:01.632Z",
+      "replay": {
+        "success": false,
+        "message": "click_failed",
+        "sourceTimestamp": "2026-06-07T05:36:21.984Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "a",
+      "text": "3",
+      "accessibleName": "3",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "link",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "shopping_cart_link",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "div#shopping_cart_container > a.shopping_cart_link",
+      "selectorCandidates": [
+        {
+          "strategy": "role_name",
+          "role": "link",
+          "name": "3",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "link",
+          "name": "3",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "3",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "div#shopping_cart_container > a.shopping_cart_link",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "intent": "click_button",
+      "url": "https://www.saucedemo.com/cart.html",
+      "timestamp": "2026-06-07T05:42:01.636Z",
+      "replay": {
+        "success": false,
+        "message": "click_failed",
+        "sourceTimestamp": "2026-06-07T05:36:23.521Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "button",
+      "text": "Remove",
+      "accessibleName": "Remove",
+      "labelText": "",
+      "id": "remove-sauce-labs-fleece-jacket",
+      "name": "remove-sauce-labs-fleece-jacket",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "btn btn_secondary btn_small cart_button",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "button#remove-sauce-labs-fleece-jacket",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#remove-sauce-labs-fleece-jacket",
+          "raw": "remove-sauce-labs-fleece-jacket",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"remove-sauce-labs-fleece-jacket\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Remove",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Remove",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Remove",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "button#remove-sauce-labs-fleece-jacket",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "navigation",
+      "intent": "navigate",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.637Z",
+      "replay": {
+        "success": false,
+        "message": "page.goto: Target page, context or browser has been closed",
+        "sourceTimestamp": "2026-06-07T05:36:25.662Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "",
+      "text": "",
+      "accessibleName": "",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "",
+      "selectorCandidates": []
+    },
+    {
+      "type": "click",
+      "intent": "ecommerce_checkout",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.640Z",
+      "replay": {
+        "success": false,
+        "message": "click_failed",
+        "sourceTimestamp": "2026-06-07T05:36:25.658Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "button",
+      "text": "Checkout",
+      "accessibleName": "Checkout",
+      "labelText": "",
+      "id": "checkout",
+      "name": "checkout",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "btn btn_action btn_medium checkout_button ",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "button#checkout",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#checkout",
+          "raw": "checkout",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"checkout\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Checkout",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Checkout",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Checkout",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "button#checkout",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "intent": "ecommerce_checkout",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.644Z",
+      "replay": {
+        "success": false,
+        "message": "click_failed",
+        "sourceTimestamp": "2026-06-07T05:36:27.054Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "input",
+      "text": "",
+      "accessibleName": "firstName",
+      "labelText": "",
+      "id": "first-name",
+      "name": "firstName",
+      "role": "textbox",
+      "placeholder": "First Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "input_error form_input",
+      "dataProductId": "",
+      "formAction": "https://www.saucedemo.com/checkout-step-one.html",
+      "formMethod": "get",
+      "nearbyText": "",
+      "css": "input#first-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#first-name",
+          "raw": "first-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"firstName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "First Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "firstName",
+          "score": 88
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#first-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.648Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:27.661Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "I",
+      "tag": "input",
+      "text": "I",
+      "accessibleName": "First Name",
+      "labelText": "",
+      "id": "first-name",
+      "name": "firstName",
+      "role": "textbox",
+      "placeholder": "First Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#first-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#first-name",
+          "raw": "first-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"firstName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "First Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "First Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "I",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "I",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#first-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.652Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:27.984Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "Is",
+      "tag": "input",
+      "text": "Is",
+      "accessibleName": "First Name",
+      "labelText": "",
+      "id": "first-name",
+      "name": "firstName",
+      "role": "textbox",
+      "placeholder": "First Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#first-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#first-name",
+          "raw": "first-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"firstName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "First Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "First Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Is",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Is",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#first-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.658Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:28.075Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "Isa",
+      "tag": "input",
+      "text": "Isa",
+      "accessibleName": "First Name",
+      "labelText": "",
+      "id": "first-name",
+      "name": "firstName",
+      "role": "textbox",
+      "placeholder": "First Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#first-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#first-name",
+          "raw": "first-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"firstName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "First Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "First Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Isa",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Isa",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#first-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.661Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:28.523Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "Isab",
+      "tag": "input",
+      "text": "Isabe",
+      "accessibleName": "First Name",
+      "labelText": "",
+      "id": "first-name",
+      "name": "firstName",
+      "role": "textbox",
+      "placeholder": "First Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#first-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#first-name",
+          "raw": "first-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"firstName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "First Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "First Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Isabe",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Isabe",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#first-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.664Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:28.634Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "Isabe",
+      "tag": "input",
+      "text": "Isabe",
+      "accessibleName": "First Name",
+      "labelText": "",
+      "id": "first-name",
+      "name": "firstName",
+      "role": "textbox",
+      "placeholder": "First Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#first-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#first-name",
+          "raw": "first-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"firstName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "First Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "First Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Isabe",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Isabe",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#first-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.667Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:28.781Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "Isabel",
+      "tag": "input",
+      "text": "Isabela",
+      "accessibleName": "First Name",
+      "labelText": "",
+      "id": "first-name",
+      "name": "firstName",
+      "role": "textbox",
+      "placeholder": "First Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#first-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#first-name",
+          "raw": "first-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"firstName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "First Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "First Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Isabela",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Isabela",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#first-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.670Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:28.937Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "Isabela",
+      "tag": "input",
+      "text": "Isabela",
+      "accessibleName": "First Name",
+      "labelText": "",
+      "id": "first-name",
+      "name": "firstName",
+      "role": "textbox",
+      "placeholder": "First Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#first-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#first-name",
+          "raw": "first-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"firstName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "First Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "First Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Isabela",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Isabela",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#first-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "intent": "ecommerce_checkout",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.678Z",
+      "replay": {
+        "success": false,
+        "message": "click_failed",
+        "sourceTimestamp": "2026-06-07T05:36:30.130Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "input",
+      "text": "",
+      "accessibleName": "lastName",
+      "labelText": "",
+      "id": "last-name",
+      "name": "lastName",
+      "role": "textbox",
+      "placeholder": "Last Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "input_error form_input",
+      "dataProductId": "",
+      "formAction": "https://www.saucedemo.com/checkout-step-one.html",
+      "formMethod": "get",
+      "nearbyText": "",
+      "css": "input#last-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#last-name",
+          "raw": "last-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"lastName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Last Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "lastName",
+          "score": 88
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#last-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.682Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:30.620Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "M",
+      "tag": "input",
+      "text": "Mo",
+      "accessibleName": "Last Name",
+      "labelText": "",
+      "id": "last-name",
+      "name": "lastName",
+      "role": "textbox",
+      "placeholder": "Last Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#last-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#last-name",
+          "raw": "last-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"lastName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Last Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Last Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Mo",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Mo",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#last-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.686Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:30.830Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "Mo",
+      "tag": "input",
+      "text": "Mo",
+      "accessibleName": "Last Name",
+      "labelText": "",
+      "id": "last-name",
+      "name": "lastName",
+      "role": "textbox",
+      "placeholder": "Last Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#last-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#last-name",
+          "raw": "last-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"lastName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Last Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Last Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Mo",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Mo",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#last-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.690Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:30.956Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "Mon",
+      "tag": "input",
+      "text": "Monte",
+      "accessibleName": "Last Name",
+      "labelText": "",
+      "id": "last-name",
+      "name": "lastName",
+      "role": "textbox",
+      "placeholder": "Last Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#last-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#last-name",
+          "raw": "last-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"lastName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Last Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Last Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Monte",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Monte",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#last-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.695Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:31.117Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "Mont",
+      "tag": "input",
+      "text": "Monte",
+      "accessibleName": "Last Name",
+      "labelText": "",
+      "id": "last-name",
+      "name": "lastName",
+      "role": "textbox",
+      "placeholder": "Last Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#last-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#last-name",
+          "raw": "last-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"lastName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Last Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Last Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Monte",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Monte",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#last-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.700Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:31.137Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "Monte",
+      "tag": "input",
+      "text": "Monte",
+      "accessibleName": "Last Name",
+      "labelText": "",
+      "id": "last-name",
+      "name": "lastName",
+      "role": "textbox",
+      "placeholder": "Last Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#last-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#last-name",
+          "raw": "last-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"lastName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Last Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Last Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Monte",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Monte",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#last-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.703Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:31.688Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "Montem",
+      "tag": "input",
+      "text": "Montema",
+      "accessibleName": "Last Name",
+      "labelText": "",
+      "id": "last-name",
+      "name": "lastName",
+      "role": "textbox",
+      "placeholder": "Last Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#last-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#last-name",
+          "raw": "last-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"lastName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Last Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Last Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Montema",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Montema",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#last-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.706Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:31.764Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "Montema",
+      "tag": "input",
+      "text": "Montema",
+      "accessibleName": "Last Name",
+      "labelText": "",
+      "id": "last-name",
+      "name": "lastName",
+      "role": "textbox",
+      "placeholder": "Last Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#last-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#last-name",
+          "raw": "last-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"lastName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Last Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Last Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Montema",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Montema",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#last-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.713Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:31.997Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "Montemay",
+      "tag": "input",
+      "text": "Montemayr",
+      "accessibleName": "Last Name",
+      "labelText": "",
+      "id": "last-name",
+      "name": "lastName",
+      "role": "textbox",
+      "placeholder": "Last Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#last-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#last-name",
+          "raw": "last-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"lastName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Last Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Last Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Montemayr",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Montemayr",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#last-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.717Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:32.285Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "Montemayr",
+      "tag": "input",
+      "text": "Montemayr",
+      "accessibleName": "Last Name",
+      "labelText": "",
+      "id": "last-name",
+      "name": "lastName",
+      "role": "textbox",
+      "placeholder": "Last Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#last-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#last-name",
+          "raw": "last-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"lastName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Last Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Last Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Montemayr",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Montemayr",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#last-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.721Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:32.971Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "Montemay",
+      "tag": "input",
+      "text": "Montemay",
+      "accessibleName": "Last Name",
+      "labelText": "",
+      "id": "last-name",
+      "name": "lastName",
+      "role": "textbox",
+      "placeholder": "Last Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#last-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#last-name",
+          "raw": "last-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"lastName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Last Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Last Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Montemay",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Montemay",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#last-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.724Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:33.245Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "Montemayo",
+      "tag": "input",
+      "text": "Montemayor",
+      "accessibleName": "Last Name",
+      "labelText": "",
+      "id": "last-name",
+      "name": "lastName",
+      "role": "textbox",
+      "placeholder": "Last Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#last-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#last-name",
+          "raw": "last-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"lastName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Last Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Last Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Montemayor",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Montemayor",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#last-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_name",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.728Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:33.400Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "Montemayor",
+      "tag": "input",
+      "text": "Montemayor",
+      "accessibleName": "Last Name",
+      "labelText": "",
+      "id": "last-name",
+      "name": "lastName",
+      "role": "textbox",
+      "placeholder": "Last Name",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#last-name",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#last-name",
+          "raw": "last-name",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"lastName\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Last Name",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Last Name",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Montemayor",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Montemayor",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#last-name",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "intent": "ecommerce_checkout",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.731Z",
+      "replay": {
+        "success": false,
+        "message": "click_failed",
+        "sourceTimestamp": "2026-06-07T05:36:34.697Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "input",
+      "text": "",
+      "accessibleName": "postalCode",
+      "labelText": "",
+      "id": "postal-code",
+      "name": "postalCode",
+      "role": "textbox",
+      "placeholder": "Zip/Postal Code",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "input_error form_input",
+      "dataProductId": "",
+      "formAction": "https://www.saucedemo.com/checkout-step-one.html",
+      "formMethod": "get",
+      "nearbyText": "",
+      "css": "input#postal-code",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#postal-code",
+          "raw": "postal-code",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"postalCode\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Zip/Postal Code",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "postalCode",
+          "score": 88
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#postal-code",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_text",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.734Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:35.234Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "6",
+      "tag": "input",
+      "text": "64",
+      "accessibleName": "Zip/Postal Code",
+      "labelText": "",
+      "id": "postal-code",
+      "name": "postalCode",
+      "role": "textbox",
+      "placeholder": "Zip/Postal Code",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#postal-code",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#postal-code",
+          "raw": "postal-code",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"postalCode\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Zip/Postal Code",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Zip/Postal Code",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "64",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "64",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#postal-code",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_text",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.737Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:35.555Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "64",
+      "tag": "input",
+      "text": "64",
+      "accessibleName": "Zip/Postal Code",
+      "labelText": "",
+      "id": "postal-code",
+      "name": "postalCode",
+      "role": "textbox",
+      "placeholder": "Zip/Postal Code",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#postal-code",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#postal-code",
+          "raw": "postal-code",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"postalCode\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Zip/Postal Code",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Zip/Postal Code",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "64",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "64",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#postal-code",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_text",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.741Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:35.757Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "644",
+      "tag": "input",
+      "text": "6441",
+      "accessibleName": "Zip/Postal Code",
+      "labelText": "",
+      "id": "postal-code",
+      "name": "postalCode",
+      "role": "textbox",
+      "placeholder": "Zip/Postal Code",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#postal-code",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#postal-code",
+          "raw": "postal-code",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"postalCode\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Zip/Postal Code",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Zip/Postal Code",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "6441",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "6441",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#postal-code",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_text",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.744Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:35.939Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "6441",
+      "tag": "input",
+      "text": "64410",
+      "accessibleName": "Zip/Postal Code",
+      "labelText": "",
+      "id": "postal-code",
+      "name": "postalCode",
+      "role": "textbox",
+      "placeholder": "Zip/Postal Code",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#postal-code",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#postal-code",
+          "raw": "postal-code",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"postalCode\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Zip/Postal Code",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Zip/Postal Code",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "64410",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "64410",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#postal-code",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "intent": "fill_text",
+      "url": "https://www.saucedemo.com/checkout-step-one.html",
+      "timestamp": "2026-06-07T05:42:01.747Z",
+      "replay": {
+        "success": false,
+        "message": "fill_failed",
+        "sourceTimestamp": "2026-06-07T05:36:36.136Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "64410",
+      "tag": "input",
+      "text": "64410",
+      "accessibleName": "Zip/Postal Code",
+      "labelText": "",
+      "id": "postal-code",
+      "name": "postalCode",
+      "role": "textbox",
+      "placeholder": "Zip/Postal Code",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "text",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "input#postal-code",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#postal-code",
+          "raw": "postal-code",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"postalCode\"]",
+          "score": 92
+        },
+        {
+          "strategy": "placeholder",
+          "selector": "Zip/Postal Code",
+          "score": 90
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "Zip/Postal Code",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "textbox",
+          "name": "64410",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"text\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "64410",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#postal-code",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "navigation",
+      "intent": "navigate",
+      "url": "https://www.saucedemo.com/checkout-step-two.html",
+      "timestamp": "2026-06-07T05:42:01.748Z",
+      "replay": {
+        "success": false,
+        "message": "page.goto: Target page, context or browser has been closed",
+        "sourceTimestamp": "2026-06-07T05:36:37.512Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "",
+      "text": "",
+      "accessibleName": "",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "",
+      "selectorCandidates": []
+    },
+    {
+      "type": "click",
+      "intent": "ecommerce_checkout",
+      "url": "https://www.saucedemo.com/checkout-step-two.html",
+      "timestamp": "2026-06-07T05:42:01.752Z",
+      "replay": {
+        "success": false,
+        "message": "click_failed",
+        "sourceTimestamp": "2026-06-07T05:36:37.509Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "input",
+      "text": "Continue",
+      "accessibleName": "Continue",
+      "labelText": "",
+      "id": "continue",
+      "name": "continue",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "submit",
+      "valueAttr": "Continue",
+      "className": "submit-button btn btn_primary cart_button btn_action",
+      "dataProductId": "",
+      "formAction": "https://www.saucedemo.com/checkout-step-one.html",
+      "formMethod": "get",
+      "nearbyText": "",
+      "css": "input#continue",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#continue",
+          "raw": "continue",
+          "score": 96
+        },
+        {
+          "strategy": "name_value",
+          "selector": "[name=\"continue\"][value=\"Continue\"]",
+          "score": 98
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"continue\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Continue",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Continue",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"submit\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Continue",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#continue",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "submit",
+      "intent": "ecommerce_checkout",
+      "url": "https://www.saucedemo.com/checkout-step-two.html",
+      "timestamp": "2026-06-07T05:42:01.755Z",
+      "replay": {
+        "success": false,
+        "message": "page.goto: Target page, context or browser has been closed",
+        "sourceTimestamp": "2026-06-07T05:36:37.509Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "input",
+      "text": "Continue",
+      "accessibleName": "Continue",
+      "labelText": "",
+      "id": "continue",
+      "name": "continue",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "submit",
+      "valueAttr": "Continue",
+      "className": "submit-button btn btn_primary cart_button btn_action",
+      "dataProductId": "",
+      "formAction": "https://www.saucedemo.com/checkout-step-one.html",
+      "formMethod": "get",
+      "nearbyText": "",
+      "css": "input#continue",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#continue",
+          "raw": "continue",
+          "score": 96
+        },
+        {
+          "strategy": "name_value",
+          "selector": "[name=\"continue\"][value=\"Continue\"]",
+          "score": 98
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"continue\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Continue",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Continue",
+          "score": 86
+        },
+        {
+          "strategy": "input_type",
+          "selector": "input[type=\"submit\"]",
+          "score": 76
+        },
+        {
+          "strategy": "text",
+          "selector": "Continue",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "input#continue",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "navigation",
+      "intent": "navigate",
+      "url": "https://www.saucedemo.com/checkout-complete.html",
+      "timestamp": "2026-06-07T05:42:01.756Z",
+      "replay": {
+        "success": false,
+        "message": "page.goto: Target page, context or browser has been closed",
+        "sourceTimestamp": "2026-06-07T05:36:39.522Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "",
+      "text": "",
+      "accessibleName": "",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "",
+      "selectorCandidates": []
+    },
+    {
+      "type": "click",
+      "intent": "click_button",
+      "url": "https://www.saucedemo.com/checkout-complete.html",
+      "timestamp": "2026-06-07T05:42:01.760Z",
+      "replay": {
+        "success": false,
+        "message": "click_failed",
+        "sourceTimestamp": "2026-06-07T05:36:39.519Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "button",
+      "text": "Finish",
+      "accessibleName": "Finish",
+      "labelText": "",
+      "id": "finish",
+      "name": "finish",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "btn btn_action btn_medium cart_button",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "button#finish",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#finish",
+          "raw": "finish",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"finish\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Finish",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Finish",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Finish",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "button#finish",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "type": "navigation",
+      "intent": "navigate",
+      "url": "https://www.saucedemo.com/inventory.html",
+      "timestamp": "2026-06-07T05:42:01.762Z",
+      "replay": {
+        "success": false,
+        "message": "page.goto: Target page, context or browser has been closed",
+        "sourceTimestamp": "2026-06-07T05:36:42.597Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "",
+      "text": "",
+      "accessibleName": "",
+      "labelText": "",
+      "id": "",
+      "name": "",
+      "role": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "",
+      "selectorCandidates": []
+    },
+    {
+      "type": "click",
+      "intent": "click_button",
+      "url": "https://www.saucedemo.com/inventory.html",
+      "timestamp": "2026-06-07T05:42:01.765Z",
+      "replay": {
+        "success": false,
+        "message": "click_failed",
+        "sourceTimestamp": "2026-06-07T05:36:42.594Z",
+        "urlAfter": "https://www.saucedemo.com/"
+      },
+      "value": "",
+      "tag": "button",
+      "text": "Back Home",
+      "accessibleName": "Back Home",
+      "labelText": "",
+      "id": "back-to-products",
+      "name": "back-to-products",
+      "role": "button",
+      "placeholder": "",
+      "ariaLabel": "",
+      "href": "",
+      "typeAttr": "",
+      "valueAttr": "",
+      "className": "btn btn_primary btn_small",
+      "dataProductId": "",
+      "formAction": "",
+      "formMethod": "",
+      "nearbyText": "",
+      "css": "button#back-to-products",
+      "selectorCandidates": [
+        {
+          "strategy": "id",
+          "selector": "#back-to-products",
+          "raw": "back-to-products",
+          "score": 96
+        },
+        {
+          "strategy": "name",
+          "selector": "[name=\"back-to-products\"]",
+          "score": 92
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Back Home",
+          "score": 88
+        },
+        {
+          "strategy": "role_name",
+          "role": "button",
+          "name": "Back Home",
+          "score": 86
+        },
+        {
+          "strategy": "text",
+          "selector": "Back Home",
+          "score": 70
+        },
+        {
+          "strategy": "css_fallback",
+          "selector": "button#back-to-products",
+          "score": 40
+        }
+      ]
+    }
+  ],
+  "replayErrors": [
+    {
+      "index": 9,
+      "type": "submit",
+      "intent": "login",
+      "message": "page.goto: Target page, context or browser has been closed",
+      "timestamp": "2026-06-07T05:42:01.614Z"
+    },
+    {
+      "index": 13,
+      "type": "navigation",
+      "intent": "navigate",
+      "message": "page.goto: Target page, context or browser has been closed",
+      "timestamp": "2026-06-07T05:42:01.621Z"
+    },
+    {
+      "index": 16,
+      "type": "navigation",
+      "intent": "navigate",
+      "message": "page.goto: Target page, context or browser has been closed",
+      "timestamp": "2026-06-07T05:42:01.627Z"
+    },
+    {
+      "index": 18,
+      "type": "navigation",
+      "intent": "navigate",
+      "message": "page.goto: Target page, context or browser has been closed",
+      "timestamp": "2026-06-07T05:42:01.630Z"
+    },
+    {
+      "index": 21,
+      "type": "navigation",
+      "intent": "navigate",
+      "message": "page.goto: Target page, context or browser has been closed",
+      "timestamp": "2026-06-07T05:42:01.637Z"
+    },
+    {
+      "index": 50,
+      "type": "navigation",
+      "intent": "navigate",
+      "message": "page.goto: Target page, context or browser has been closed",
+      "timestamp": "2026-06-07T05:42:01.748Z"
+    },
+    {
+      "index": 52,
+      "type": "submit",
+      "intent": "ecommerce_checkout",
+      "message": "page.goto: Target page, context or browser has been closed",
+      "timestamp": "2026-06-07T05:42:01.755Z"
+    },
+    {
+      "index": 53,
+      "type": "navigation",
+      "intent": "navigate",
+      "message": "page.goto: Target page, context or browser has been closed",
+      "timestamp": "2026-06-07T05:42:01.756Z"
+    },
+    {
+      "index": 55,
+      "type": "navigation",
+      "intent": "navigate",
+      "message": "page.goto: Target page, context or browser has been closed",
+      "timestamp": "2026-06-07T05:42:01.762Z"
+    }
+  ],
+  "extractedBusinessData": {
+    "tables": [],
+    "suppliers": []
+  }
+}
