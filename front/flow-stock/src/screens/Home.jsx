@@ -266,7 +266,7 @@ const Home = ({ user, onLogout = () => {} }) => {
       .then((res) => setModelos(res.data.modelos || []))
       .catch((err) => {
         console.error("Error cargando modelos:", err);
-        setError("No se pudieron cargar los modelos. ¿Está corriendo el backend?");
+        setError("No se pudieron cargar los modelos. Intenta de nuevo.");
       })
       .finally(() => setLoading(false));
   };
