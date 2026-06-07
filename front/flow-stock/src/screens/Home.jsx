@@ -5,6 +5,7 @@ import { entrenar, getModelos } from "../api/api";
 const FormNewModel = ({ onClose, onSuccess }) => {
   const [name, setName] = useState("");
   const [description, setDescription] = useState("");
+  const [formato, setFormato] = useState("");
   const [url, setUrl] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
@@ -39,7 +40,7 @@ const FormNewModel = ({ onClose, onSuccess }) => {
     setError(null);
     setLoading(true);
     try {
-      await entrenar(name, description, url);
+      await entrenar(name, description, formato, url);
       onSuccess();
       onClose();
     } catch (err) {
@@ -53,6 +54,7 @@ const FormNewModel = ({ onClose, onSuccess }) => {
   const handleReset = () => {
     setName("");
     setDescription("");
+    setFormato("");
     setUrl("");
     setError(null);
   };
@@ -71,6 +73,11 @@ const FormNewModel = ({ onClose, onSuccess }) => {
           Descripción:
           <input style={styles.input} type="text" placeholder="Descripción breve"
             value={description} onChange={(e) => setDescription(e.target.value)} required />
+        </label>
+        <label style={styles.label}>
+          Formato de visualización:
+          <input style={styles.input} type="text" placeholder='Ej: tabla con columnas de producto y precio'
+            value={formato} onChange={(e) => setFormato(e.target.value)} required />
         </label>
         <label style={styles.label}>
           URL:

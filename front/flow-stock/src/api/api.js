@@ -11,10 +11,11 @@ export const getModelos = () => api.get("/modelos");
 export const getModelo = (nombre) => api.get(`/modelos/${nombre}`);
 
 // Entrenar un agente
-export const entrenar = (nombre, descripcion, url) =>
+export const entrenar = (nombre, descripcion, formato_visualizacion, url) =>
   api.post("/entrena", {
     nombre,
     descripcion,
+    formato_visualizacion,
     playwright_actions: [
       {
         sessionId: "session-1",
