@@ -78,14 +78,58 @@ const FormModel = () => {
         //         ))
         //     )}
         // </div>
-        <div style={styles.container}>
-            <h2 style={styles.title}>Nombre del modelo</h2>
-            <div style={styles.card}>
-                <h3 style={styles.itemTitle}>Descripcion</h3>
-                <p style={styles.itemDescription}>Descripción de prueba</p>
-                <h3 style={styles.itemAttributes}>Atributos</h3>
-                <p style={styles.itemAttributes}>Nombre, precio, SKU</p>
-            </div>
+        // <div style={styles.container}>
+        //     <h2 style={styles.title}>Nombre del modelo</h2>
+        //     <div style={styles.card}>
+        //         <h3 style={styles.itemTitle}>Descripcion</h3>
+        //         <p style={styles.itemDescription}>Descripción de prueba</p>
+        //         <h3 style={styles.itemAttributes}>Atributos</h3>
+        //         <p style={styles.itemAttributes}>Nombre, precio, SKU</p>
+        //     </div>
+        // </div>
+
+        <div>
+            <h2 style={styles.title}>Nuevo Modelo</h2>
+      <form style={styles.form} onSubmit={handleSubmit}>
+        <label style={styles.label}>
+          Nombre:
+          <input
+            style={styles.input}
+            type="text"
+            placeholder="Nombre del modelo"
+            value={name}
+            onChange={(e) => setName(e.target.value)}
+          />
+        </label>
+        <label style={styles.label}>
+          Descripción:
+          <input
+            style={styles.input}
+            type="text"
+            placeholder="Descripción breve"
+            value={description}
+            onChange={(e) => setDescription(e.target.value)}
+          />
+        </label>
+        <label style={styles.label}>
+          Atributos:
+          <input
+            style={styles.input}
+            type="text"
+            placeholder="URL del modelo"
+            value={url}
+            onChange={(e) => setUrl(e.target.value)}
+          />
+        </label>
+        <div style={styles.btnRow}>
+          <button style={styles.btnPrimary} type="submit">
+            Grabar
+          </button>
+          <button style={styles.btnSecondary} type="button" onClick={handleReset}>
+            Limpiar
+          </button>
+        </div>
+      </form>
         </div>
     );
 };
