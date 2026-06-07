@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import logoArca from "../assets/arca-logo.png";
 
 const Login = ({ onLogin }) => {
   const [email, setEmail] = useState("");
@@ -8,26 +9,34 @@ const Login = ({ onLogin }) => {
 
   const validate = () => {
     if (!email) return "El email es requerido.";
-    // simple email regex
+
     const re = /\S+@\S+\.\S+/;
     if (!re.test(email)) return "Email no válido.";
+
     if (!password) return "La contraseña es requerida.";
-    if (password.length < 6)
+
+    if (password.length < 6) {
       return "La contraseña debe tener al menos 6 caracteres.";
+    }
+
     return "";
   };
 
   const handleSubmit = async (e) => {
     e.preventDefault();
     setError("");
+
     const v = validate();
     if (v) return setError(v);
+
     setLoading(true);
+
     try {
-      // placeholder: simulate login request
       await new Promise((res) => setTimeout(res, 800));
-      // call parent onLogin if provided
-      if (onLogin) onLogin({ email });
+
+      if (onLogin) {
+        onLogin({ email });
+      }
     } catch (err) {
       setError("Error al iniciar sesión. Intente nuevamente.");
     } finally {
@@ -36,13 +45,21 @@ const Login = ({ onLogin }) => {
   };
 
   return (
-    <div style={styles.container}>
+    <div style={styles.page}>
+      <div style={styles.overlay} />
+
       <form onSubmit={handleSubmit} style={styles.card} aria-label="login-form">
-        <h2 style={styles.title}>Iniciar sesión</h2>
+        <div style={styles.logoContainer}>
+          <img src={logoArca} alt="Arca Continental" style={styles.logo} />
+        </div>
+
+        <h2 style={styles.title}>Bienvenido</h2>
+        <p style={styles.subtitle}>Inicia sesión para continuar</p>
+
         {error && <div style={styles.error}>{error}</div>}
 
         <label style={styles.label} htmlFor="email">
-          Correo
+          Correo electrónico
         </label>
         <input
           id="email"
@@ -50,7 +67,7 @@ const Login = ({ onLogin }) => {
           value={email}
           onChange={(e) => setEmail(e.target.value)}
           style={styles.input}
-          placeholder="tu@ejemplo.com"
+          placeholder="usuario@arcacontal.com"
         />
 
         <label style={styles.label} htmlFor="password">
@@ -65,69 +82,137 @@ const Login = ({ onLogin }) => {
           placeholder="••••••••"
         />
 
-        <button type="submit" style={styles.button} disabled={loading}>
+        <button
+          type="submit"
+          style={{
+            ...styles.button,
+            opacity: loading ? 0.7 : 1,
+            cursor: loading ? "not-allowed" : "pointer",
+          }}
+          disabled={loading}
+        >
           {loading ? "Ingresando..." : "Ingresar"}
         </button>
+
+        <p style={styles.footerText}>
+          Automatización inteligente para procesos comerciales
+        </p>
       </form>
     </div>
   );
 };
 
 const styles = {
-  container: {
+  page: {
+    minHeight: "100vh",
     display: "flex",
     alignItems: "center",
     justifyContent: "center",
-    height: "100vh",
-    background: "#f5f7fb",
-    padding: 16,
+    padding: 20,
+    position: "relative",
+    overflow: "hidden",
+    background:
+      "linear-gradient(135deg, #8B0000 0%, #C8102E 45%, #E32636 100%)",
+    fontFamily:
+      "'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
   },
+
+  overlay: {
+    position: "absolute",
+    inset: 0,
+    background:
+      "radial-gradient(circle at top left, rgba(255,255,255,0.18), transparent 35%), radial-gradient(circle at bottom right, rgba(0,0,0,0.18), transparent 35%)",
+  },
+
   card: {
-    width: 360,
+    width: 390,
     maxWidth: "100%",
-    background: "#fff",
-    padding: 24,
-    borderRadius: 8,
-    boxShadow: "0 6px 18px rgba(20,30,50,0.08)",
+    background: "#ffffff",
+    padding: "34px 30px",
+    borderRadius: 18,
+    boxShadow: "0 24px 60px rgba(0, 0, 0, 0.25)",
     display: "flex",
     flexDirection: "column",
+    position: "relative",
+    zIndex: 1,
+    borderTop: "6px solid #C8102E",
   },
+
+  logoContainer: {
+    display: "flex",
+    justifyContent: "center",
+    marginBottom: 18,
+  },
+
+  logo: {
+    width: 190,
+    maxWidth: "80%",
+    objectFit: "contain",
+  },
+
   title: {
     margin: 0,
-    marginBottom: 12,
     textAlign: "center",
-    color: "#102a43",
+    color: "#1F2933",
+    fontSize: 26,
+    fontWeight: 700,
   },
+
+  subtitle: {
+    marginTop: 8,
+    marginBottom: 22,
+    textAlign: "center",
+    color: "#667085",
+    fontSize: 14,
+  },
+
   label: {
     fontSize: 13,
-    marginTop: 8,
-    marginBottom: 6,
-    color: "#334e68",
-  },
-  input: {
-    padding: "10px 12px",
-    fontSize: 14,
-    borderRadius: 6,
-    border: "1px solid #d9e2ec",
-    outline: "none",
-  },
-  button: {
-    marginTop: 18,
-    padding: "10px 12px",
-    background: "#0b69ff",
-    color: "#fff",
-    border: "none",
-    borderRadius: 6,
-    cursor: "pointer",
+    marginTop: 10,
+    marginBottom: 7,
+    color: "#344054",
     fontWeight: 600,
   },
+
+  input: {
+    padding: "12px 14px",
+    fontSize: 14,
+    borderRadius: 10,
+    border: "1px solid #D0D5DD",
+    outline: "none",
+    background: "#F9FAFB",
+    color: "#1F2933",
+  },
+
+  button: {
+    marginTop: 22,
+    padding: "13px 14px",
+    background: "#C8102E",
+    color: "#ffffff",
+    border: "none",
+    borderRadius: 10,
+    fontWeight: 700,
+    fontSize: 15,
+    transition: "all 0.2s ease",
+    boxShadow: "0 8px 18px rgba(200, 16, 46, 0.35)",
+  },
+
   error: {
-    background: "#ffe8e8",
-    color: "#9b2c2c",
-    padding: "8px 10px",
-    borderRadius: 6,
-    marginBottom: 10,
+    background: "#FEE2E2",
+    color: "#991B1B",
+    padding: "10px 12px",
+    borderRadius: 10,
+    marginBottom: 14,
     fontSize: 13,
+    border: "1px solid #FECACA",
+  },
+
+  footerText: {
+    marginTop: 20,
+    marginBottom: 0,
+    textAlign: "center",
+    color: "#98A2B3",
+    fontSize: 12,
   },
 };
 
